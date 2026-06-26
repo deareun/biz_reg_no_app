@@ -1,0 +1,4034 @@
+{
+  "A001001": {
+    "hpsn_mct_zcd_nm": "백화점",
+    "hpsn_ry_bg_zcd": "A",
+    "hpsn_ry_mi_zcd": "A001",
+    "hpsn_ry_sl_zcd": "A001001",
+    "hpsn_ry_bg_cz_nm": "종합유통",
+    "hpsn_ry_mi_cz_nm": "백화점",
+    "hpsn_ry_sl_cz_nm": "백화점"
+  },
+  "A002001": {
+    "hpsn_mct_zcd_nm": "대형마트",
+    "hpsn_ry_bg_zcd": "A",
+    "hpsn_ry_mi_zcd": "A002",
+    "hpsn_ry_sl_zcd": "A002001",
+    "hpsn_ry_bg_cz_nm": "종합유통",
+    "hpsn_ry_mi_cz_nm": "마트/슈퍼마켓",
+    "hpsn_ry_sl_cz_nm": "대형마트"
+  },
+  "A002002": {
+    "hpsn_mct_zcd_nm": "슈퍼마켓 기업형",
+    "hpsn_ry_bg_zcd": "A",
+    "hpsn_ry_mi_zcd": "A002",
+    "hpsn_ry_sl_zcd": "A002002",
+    "hpsn_ry_bg_cz_nm": "종합유통",
+    "hpsn_ry_mi_cz_nm": "마트/슈퍼마켓",
+    "hpsn_ry_sl_cz_nm": "슈퍼마켓 기업형"
+  },
+  "A002003": {
+    "hpsn_mct_zcd_nm": "슈퍼마켓 일반형",
+    "hpsn_ry_bg_zcd": "A",
+    "hpsn_ry_mi_zcd": "A002",
+    "hpsn_ry_sl_zcd": "A002003",
+    "hpsn_ry_bg_cz_nm": "종합유통",
+    "hpsn_ry_mi_cz_nm": "마트/슈퍼마켓",
+    "hpsn_ry_sl_cz_nm": "슈퍼마켓 일반형"
+  },
+  "A003001": {
+    "hpsn_mct_zcd_nm": "아울렛",
+    "hpsn_ry_bg_zcd": "A",
+    "hpsn_ry_mi_zcd": "A003",
+    "hpsn_ry_sl_zcd": "A003001",
+    "hpsn_ry_bg_cz_nm": "종합유통",
+    "hpsn_ry_mi_cz_nm": "아울렛",
+    "hpsn_ry_sl_cz_nm": "아울렛"
+  },
+  "A004001": {
+    "hpsn_mct_zcd_nm": "편의점",
+    "hpsn_ry_bg_zcd": "A",
+    "hpsn_ry_mi_zcd": "A004",
+    "hpsn_ry_sl_zcd": "A004001",
+    "hpsn_ry_bg_cz_nm": "종합유통",
+    "hpsn_ry_mi_cz_nm": "편의점",
+    "hpsn_ry_sl_cz_nm": "편의점"
+  },
+  "A004002": {
+    "hpsn_mct_zcd_nm": "무인편의점",
+    "hpsn_ry_bg_zcd": "A",
+    "hpsn_ry_mi_zcd": "A004",
+    "hpsn_ry_sl_zcd": "A004002",
+    "hpsn_ry_bg_cz_nm": "종합유통",
+    "hpsn_ry_mi_cz_nm": "편의점",
+    "hpsn_ry_sl_cz_nm": "무인편의점"
+  },
+  "A005001": {
+    "hpsn_mct_zcd_nm": "보훈매장",
+    "hpsn_ry_bg_zcd": "A",
+    "hpsn_ry_mi_zcd": "A005",
+    "hpsn_ry_sl_zcd": "A005001",
+    "hpsn_ry_bg_cz_nm": "종합유통",
+    "hpsn_ry_mi_cz_nm": "전용매장",
+    "hpsn_ry_sl_cz_nm": "보훈매장"
+  },
+  "A005002": {
+    "hpsn_mct_zcd_nm": "복지매점",
+    "hpsn_ry_bg_zcd": "A",
+    "hpsn_ry_mi_zcd": "A005",
+    "hpsn_ry_sl_zcd": "A005002",
+    "hpsn_ry_bg_cz_nm": "종합유통",
+    "hpsn_ry_mi_cz_nm": "전용매장",
+    "hpsn_ry_sl_cz_nm": "복지매점"
+  },
+  "A005003": {
+    "hpsn_mct_zcd_nm": "사원전용매장",
+    "hpsn_ry_bg_zcd": "A",
+    "hpsn_ry_mi_zcd": "A005",
+    "hpsn_ry_sl_zcd": "A005003",
+    "hpsn_ry_bg_cz_nm": "종합유통",
+    "hpsn_ry_mi_cz_nm": "전용매장",
+    "hpsn_ry_sl_cz_nm": "사원전용매장"
+  },
+  "A005004": {
+    "hpsn_mct_zcd_nm": "연금매장",
+    "hpsn_ry_bg_zcd": "A",
+    "hpsn_ry_mi_zcd": "A005",
+    "hpsn_ry_sl_zcd": "A005004",
+    "hpsn_ry_bg_cz_nm": "종합유통",
+    "hpsn_ry_mi_cz_nm": "전용매장",
+    "hpsn_ry_sl_cz_nm": "연금매장"
+  },
+  "A006001": {
+    "hpsn_mct_zcd_nm": "수입품",
+    "hpsn_ry_bg_zcd": "A",
+    "hpsn_ry_mi_zcd": "A006",
+    "hpsn_ry_sl_zcd": "A006001",
+    "hpsn_ry_bg_cz_nm": "종합유통",
+    "hpsn_ry_mi_cz_nm": "수입품",
+    "hpsn_ry_sl_cz_nm": "수입품"
+  },
+  "A007001": {
+    "hpsn_mct_zcd_nm": "다단계",
+    "hpsn_ry_bg_zcd": "A",
+    "hpsn_ry_mi_zcd": "A007",
+    "hpsn_ry_sl_zcd": "A007001",
+    "hpsn_ry_bg_cz_nm": "종합유통",
+    "hpsn_ry_mi_cz_nm": "다단계판매",
+    "hpsn_ry_sl_cz_nm": "다단계"
+  },
+  "A008001": {
+    "hpsn_mct_zcd_nm": "면세점",
+    "hpsn_ry_bg_zcd": "A",
+    "hpsn_ry_mi_zcd": "A008",
+    "hpsn_ry_sl_zcd": "A008001",
+    "hpsn_ry_bg_cz_nm": "종합유통",
+    "hpsn_ry_mi_cz_nm": "면세점",
+    "hpsn_ry_sl_cz_nm": "면세점"
+  },
+  "A009001": {
+    "hpsn_mct_zcd_nm": "전자상거래",
+    "hpsn_ry_bg_zcd": "A",
+    "hpsn_ry_mi_zcd": "A009",
+    "hpsn_ry_sl_zcd": "A009001",
+    "hpsn_ry_bg_cz_nm": "종합유통",
+    "hpsn_ry_mi_cz_nm": "온라인",
+    "hpsn_ry_sl_cz_nm": "전자상거래"
+  },
+  "A009002": {
+    "hpsn_mct_zcd_nm": "홈쇼핑",
+    "hpsn_ry_bg_zcd": "A",
+    "hpsn_ry_mi_zcd": "A009",
+    "hpsn_ry_sl_zcd": "A009002",
+    "hpsn_ry_bg_cz_nm": "종합유통",
+    "hpsn_ry_mi_cz_nm": "온라인",
+    "hpsn_ry_sl_cz_nm": "홈쇼핑"
+  },
+  "A009003": {
+    "hpsn_mct_zcd_nm": "대형 이커머스",
+    "hpsn_ry_bg_zcd": "A",
+    "hpsn_ry_mi_zcd": "A009",
+    "hpsn_ry_sl_zcd": "A009003",
+    "hpsn_ry_bg_cz_nm": "종합유통",
+    "hpsn_ry_mi_cz_nm": "온라인",
+    "hpsn_ry_sl_cz_nm": "대형 이커머스"
+  },
+  "A009004": {
+    "hpsn_mct_zcd_nm": "온라인 기타",
+    "hpsn_ry_bg_zcd": "A",
+    "hpsn_ry_mi_zcd": "A009",
+    "hpsn_ry_sl_zcd": "A009004",
+    "hpsn_ry_bg_cz_nm": "종합유통",
+    "hpsn_ry_mi_cz_nm": "온라인",
+    "hpsn_ry_sl_cz_nm": "온라인 기타"
+  },
+  "A009005": {
+    "hpsn_mct_zcd_nm": "소형이커머스",
+    "hpsn_ry_bg_zcd": "A",
+    "hpsn_ry_mi_zcd": "A009",
+    "hpsn_ry_sl_zcd": "A009005",
+    "hpsn_ry_bg_cz_nm": "종합유통",
+    "hpsn_ry_mi_cz_nm": "온라인",
+    "hpsn_ry_sl_cz_nm": "소형이커머스"
+  },
+  "A009006": {
+    "hpsn_mct_zcd_nm": "중고장터",
+    "hpsn_ry_bg_zcd": "A",
+    "hpsn_ry_mi_zcd": "A009",
+    "hpsn_ry_sl_zcd": "A009006",
+    "hpsn_ry_bg_cz_nm": "종합유통",
+    "hpsn_ry_mi_cz_nm": "온라인",
+    "hpsn_ry_sl_cz_nm": "중고장터"
+  },
+  "A009007": {
+    "hpsn_mct_zcd_nm": "가격비교",
+    "hpsn_ry_bg_zcd": "A",
+    "hpsn_ry_mi_zcd": "A009",
+    "hpsn_ry_sl_zcd": "A009007",
+    "hpsn_ry_bg_cz_nm": "종합유통",
+    "hpsn_ry_mi_cz_nm": "온라인",
+    "hpsn_ry_sl_cz_nm": "가격비교"
+  },
+  "A009008": {
+    "hpsn_mct_zcd_nm": "모바일쿠폰",
+    "hpsn_ry_bg_zcd": "A",
+    "hpsn_ry_mi_zcd": "A009",
+    "hpsn_ry_sl_zcd": "A009008",
+    "hpsn_ry_bg_cz_nm": "종합유통",
+    "hpsn_ry_mi_cz_nm": "온라인",
+    "hpsn_ry_sl_cz_nm": "모바일쿠폰"
+  },
+  "B001001": {
+    "hpsn_mct_zcd_nm": "의류",
+    "hpsn_ry_bg_zcd": "B",
+    "hpsn_ry_mi_zcd": "B001",
+    "hpsn_ry_sl_zcd": "B001001",
+    "hpsn_ry_bg_cz_nm": "일반유통",
+    "hpsn_ry_mi_cz_nm": "의류",
+    "hpsn_ry_sl_cz_nm": "의류"
+  },
+  "B001002": {
+    "hpsn_mct_zcd_nm": "내의",
+    "hpsn_ry_bg_zcd": "B",
+    "hpsn_ry_mi_zcd": "B001",
+    "hpsn_ry_sl_zcd": "B001002",
+    "hpsn_ry_bg_cz_nm": "일반유통",
+    "hpsn_ry_mi_cz_nm": "의류",
+    "hpsn_ry_sl_cz_nm": "내의"
+  },
+  "B001003": {
+    "hpsn_mct_zcd_nm": "교복",
+    "hpsn_ry_bg_zcd": "B",
+    "hpsn_ry_mi_zcd": "B001",
+    "hpsn_ry_sl_zcd": "B001003",
+    "hpsn_ry_bg_cz_nm": "일반유통",
+    "hpsn_ry_mi_cz_nm": "의류",
+    "hpsn_ry_sl_cz_nm": "교복"
+  },
+  "B001004": {
+    "hpsn_mct_zcd_nm": "아동복/유아복",
+    "hpsn_ry_bg_zcd": "B",
+    "hpsn_ry_mi_zcd": "B001",
+    "hpsn_ry_sl_zcd": "B001004",
+    "hpsn_ry_bg_cz_nm": "일반유통",
+    "hpsn_ry_mi_cz_nm": "의류",
+    "hpsn_ry_sl_cz_nm": "아동복/유아복"
+  },
+  "B001005": {
+    "hpsn_mct_zcd_nm": "한복",
+    "hpsn_ry_bg_zcd": "B",
+    "hpsn_ry_mi_zcd": "B001",
+    "hpsn_ry_sl_zcd": "B001005",
+    "hpsn_ry_bg_cz_nm": "일반유통",
+    "hpsn_ry_mi_cz_nm": "의류",
+    "hpsn_ry_sl_cz_nm": "한복"
+  },
+  "B001006": {
+    "hpsn_mct_zcd_nm": "의류 대여",
+    "hpsn_ry_bg_zcd": "B",
+    "hpsn_ry_mi_zcd": "B001",
+    "hpsn_ry_sl_zcd": "B001006",
+    "hpsn_ry_bg_cz_nm": "일반유통",
+    "hpsn_ry_mi_cz_nm": "의류",
+    "hpsn_ry_sl_cz_nm": "의류 대여"
+  },
+  "B001007": {
+    "hpsn_mct_zcd_nm": "의류-기타",
+    "hpsn_ry_bg_zcd": "B",
+    "hpsn_ry_mi_zcd": "B001",
+    "hpsn_ry_sl_zcd": "B001007",
+    "hpsn_ry_bg_cz_nm": "일반유통",
+    "hpsn_ry_mi_cz_nm": "의류",
+    "hpsn_ry_sl_cz_nm": "의류-기타"
+  },
+  "B001008": {
+    "hpsn_mct_zcd_nm": "남성의류",
+    "hpsn_ry_bg_zcd": "B",
+    "hpsn_ry_mi_zcd": "B001",
+    "hpsn_ry_sl_zcd": "B001008",
+    "hpsn_ry_bg_cz_nm": "일반유통",
+    "hpsn_ry_mi_cz_nm": "의류",
+    "hpsn_ry_sl_cz_nm": "남성의류"
+  },
+  "B001009": {
+    "hpsn_mct_zcd_nm": "여성의류",
+    "hpsn_ry_bg_zcd": "B",
+    "hpsn_ry_mi_zcd": "B001",
+    "hpsn_ry_sl_zcd": "B001009",
+    "hpsn_ry_bg_cz_nm": "일반유통",
+    "hpsn_ry_mi_cz_nm": "의류",
+    "hpsn_ry_sl_cz_nm": "여성의류"
+  },
+  "B002001": {
+    "hpsn_mct_zcd_nm": "가구",
+    "hpsn_ry_bg_zcd": "B",
+    "hpsn_ry_mi_zcd": "B002",
+    "hpsn_ry_sl_zcd": "B002001",
+    "hpsn_ry_bg_cz_nm": "일반유통",
+    "hpsn_ry_mi_cz_nm": "가구",
+    "hpsn_ry_sl_cz_nm": "가구"
+  },
+  "B003001": {
+    "hpsn_mct_zcd_nm": "가전제품",
+    "hpsn_ry_bg_zcd": "B",
+    "hpsn_ry_mi_zcd": "B003",
+    "hpsn_ry_sl_zcd": "B003001",
+    "hpsn_ry_bg_cz_nm": "일반유통",
+    "hpsn_ry_mi_cz_nm": "전기/가전",
+    "hpsn_ry_sl_cz_nm": "가전제품"
+  },
+  "B003002": {
+    "hpsn_mct_zcd_nm": "영상/음향기기",
+    "hpsn_ry_bg_zcd": "B",
+    "hpsn_ry_mi_zcd": "B003",
+    "hpsn_ry_sl_zcd": "B003002",
+    "hpsn_ry_bg_cz_nm": "일반유통",
+    "hpsn_ry_mi_cz_nm": "전기/가전",
+    "hpsn_ry_sl_cz_nm": "영상/음향기기"
+  },
+  "B003003": {
+    "hpsn_mct_zcd_nm": "전기자재/장비",
+    "hpsn_ry_bg_zcd": "B",
+    "hpsn_ry_mi_zcd": "B003",
+    "hpsn_ry_sl_zcd": "B003003",
+    "hpsn_ry_bg_cz_nm": "일반유통",
+    "hpsn_ry_mi_cz_nm": "전기/가전",
+    "hpsn_ry_sl_cz_nm": "전기자재/장비"
+  },
+  "B003004": {
+    "hpsn_mct_zcd_nm": "조명기구",
+    "hpsn_ry_bg_zcd": "B",
+    "hpsn_ry_mi_zcd": "B003",
+    "hpsn_ry_sl_zcd": "B003004",
+    "hpsn_ry_bg_cz_nm": "일반유통",
+    "hpsn_ry_mi_cz_nm": "전기/가전",
+    "hpsn_ry_sl_cz_nm": "조명기구"
+  },
+  "B004001": {
+    "hpsn_mct_zcd_nm": "신차",
+    "hpsn_ry_bg_zcd": "B",
+    "hpsn_ry_mi_zcd": "B004",
+    "hpsn_ry_sl_zcd": "B004001",
+    "hpsn_ry_bg_cz_nm": "일반유통",
+    "hpsn_ry_mi_cz_nm": "자동차",
+    "hpsn_ry_sl_cz_nm": "신차"
+  },
+  "B004002": {
+    "hpsn_mct_zcd_nm": "수입차",
+    "hpsn_ry_bg_zcd": "B",
+    "hpsn_ry_mi_zcd": "B004",
+    "hpsn_ry_sl_zcd": "B004002",
+    "hpsn_ry_bg_cz_nm": "일반유통",
+    "hpsn_ry_mi_cz_nm": "자동차",
+    "hpsn_ry_sl_cz_nm": "수입차"
+  },
+  "B004003": {
+    "hpsn_mct_zcd_nm": "오토바이",
+    "hpsn_ry_bg_zcd": "B",
+    "hpsn_ry_mi_zcd": "B004",
+    "hpsn_ry_sl_zcd": "B004003",
+    "hpsn_ry_bg_cz_nm": "일반유통",
+    "hpsn_ry_mi_cz_nm": "자동차",
+    "hpsn_ry_sl_cz_nm": "오토바이"
+  },
+  "B004004": {
+    "hpsn_mct_zcd_nm": "중고차",
+    "hpsn_ry_bg_zcd": "B",
+    "hpsn_ry_mi_zcd": "B004",
+    "hpsn_ry_sl_zcd": "B004004",
+    "hpsn_ry_bg_cz_nm": "일반유통",
+    "hpsn_ry_mi_cz_nm": "자동차",
+    "hpsn_ry_sl_cz_nm": "중고차"
+  },
+  "B004005": {
+    "hpsn_mct_zcd_nm": "자동차용품",
+    "hpsn_ry_bg_zcd": "B",
+    "hpsn_ry_mi_zcd": "B004",
+    "hpsn_ry_sl_zcd": "B004005",
+    "hpsn_ry_bg_cz_nm": "일반유통",
+    "hpsn_ry_mi_cz_nm": "자동차",
+    "hpsn_ry_sl_cz_nm": "자동차용품"
+  },
+  "B005001": {
+    "hpsn_mct_zcd_nm": "컴퓨터 소프트웨어",
+    "hpsn_ry_bg_zcd": "B",
+    "hpsn_ry_mi_zcd": "B005",
+    "hpsn_ry_sl_zcd": "B005001",
+    "hpsn_ry_bg_cz_nm": "일반유통",
+    "hpsn_ry_mi_cz_nm": "컴퓨터소프트웨어",
+    "hpsn_ry_sl_cz_nm": "컴퓨터 소프트웨어"
+  },
+  "B005002": {
+    "hpsn_mct_zcd_nm": "앱스토어",
+    "hpsn_ry_bg_zcd": "B",
+    "hpsn_ry_mi_zcd": "B005",
+    "hpsn_ry_sl_zcd": "B005002",
+    "hpsn_ry_bg_cz_nm": "일반유통",
+    "hpsn_ry_mi_cz_nm": "컴퓨터소프트웨어",
+    "hpsn_ry_sl_cz_nm": "앱스토어"
+  },
+  "B006001": {
+    "hpsn_mct_zcd_nm": "건축용자재/용품",
+    "hpsn_ry_bg_zcd": "B",
+    "hpsn_ry_mi_zcd": "B006",
+    "hpsn_ry_sl_zcd": "B006001",
+    "hpsn_ry_bg_cz_nm": "일반유통",
+    "hpsn_ry_mi_cz_nm": "건설/건축",
+    "hpsn_ry_sl_cz_nm": "건축용자재/용품"
+  },
+  "B006002": {
+    "hpsn_mct_zcd_nm": "인테리어",
+    "hpsn_ry_bg_zcd": "B",
+    "hpsn_ry_mi_zcd": "B006",
+    "hpsn_ry_sl_zcd": "B006002",
+    "hpsn_ry_bg_cz_nm": "일반유통",
+    "hpsn_ry_mi_cz_nm": "건설/건축",
+    "hpsn_ry_sl_cz_nm": "인테리어"
+  },
+  "B006003": {
+    "hpsn_mct_zcd_nm": "페인트",
+    "hpsn_ry_bg_zcd": "B",
+    "hpsn_ry_mi_zcd": "B006",
+    "hpsn_ry_sl_zcd": "B006003",
+    "hpsn_ry_bg_cz_nm": "일반유통",
+    "hpsn_ry_mi_cz_nm": "건설/건축",
+    "hpsn_ry_sl_cz_nm": "페인트"
+  },
+  "B006005": {
+    "hpsn_mct_zcd_nm": "종합건설(건설,건축,토목)",
+    "hpsn_ry_bg_zcd": "B",
+    "hpsn_ry_mi_zcd": "B006",
+    "hpsn_ry_sl_zcd": "B006005",
+    "hpsn_ry_bg_cz_nm": "일반유통",
+    "hpsn_ry_mi_cz_nm": "건설/건축",
+    "hpsn_ry_sl_cz_nm": "종합건설(건설,건축,토목)"
+  },
+  "B006006": {
+    "hpsn_mct_zcd_nm": "시설/설비/실내공사",
+    "hpsn_ry_bg_zcd": "B",
+    "hpsn_ry_mi_zcd": "B006",
+    "hpsn_ry_sl_zcd": "B006006",
+    "hpsn_ry_bg_cz_nm": "일반유통",
+    "hpsn_ry_mi_cz_nm": "건설/건축",
+    "hpsn_ry_sl_cz_nm": "시설/설비/실내공사"
+  },
+  "B007001": {
+    "hpsn_mct_zcd_nm": "휴대폰",
+    "hpsn_ry_bg_zcd": "B",
+    "hpsn_ry_mi_zcd": "B007",
+    "hpsn_ry_sl_zcd": "B007001",
+    "hpsn_ry_bg_cz_nm": "일반유통",
+    "hpsn_ry_mi_cz_nm": "각종기기판매/서비스",
+    "hpsn_ry_sl_cz_nm": "휴대폰"
+  },
+  "B007002": {
+    "hpsn_mct_zcd_nm": "통신관련서비스",
+    "hpsn_ry_bg_zcd": "B",
+    "hpsn_ry_mi_zcd": "B007",
+    "hpsn_ry_sl_zcd": "B007002",
+    "hpsn_ry_bg_cz_nm": "일반유통",
+    "hpsn_ry_mi_cz_nm": "각종기기판매/서비스",
+    "hpsn_ry_sl_cz_nm": "통신관련서비스"
+  },
+  "B007003": {
+    "hpsn_mct_zcd_nm": "컴퓨터/주변기기",
+    "hpsn_ry_bg_zcd": "B",
+    "hpsn_ry_mi_zcd": "B007",
+    "hpsn_ry_sl_zcd": "B007003",
+    "hpsn_ry_bg_cz_nm": "일반유통",
+    "hpsn_ry_mi_cz_nm": "각종기기판매/서비스",
+    "hpsn_ry_sl_cz_nm": "컴퓨터/주변기기"
+  },
+  "B007004": {
+    "hpsn_mct_zcd_nm": "사무용기기",
+    "hpsn_ry_bg_zcd": "B",
+    "hpsn_ry_mi_zcd": "B007",
+    "hpsn_ry_sl_zcd": "B007004",
+    "hpsn_ry_bg_cz_nm": "일반유통",
+    "hpsn_ry_mi_cz_nm": "각종기기판매/서비스",
+    "hpsn_ry_sl_cz_nm": "사무용기기"
+  },
+  "B007005": {
+    "hpsn_mct_zcd_nm": "자동판매기",
+    "hpsn_ry_bg_zcd": "B",
+    "hpsn_ry_mi_zcd": "B007",
+    "hpsn_ry_sl_zcd": "B007005",
+    "hpsn_ry_bg_cz_nm": "일반유통",
+    "hpsn_ry_mi_cz_nm": "각종기기판매/서비스",
+    "hpsn_ry_sl_cz_nm": "자동판매기"
+  },
+  "B008001": {
+    "hpsn_mct_zcd_nm": "그릇/주방기기",
+    "hpsn_ry_bg_zcd": "B",
+    "hpsn_ry_mi_zcd": "B008",
+    "hpsn_ry_sl_zcd": "B008001",
+    "hpsn_ry_bg_cz_nm": "일반유통",
+    "hpsn_ry_mi_cz_nm": "주방",
+    "hpsn_ry_sl_cz_nm": "그릇/주방기기"
+  },
+  "B008002": {
+    "hpsn_mct_zcd_nm": "정수기/연수기기",
+    "hpsn_ry_bg_zcd": "B",
+    "hpsn_ry_mi_zcd": "B008",
+    "hpsn_ry_sl_zcd": "B008002",
+    "hpsn_ry_bg_cz_nm": "일반유통",
+    "hpsn_ry_mi_cz_nm": "주방",
+    "hpsn_ry_sl_cz_nm": "정수기/연수기기"
+  },
+  "B008003": {
+    "hpsn_mct_zcd_nm": "주방가구",
+    "hpsn_ry_bg_zcd": "B",
+    "hpsn_ry_mi_zcd": "B008",
+    "hpsn_ry_sl_zcd": "B008003",
+    "hpsn_ry_bg_cz_nm": "일반유통",
+    "hpsn_ry_mi_cz_nm": "주방",
+    "hpsn_ry_sl_cz_nm": "주방가구"
+  },
+  "B008004": {
+    "hpsn_mct_zcd_nm": "주방용품",
+    "hpsn_ry_bg_zcd": "B",
+    "hpsn_ry_mi_zcd": "B008",
+    "hpsn_ry_sl_zcd": "B008004",
+    "hpsn_ry_bg_cz_nm": "일반유통",
+    "hpsn_ry_mi_cz_nm": "주방",
+    "hpsn_ry_sl_cz_nm": "주방용품"
+  },
+  "B009001": {
+    "hpsn_mct_zcd_nm": "냉난방기기",
+    "hpsn_ry_bg_zcd": "B",
+    "hpsn_ry_mi_zcd": "B009",
+    "hpsn_ry_sl_zcd": "B009001",
+    "hpsn_ry_bg_cz_nm": "일반유통",
+    "hpsn_ry_mi_cz_nm": "냉난방",
+    "hpsn_ry_sl_cz_nm": "냉난방기기"
+  },
+  "B009002": {
+    "hpsn_mct_zcd_nm": "보일러",
+    "hpsn_ry_bg_zcd": "B",
+    "hpsn_ry_mi_zcd": "B009",
+    "hpsn_ry_sl_zcd": "B009002",
+    "hpsn_ry_bg_cz_nm": "일반유통",
+    "hpsn_ry_mi_cz_nm": "냉난방",
+    "hpsn_ry_sl_cz_nm": "보일러"
+  },
+  "B010001": {
+    "hpsn_mct_zcd_nm": "문구용품",
+    "hpsn_ry_bg_zcd": "B",
+    "hpsn_ry_mi_zcd": "B010",
+    "hpsn_ry_sl_zcd": "B010001",
+    "hpsn_ry_bg_cz_nm": "일반유통",
+    "hpsn_ry_mi_cz_nm": "문구용품",
+    "hpsn_ry_sl_cz_nm": "문구용품"
+  },
+  "B010002": {
+    "hpsn_mct_zcd_nm": "복사대행",
+    "hpsn_ry_bg_zcd": "B",
+    "hpsn_ry_mi_zcd": "B010",
+    "hpsn_ry_sl_zcd": "B010002",
+    "hpsn_ry_bg_cz_nm": "일반유통",
+    "hpsn_ry_mi_cz_nm": "문구용품",
+    "hpsn_ry_sl_cz_nm": "복사대행"
+  },
+  "B010003": {
+    "hpsn_mct_zcd_nm": "학습교구",
+    "hpsn_ry_bg_zcd": "B",
+    "hpsn_ry_mi_zcd": "B010",
+    "hpsn_ry_sl_zcd": "B010003",
+    "hpsn_ry_bg_cz_nm": "일반유통",
+    "hpsn_ry_mi_cz_nm": "문구용품",
+    "hpsn_ry_sl_cz_nm": "학습교구"
+  },
+  "B011001": {
+    "hpsn_mct_zcd_nm": "종합생활용품",
+    "hpsn_ry_bg_zcd": "B",
+    "hpsn_ry_mi_zcd": "B011",
+    "hpsn_ry_sl_zcd": "B011001",
+    "hpsn_ry_bg_cz_nm": "일반유통",
+    "hpsn_ry_mi_cz_nm": "생활용품",
+    "hpsn_ry_sl_cz_nm": "종합생활용품"
+  },
+  "B011002": {
+    "hpsn_mct_zcd_nm": "유리/거울",
+    "hpsn_ry_bg_zcd": "B",
+    "hpsn_ry_mi_zcd": "B011",
+    "hpsn_ry_sl_zcd": "B011002",
+    "hpsn_ry_bg_cz_nm": "일반유통",
+    "hpsn_ry_mi_cz_nm": "생활용품",
+    "hpsn_ry_sl_cz_nm": "유리/거울"
+  },
+  "B011003": {
+    "hpsn_mct_zcd_nm": "인테리어 용품",
+    "hpsn_ry_bg_zcd": "B",
+    "hpsn_ry_mi_zcd": "B011",
+    "hpsn_ry_sl_zcd": "B011003",
+    "hpsn_ry_bg_cz_nm": "일반유통",
+    "hpsn_ry_mi_cz_nm": "생활용품",
+    "hpsn_ry_sl_cz_nm": "인테리어 용품"
+  },
+  "B011004": {
+    "hpsn_mct_zcd_nm": "커튼/카페트/수예",
+    "hpsn_ry_bg_zcd": "B",
+    "hpsn_ry_mi_zcd": "B011",
+    "hpsn_ry_sl_zcd": "B011004",
+    "hpsn_ry_bg_cz_nm": "일반유통",
+    "hpsn_ry_mi_cz_nm": "생활용품",
+    "hpsn_ry_sl_cz_nm": "커튼/카페트/수예"
+  },
+  "B011005": {
+    "hpsn_mct_zcd_nm": "드럭스토어",
+    "hpsn_ry_bg_zcd": "B",
+    "hpsn_ry_mi_zcd": "B011",
+    "hpsn_ry_sl_zcd": "B011005",
+    "hpsn_ry_bg_cz_nm": "일반유통",
+    "hpsn_ry_mi_cz_nm": "생활용품",
+    "hpsn_ry_sl_cz_nm": "드럭스토어"
+  },
+  "B011006": {
+    "hpsn_mct_zcd_nm": "유아/아동용품",
+    "hpsn_ry_bg_zcd": "B",
+    "hpsn_ry_mi_zcd": "B011",
+    "hpsn_ry_sl_zcd": "B011006",
+    "hpsn_ry_bg_cz_nm": "일반유통",
+    "hpsn_ry_mi_cz_nm": "생활용품",
+    "hpsn_ry_sl_cz_nm": "유아/아동용품"
+  },
+  "B011007": {
+    "hpsn_mct_zcd_nm": "철물점",
+    "hpsn_ry_bg_zcd": "B",
+    "hpsn_ry_mi_zcd": "B011",
+    "hpsn_ry_sl_zcd": "B011007",
+    "hpsn_ry_bg_cz_nm": "일반유통",
+    "hpsn_ry_mi_cz_nm": "생활용품",
+    "hpsn_ry_sl_cz_nm": "철물점"
+  },
+  "B012001": {
+    "hpsn_mct_zcd_nm": "서점",
+    "hpsn_ry_bg_zcd": "B",
+    "hpsn_ry_mi_zcd": "B012",
+    "hpsn_ry_sl_zcd": "B012001",
+    "hpsn_ry_bg_cz_nm": "일반유통",
+    "hpsn_ry_mi_cz_nm": "서점",
+    "hpsn_ry_sl_cz_nm": "서점"
+  },
+  "B013001": {
+    "hpsn_mct_zcd_nm": "섬유",
+    "hpsn_ry_bg_zcd": "B",
+    "hpsn_ry_mi_zcd": "B013",
+    "hpsn_ry_sl_zcd": "B013001",
+    "hpsn_ry_bg_cz_nm": "일반유통",
+    "hpsn_ry_mi_cz_nm": "옷감/직물",
+    "hpsn_ry_sl_cz_nm": "섬유"
+  },
+  "B013002": {
+    "hpsn_mct_zcd_nm": "한복/포목점",
+    "hpsn_ry_bg_zcd": "B",
+    "hpsn_ry_mi_zcd": "B013",
+    "hpsn_ry_sl_zcd": "B013002",
+    "hpsn_ry_bg_cz_nm": "일반유통",
+    "hpsn_ry_mi_cz_nm": "옷감/직물",
+    "hpsn_ry_sl_cz_nm": "한복/포목점"
+  },
+  "B014001": {
+    "hpsn_mct_zcd_nm": "침구류",
+    "hpsn_ry_bg_zcd": "B",
+    "hpsn_ry_mi_zcd": "B014",
+    "hpsn_ry_sl_zcd": "B014001",
+    "hpsn_ry_bg_cz_nm": "일반유통",
+    "hpsn_ry_mi_cz_nm": "침구류",
+    "hpsn_ry_sl_cz_nm": "침구류"
+  },
+  "B014002": {
+    "hpsn_mct_zcd_nm": "자석요/온돌매트/옥매트",
+    "hpsn_ry_bg_zcd": "B",
+    "hpsn_ry_mi_zcd": "B014",
+    "hpsn_ry_sl_zcd": "B014002",
+    "hpsn_ry_bg_cz_nm": "일반유통",
+    "hpsn_ry_mi_cz_nm": "침구류",
+    "hpsn_ry_sl_cz_nm": "자석요/온돌매트/옥매트"
+  },
+  "B015001": {
+    "hpsn_mct_zcd_nm": "가방/핸드백",
+    "hpsn_ry_bg_zcd": "B",
+    "hpsn_ry_mi_zcd": "B015",
+    "hpsn_ry_sl_zcd": "B015001",
+    "hpsn_ry_bg_cz_nm": "일반유통",
+    "hpsn_ry_mi_cz_nm": "패션잡화",
+    "hpsn_ry_sl_cz_nm": "가방/핸드백"
+  },
+  "B015002": {
+    "hpsn_mct_zcd_nm": "시계/귀금속",
+    "hpsn_ry_bg_zcd": "B",
+    "hpsn_ry_mi_zcd": "B015",
+    "hpsn_ry_sl_zcd": "B015002",
+    "hpsn_ry_bg_cz_nm": "일반유통",
+    "hpsn_ry_mi_cz_nm": "패션잡화",
+    "hpsn_ry_sl_cz_nm": "시계/귀금속"
+  },
+  "B015003": {
+    "hpsn_mct_zcd_nm": "신발",
+    "hpsn_ry_bg_zcd": "B",
+    "hpsn_ry_mi_zcd": "B015",
+    "hpsn_ry_sl_zcd": "B015003",
+    "hpsn_ry_bg_cz_nm": "일반유통",
+    "hpsn_ry_mi_cz_nm": "패션잡화",
+    "hpsn_ry_sl_cz_nm": "신발"
+  },
+  "B015004": {
+    "hpsn_mct_zcd_nm": "액세서리",
+    "hpsn_ry_bg_zcd": "B",
+    "hpsn_ry_mi_zcd": "B015",
+    "hpsn_ry_sl_zcd": "B015004",
+    "hpsn_ry_bg_cz_nm": "일반유통",
+    "hpsn_ry_mi_cz_nm": "패션잡화",
+    "hpsn_ry_sl_cz_nm": "액세서리"
+  },
+  "B016001": {
+    "hpsn_mct_zcd_nm": "화장품",
+    "hpsn_ry_bg_zcd": "B",
+    "hpsn_ry_mi_zcd": "B016",
+    "hpsn_ry_sl_zcd": "B016001",
+    "hpsn_ry_bg_cz_nm": "일반유통",
+    "hpsn_ry_mi_cz_nm": "화장품",
+    "hpsn_ry_sl_cz_nm": "화장품"
+  },
+  "B017001": {
+    "hpsn_mct_zcd_nm": "과학기기",
+    "hpsn_ry_bg_zcd": "B",
+    "hpsn_ry_mi_zcd": "B017",
+    "hpsn_ry_sl_zcd": "B017001",
+    "hpsn_ry_bg_cz_nm": "일반유통",
+    "hpsn_ry_mi_cz_nm": "과학기자재",
+    "hpsn_ry_sl_cz_nm": "과학기기"
+  },
+  "B017002": {
+    "hpsn_mct_zcd_nm": "측량/제도/정밀기기",
+    "hpsn_ry_bg_zcd": "B",
+    "hpsn_ry_mi_zcd": "B017",
+    "hpsn_ry_sl_zcd": "B017002",
+    "hpsn_ry_bg_cz_nm": "일반유통",
+    "hpsn_ry_mi_cz_nm": "과학기자재",
+    "hpsn_ry_sl_cz_nm": "측량/제도/정밀기기"
+  },
+  "B018001": {
+    "hpsn_mct_zcd_nm": "기계류 제조",
+    "hpsn_ry_bg_zcd": "B",
+    "hpsn_ry_mi_zcd": "B018",
+    "hpsn_ry_sl_zcd": "B018001",
+    "hpsn_ry_bg_cz_nm": "일반유통",
+    "hpsn_ry_mi_cz_nm": "기계류제조업",
+    "hpsn_ry_sl_cz_nm": "기계류 제조"
+  },
+  "B019001": {
+    "hpsn_mct_zcd_nm": "가구 제조",
+    "hpsn_ry_bg_zcd": "B",
+    "hpsn_ry_mi_zcd": "B019",
+    "hpsn_ry_sl_zcd": "B019001",
+    "hpsn_ry_bg_cz_nm": "일반유통",
+    "hpsn_ry_mi_cz_nm": "기타제조업",
+    "hpsn_ry_sl_cz_nm": "가구 제조"
+  },
+  "B019002": {
+    "hpsn_mct_zcd_nm": "기타 제조",
+    "hpsn_ry_bg_zcd": "B",
+    "hpsn_ry_mi_zcd": "B019",
+    "hpsn_ry_sl_zcd": "B019002",
+    "hpsn_ry_bg_cz_nm": "일반유통",
+    "hpsn_ry_mi_cz_nm": "기타제조업",
+    "hpsn_ry_sl_cz_nm": "기타 제조"
+  },
+  "C001001": {
+    "hpsn_mct_zcd_nm": "한식-단품요리일반",
+    "hpsn_ry_bg_zcd": "C",
+    "hpsn_ry_mi_zcd": "C001",
+    "hpsn_ry_sl_zcd": "C001001",
+    "hpsn_ry_bg_cz_nm": "음식",
+    "hpsn_ry_mi_cz_nm": "한식",
+    "hpsn_ry_sl_cz_nm": "한식-단품요리일반"
+  },
+  "C001002": {
+    "hpsn_mct_zcd_nm": "백반/가정식",
+    "hpsn_ry_bg_zcd": "C",
+    "hpsn_ry_mi_zcd": "C001",
+    "hpsn_ry_sl_zcd": "C001002",
+    "hpsn_ry_bg_cz_nm": "음식",
+    "hpsn_ry_mi_cz_nm": "한식",
+    "hpsn_ry_sl_cz_nm": "백반/가정식"
+  },
+  "C001003": {
+    "hpsn_mct_zcd_nm": "구내식당/푸드코트",
+    "hpsn_ry_bg_zcd": "C",
+    "hpsn_ry_mi_zcd": "C001",
+    "hpsn_ry_sl_zcd": "C001003",
+    "hpsn_ry_bg_cz_nm": "음식",
+    "hpsn_ry_mi_cz_nm": "한식",
+    "hpsn_ry_sl_cz_nm": "구내식당/푸드코트"
+  },
+  "C001004": {
+    "hpsn_mct_zcd_nm": "기사식당",
+    "hpsn_ry_bg_zcd": "C",
+    "hpsn_ry_mi_zcd": "C001",
+    "hpsn_ry_sl_zcd": "C001004",
+    "hpsn_ry_bg_cz_nm": "음식",
+    "hpsn_ry_mi_cz_nm": "한식",
+    "hpsn_ry_sl_cz_nm": "기사식당"
+  },
+  "C001005": {
+    "hpsn_mct_zcd_nm": "도시락",
+    "hpsn_ry_bg_zcd": "C",
+    "hpsn_ry_mi_zcd": "C001",
+    "hpsn_ry_sl_zcd": "C001005",
+    "hpsn_ry_bg_cz_nm": "음식",
+    "hpsn_ry_mi_cz_nm": "한식",
+    "hpsn_ry_sl_cz_nm": "도시락"
+  },
+  "C001006": {
+    "hpsn_mct_zcd_nm": "야식",
+    "hpsn_ry_bg_zcd": "C",
+    "hpsn_ry_mi_zcd": "C001",
+    "hpsn_ry_sl_zcd": "C001006",
+    "hpsn_ry_bg_cz_nm": "음식",
+    "hpsn_ry_mi_cz_nm": "한식",
+    "hpsn_ry_sl_cz_nm": "야식"
+  },
+  "C001007": {
+    "hpsn_mct_zcd_nm": "출장부페",
+    "hpsn_ry_bg_zcd": "C",
+    "hpsn_ry_mi_zcd": "C001",
+    "hpsn_ry_sl_zcd": "C001007",
+    "hpsn_ry_bg_cz_nm": "음식",
+    "hpsn_ry_mi_cz_nm": "한식",
+    "hpsn_ry_sl_cz_nm": "출장부페"
+  },
+  "C001010": {
+    "hpsn_mct_zcd_nm": "한식-육류/고기",
+    "hpsn_ry_bg_zcd": "C",
+    "hpsn_ry_mi_zcd": "C001",
+    "hpsn_ry_sl_zcd": "C001010",
+    "hpsn_ry_bg_cz_nm": "음식",
+    "hpsn_ry_mi_cz_nm": "한식",
+    "hpsn_ry_sl_cz_nm": "한식-육류/고기"
+  },
+  "C001011": {
+    "hpsn_mct_zcd_nm": "한식-해물/생선",
+    "hpsn_ry_bg_zcd": "C",
+    "hpsn_ry_mi_zcd": "C001",
+    "hpsn_ry_sl_zcd": "C001011",
+    "hpsn_ry_bg_cz_nm": "음식",
+    "hpsn_ry_mi_cz_nm": "한식",
+    "hpsn_ry_sl_cz_nm": "한식-해물/생선"
+  },
+  "C001012": {
+    "hpsn_mct_zcd_nm": "한식-찌개/전골",
+    "hpsn_ry_bg_zcd": "C",
+    "hpsn_ry_mi_zcd": "C001",
+    "hpsn_ry_sl_zcd": "C001012",
+    "hpsn_ry_bg_cz_nm": "음식",
+    "hpsn_ry_mi_cz_nm": "한식",
+    "hpsn_ry_sl_cz_nm": "한식-찌개/전골"
+  },
+  "C001013": {
+    "hpsn_mct_zcd_nm": "한식-국밥/설렁탕",
+    "hpsn_ry_bg_zcd": "C",
+    "hpsn_ry_mi_zcd": "C001",
+    "hpsn_ry_sl_zcd": "C001013",
+    "hpsn_ry_bg_cz_nm": "음식",
+    "hpsn_ry_mi_cz_nm": "한식",
+    "hpsn_ry_sl_cz_nm": "한식-국밥/설렁탕"
+  },
+  "C001014": {
+    "hpsn_mct_zcd_nm": "한식-국수/만두",
+    "hpsn_ry_bg_zcd": "C",
+    "hpsn_ry_mi_zcd": "C001",
+    "hpsn_ry_sl_zcd": "C001014",
+    "hpsn_ry_bg_cz_nm": "음식",
+    "hpsn_ry_mi_cz_nm": "한식",
+    "hpsn_ry_sl_cz_nm": "한식-국수/만두"
+  },
+  "C001015": {
+    "hpsn_mct_zcd_nm": "한식-감자탕",
+    "hpsn_ry_bg_zcd": "C",
+    "hpsn_ry_mi_zcd": "C001",
+    "hpsn_ry_sl_zcd": "C001015",
+    "hpsn_ry_bg_cz_nm": "음식",
+    "hpsn_ry_mi_cz_nm": "한식",
+    "hpsn_ry_sl_cz_nm": "한식-감자탕"
+  },
+  "C001016": {
+    "hpsn_mct_zcd_nm": "한식-죽",
+    "hpsn_ry_bg_zcd": "C",
+    "hpsn_ry_mi_zcd": "C001",
+    "hpsn_ry_sl_zcd": "C001016",
+    "hpsn_ry_bg_cz_nm": "음식",
+    "hpsn_ry_mi_cz_nm": "한식",
+    "hpsn_ry_sl_cz_nm": "한식-죽"
+  },
+  "C001017": {
+    "hpsn_mct_zcd_nm": "한식-냉면",
+    "hpsn_ry_bg_zcd": "C",
+    "hpsn_ry_mi_zcd": "C001",
+    "hpsn_ry_sl_zcd": "C001017",
+    "hpsn_ry_bg_cz_nm": "음식",
+    "hpsn_ry_mi_cz_nm": "한식",
+    "hpsn_ry_sl_cz_nm": "한식-냉면"
+  },
+  "C001018": {
+    "hpsn_mct_zcd_nm": "한식-두부요리",
+    "hpsn_ry_bg_zcd": "C",
+    "hpsn_ry_mi_zcd": "C001",
+    "hpsn_ry_sl_zcd": "C001018",
+    "hpsn_ry_bg_cz_nm": "음식",
+    "hpsn_ry_mi_cz_nm": "한식",
+    "hpsn_ry_sl_cz_nm": "한식-두부요리"
+  },
+  "C001031": {
+    "hpsn_mct_zcd_nm": "한정식",
+    "hpsn_ry_bg_zcd": "C",
+    "hpsn_ry_mi_zcd": "C001",
+    "hpsn_ry_sl_zcd": "C001031",
+    "hpsn_ry_bg_cz_nm": "음식",
+    "hpsn_ry_mi_cz_nm": "한식",
+    "hpsn_ry_sl_cz_nm": "한정식"
+  },
+  "C001032": {
+    "hpsn_mct_zcd_nm": "한식뷔페",
+    "hpsn_ry_bg_zcd": "C",
+    "hpsn_ry_mi_zcd": "C001",
+    "hpsn_ry_sl_zcd": "C001032",
+    "hpsn_ry_bg_cz_nm": "음식",
+    "hpsn_ry_mi_cz_nm": "한식",
+    "hpsn_ry_sl_cz_nm": "한식뷔페"
+  },
+  "C002001": {
+    "hpsn_mct_zcd_nm": "양식",
+    "hpsn_ry_bg_zcd": "C",
+    "hpsn_ry_mi_zcd": "C002",
+    "hpsn_ry_sl_zcd": "C002001",
+    "hpsn_ry_bg_cz_nm": "음식",
+    "hpsn_ry_mi_cz_nm": "양식",
+    "hpsn_ry_sl_cz_nm": "양식"
+  },
+  "C002002": {
+    "hpsn_mct_zcd_nm": "패밀리 레스토랑",
+    "hpsn_ry_bg_zcd": "C",
+    "hpsn_ry_mi_zcd": "C002",
+    "hpsn_ry_sl_zcd": "C002002",
+    "hpsn_ry_bg_cz_nm": "음식",
+    "hpsn_ry_mi_cz_nm": "양식",
+    "hpsn_ry_sl_cz_nm": "패밀리 레스토랑"
+  },
+  "C002003": {
+    "hpsn_mct_zcd_nm": "스테이크",
+    "hpsn_ry_bg_zcd": "C",
+    "hpsn_ry_mi_zcd": "C002",
+    "hpsn_ry_sl_zcd": "C002003",
+    "hpsn_ry_bg_cz_nm": "음식",
+    "hpsn_ry_mi_cz_nm": "양식",
+    "hpsn_ry_sl_cz_nm": "스테이크"
+  },
+  "C002004": {
+    "hpsn_mct_zcd_nm": "기타세계요리",
+    "hpsn_ry_bg_zcd": "C",
+    "hpsn_ry_mi_zcd": "C002",
+    "hpsn_ry_sl_zcd": "C002004",
+    "hpsn_ry_bg_cz_nm": "음식",
+    "hpsn_ry_mi_cz_nm": "양식",
+    "hpsn_ry_sl_cz_nm": "기타세계요리"
+  },
+  "C003001": {
+    "hpsn_mct_zcd_nm": "일식당",
+    "hpsn_ry_bg_zcd": "C",
+    "hpsn_ry_mi_zcd": "C003",
+    "hpsn_ry_sl_zcd": "C003001",
+    "hpsn_ry_bg_cz_nm": "음식",
+    "hpsn_ry_mi_cz_nm": "아시아음식",
+    "hpsn_ry_sl_cz_nm": "일식당"
+  },
+  "C003002": {
+    "hpsn_mct_zcd_nm": "중식당",
+    "hpsn_ry_bg_zcd": "C",
+    "hpsn_ry_mi_zcd": "C003",
+    "hpsn_ry_sl_zcd": "C003002",
+    "hpsn_ry_bg_cz_nm": "음식",
+    "hpsn_ry_mi_cz_nm": "아시아음식",
+    "hpsn_ry_sl_cz_nm": "중식당"
+  },
+  "C003003": {
+    "hpsn_mct_zcd_nm": "동남아/인도음식",
+    "hpsn_ry_bg_zcd": "C",
+    "hpsn_ry_mi_zcd": "C003",
+    "hpsn_ry_sl_zcd": "C003003",
+    "hpsn_ry_bg_cz_nm": "음식",
+    "hpsn_ry_mi_cz_nm": "아시아음식",
+    "hpsn_ry_sl_cz_nm": "동남아/인도음식"
+  },
+  "C003010": {
+    "hpsn_mct_zcd_nm": "일식-참치회",
+    "hpsn_ry_bg_zcd": "C",
+    "hpsn_ry_mi_zcd": "C003",
+    "hpsn_ry_sl_zcd": "C003010",
+    "hpsn_ry_bg_cz_nm": "음식",
+    "hpsn_ry_mi_cz_nm": "아시아음식",
+    "hpsn_ry_sl_cz_nm": "일식-참치회"
+  },
+  "C003011": {
+    "hpsn_mct_zcd_nm": "일식-덮밥/돈가스",
+    "hpsn_ry_bg_zcd": "C",
+    "hpsn_ry_mi_zcd": "C003",
+    "hpsn_ry_sl_zcd": "C003011",
+    "hpsn_ry_bg_cz_nm": "음식",
+    "hpsn_ry_mi_cz_nm": "아시아음식",
+    "hpsn_ry_sl_cz_nm": "일식-덮밥/돈가스"
+  },
+  "C003012": {
+    "hpsn_mct_zcd_nm": "일식-샤브샤브",
+    "hpsn_ry_bg_zcd": "C",
+    "hpsn_ry_mi_zcd": "C003",
+    "hpsn_ry_sl_zcd": "C003012",
+    "hpsn_ry_bg_cz_nm": "음식",
+    "hpsn_ry_mi_cz_nm": "아시아음식",
+    "hpsn_ry_sl_cz_nm": "일식-샤브샤브"
+  },
+  "C003013": {
+    "hpsn_mct_zcd_nm": "일식-우동/소바/라면",
+    "hpsn_ry_bg_zcd": "C",
+    "hpsn_ry_mi_zcd": "C003",
+    "hpsn_ry_sl_zcd": "C003013",
+    "hpsn_ry_bg_cz_nm": "음식",
+    "hpsn_ry_mi_cz_nm": "아시아음식",
+    "hpsn_ry_sl_cz_nm": "일식-우동/소바/라면"
+  },
+  "C003014": {
+    "hpsn_mct_zcd_nm": "일식-초밥/롤",
+    "hpsn_ry_bg_zcd": "C",
+    "hpsn_ry_mi_zcd": "C003",
+    "hpsn_ry_sl_zcd": "C003014",
+    "hpsn_ry_bg_cz_nm": "음식",
+    "hpsn_ry_mi_cz_nm": "아시아음식",
+    "hpsn_ry_sl_cz_nm": "일식-초밥/롤"
+  },
+  "C003021": {
+    "hpsn_mct_zcd_nm": "중식-훠궈/마라탕",
+    "hpsn_ry_bg_zcd": "C",
+    "hpsn_ry_mi_zcd": "C003",
+    "hpsn_ry_sl_zcd": "C003021",
+    "hpsn_ry_bg_cz_nm": "음식",
+    "hpsn_ry_mi_cz_nm": "아시아음식",
+    "hpsn_ry_sl_cz_nm": "중식-훠궈/마라탕"
+  },
+  "C003022": {
+    "hpsn_mct_zcd_nm": "중식-딤섬/중식만두",
+    "hpsn_ry_bg_zcd": "C",
+    "hpsn_ry_mi_zcd": "C003",
+    "hpsn_ry_sl_zcd": "C003022",
+    "hpsn_ry_bg_cz_nm": "음식",
+    "hpsn_ry_mi_cz_nm": "아시아음식",
+    "hpsn_ry_sl_cz_nm": "중식-딤섬/중식만두"
+  },
+  "C003030": {
+    "hpsn_mct_zcd_nm": "오마카세",
+    "hpsn_ry_bg_zcd": "C",
+    "hpsn_ry_mi_zcd": "C003",
+    "hpsn_ry_sl_zcd": "C003030",
+    "hpsn_ry_bg_cz_nm": "음식",
+    "hpsn_ry_mi_cz_nm": "아시아음식",
+    "hpsn_ry_sl_cz_nm": "오마카세"
+  },
+  "C004001": {
+    "hpsn_mct_zcd_nm": "분식",
+    "hpsn_ry_bg_zcd": "C",
+    "hpsn_ry_mi_zcd": "C004",
+    "hpsn_ry_sl_zcd": "C004001",
+    "hpsn_ry_bg_cz_nm": "음식",
+    "hpsn_ry_mi_cz_nm": "간식",
+    "hpsn_ry_sl_cz_nm": "분식"
+  },
+  "C004002": {
+    "hpsn_mct_zcd_nm": "베이커리",
+    "hpsn_ry_bg_zcd": "C",
+    "hpsn_ry_mi_zcd": "C004",
+    "hpsn_ry_sl_zcd": "C004002",
+    "hpsn_ry_bg_cz_nm": "음식",
+    "hpsn_ry_mi_cz_nm": "간식",
+    "hpsn_ry_sl_cz_nm": "베이커리"
+  },
+  "C004003": {
+    "hpsn_mct_zcd_nm": "아이스크림/빙수",
+    "hpsn_ry_bg_zcd": "C",
+    "hpsn_ry_mi_zcd": "C004",
+    "hpsn_ry_sl_zcd": "C004003",
+    "hpsn_ry_bg_cz_nm": "음식",
+    "hpsn_ry_mi_cz_nm": "간식",
+    "hpsn_ry_sl_cz_nm": "아이스크림/빙수"
+  },
+  "C004004": {
+    "hpsn_mct_zcd_nm": "떡/한과",
+    "hpsn_ry_bg_zcd": "C",
+    "hpsn_ry_mi_zcd": "C004",
+    "hpsn_ry_sl_zcd": "C004004",
+    "hpsn_ry_bg_cz_nm": "음식",
+    "hpsn_ry_mi_cz_nm": "간식",
+    "hpsn_ry_sl_cz_nm": "떡/한과"
+  },
+  "C004005": {
+    "hpsn_mct_zcd_nm": "샌드위치/토스트",
+    "hpsn_ry_bg_zcd": "C",
+    "hpsn_ry_mi_zcd": "C004",
+    "hpsn_ry_sl_zcd": "C004005",
+    "hpsn_ry_bg_cz_nm": "음식",
+    "hpsn_ry_mi_cz_nm": "간식",
+    "hpsn_ry_sl_cz_nm": "샌드위치/토스트"
+  },
+  "C004006": {
+    "hpsn_mct_zcd_nm": "도너츠",
+    "hpsn_ry_bg_zcd": "C",
+    "hpsn_ry_mi_zcd": "C004",
+    "hpsn_ry_sl_zcd": "C004006",
+    "hpsn_ry_bg_cz_nm": "음식",
+    "hpsn_ry_mi_cz_nm": "간식",
+    "hpsn_ry_sl_cz_nm": "도너츠"
+  },
+  "C004007": {
+    "hpsn_mct_zcd_nm": "탕후루",
+    "hpsn_ry_bg_zcd": "C",
+    "hpsn_ry_mi_zcd": "C004",
+    "hpsn_ry_sl_zcd": "C004007",
+    "hpsn_ry_bg_cz_nm": "음식",
+    "hpsn_ry_mi_cz_nm": "간식",
+    "hpsn_ry_sl_cz_nm": "탕후루"
+  },
+  "C004008": {
+    "hpsn_mct_zcd_nm": "와플/크로플",
+    "hpsn_ry_bg_zcd": "C",
+    "hpsn_ry_mi_zcd": "C004",
+    "hpsn_ry_sl_zcd": "C004008",
+    "hpsn_ry_bg_cz_nm": "음식",
+    "hpsn_ry_mi_cz_nm": "간식",
+    "hpsn_ry_sl_cz_nm": "와플/크로플"
+  },
+  "C004009": {
+    "hpsn_mct_zcd_nm": "마카롱",
+    "hpsn_ry_bg_zcd": "C",
+    "hpsn_ry_mi_zcd": "C004",
+    "hpsn_ry_sl_zcd": "C004009",
+    "hpsn_ry_bg_cz_nm": "음식",
+    "hpsn_ry_mi_cz_nm": "간식",
+    "hpsn_ry_sl_cz_nm": "마카롱"
+  },
+  "C005001": {
+    "hpsn_mct_zcd_nm": "치킨",
+    "hpsn_ry_bg_zcd": "C",
+    "hpsn_ry_mi_zcd": "C005",
+    "hpsn_ry_sl_zcd": "C005001",
+    "hpsn_ry_bg_cz_nm": "음식",
+    "hpsn_ry_mi_cz_nm": "패스트푸드",
+    "hpsn_ry_sl_cz_nm": "치킨"
+  },
+  "C005002": {
+    "hpsn_mct_zcd_nm": "피자",
+    "hpsn_ry_bg_zcd": "C",
+    "hpsn_ry_mi_zcd": "C005",
+    "hpsn_ry_sl_zcd": "C005002",
+    "hpsn_ry_bg_cz_nm": "음식",
+    "hpsn_ry_mi_cz_nm": "패스트푸드",
+    "hpsn_ry_sl_cz_nm": "피자"
+  },
+  "C005003": {
+    "hpsn_mct_zcd_nm": "햄버거",
+    "hpsn_ry_bg_zcd": "C",
+    "hpsn_ry_mi_zcd": "C005",
+    "hpsn_ry_sl_zcd": "C005003",
+    "hpsn_ry_bg_cz_nm": "음식",
+    "hpsn_ry_mi_cz_nm": "패스트푸드",
+    "hpsn_ry_sl_cz_nm": "햄버거"
+  },
+  "C006001": {
+    "hpsn_mct_zcd_nm": "카페",
+    "hpsn_ry_bg_zcd": "C",
+    "hpsn_ry_mi_zcd": "C006",
+    "hpsn_ry_sl_zcd": "C006001",
+    "hpsn_ry_bg_cz_nm": "음식",
+    "hpsn_ry_mi_cz_nm": "음료",
+    "hpsn_ry_sl_cz_nm": "카페"
+  },
+  "C006002": {
+    "hpsn_mct_zcd_nm": "차",
+    "hpsn_ry_bg_zcd": "C",
+    "hpsn_ry_mi_zcd": "C006",
+    "hpsn_ry_sl_zcd": "C006002",
+    "hpsn_ry_bg_cz_nm": "음식",
+    "hpsn_ry_mi_cz_nm": "음료",
+    "hpsn_ry_sl_cz_nm": "차"
+  },
+  "C006003": {
+    "hpsn_mct_zcd_nm": "주스",
+    "hpsn_ry_bg_zcd": "C",
+    "hpsn_ry_mi_zcd": "C006",
+    "hpsn_ry_sl_zcd": "C006003",
+    "hpsn_ry_bg_cz_nm": "음식",
+    "hpsn_ry_mi_cz_nm": "음료",
+    "hpsn_ry_sl_cz_nm": "주스"
+  },
+  "C006010": {
+    "hpsn_mct_zcd_nm": "커피전문점",
+    "hpsn_ry_bg_zcd": "C",
+    "hpsn_ry_mi_zcd": "C006",
+    "hpsn_ry_sl_zcd": "C006010",
+    "hpsn_ry_bg_cz_nm": "음식",
+    "hpsn_ry_mi_cz_nm": "음료",
+    "hpsn_ry_sl_cz_nm": "커피전문점"
+  },
+  "C006011": {
+    "hpsn_mct_zcd_nm": "테이크아웃커피",
+    "hpsn_ry_bg_zcd": "C",
+    "hpsn_ry_mi_zcd": "C006",
+    "hpsn_ry_sl_zcd": "C006011",
+    "hpsn_ry_bg_cz_nm": "음식",
+    "hpsn_ry_mi_cz_nm": "음료",
+    "hpsn_ry_sl_cz_nm": "테이크아웃커피"
+  },
+  "C006012": {
+    "hpsn_mct_zcd_nm": "무인카페",
+    "hpsn_ry_bg_zcd": "C",
+    "hpsn_ry_mi_zcd": "C006",
+    "hpsn_ry_sl_zcd": "C006012",
+    "hpsn_ry_bg_cz_nm": "음식",
+    "hpsn_ry_mi_cz_nm": "음료",
+    "hpsn_ry_sl_cz_nm": "무인카페"
+  },
+  "C007001": {
+    "hpsn_mct_zcd_nm": "부페",
+    "hpsn_ry_bg_zcd": "C",
+    "hpsn_ry_mi_zcd": "C007",
+    "hpsn_ry_sl_zcd": "C007001",
+    "hpsn_ry_bg_cz_nm": "음식",
+    "hpsn_ry_mi_cz_nm": "부페",
+    "hpsn_ry_sl_cz_nm": "부페"
+  },
+  "C008001": {
+    "hpsn_mct_zcd_nm": "일반 유흥주점",
+    "hpsn_ry_bg_zcd": "C",
+    "hpsn_ry_mi_zcd": "C008",
+    "hpsn_ry_sl_zcd": "C008001",
+    "hpsn_ry_bg_cz_nm": "음식",
+    "hpsn_ry_mi_cz_nm": "유흥주점",
+    "hpsn_ry_sl_cz_nm": "일반 유흥주점"
+  },
+  "C008002": {
+    "hpsn_mct_zcd_nm": "룸살롱/단란주점",
+    "hpsn_ry_bg_zcd": "C",
+    "hpsn_ry_mi_zcd": "C008",
+    "hpsn_ry_sl_zcd": "C008002",
+    "hpsn_ry_bg_cz_nm": "음식",
+    "hpsn_ry_mi_cz_nm": "유흥주점",
+    "hpsn_ry_sl_cz_nm": "룸살롱/단란주점"
+  },
+  "C009001": {
+    "hpsn_mct_zcd_nm": "호프/맥주",
+    "hpsn_ry_bg_zcd": "C",
+    "hpsn_ry_mi_zcd": "C009",
+    "hpsn_ry_sl_zcd": "C009001",
+    "hpsn_ry_bg_cz_nm": "음식",
+    "hpsn_ry_mi_cz_nm": "주점및주류판매",
+    "hpsn_ry_sl_cz_nm": "호프/맥주"
+  },
+  "C009002": {
+    "hpsn_mct_zcd_nm": "꼬치구이",
+    "hpsn_ry_bg_zcd": "C",
+    "hpsn_ry_mi_zcd": "C009",
+    "hpsn_ry_sl_zcd": "C009002",
+    "hpsn_ry_bg_cz_nm": "음식",
+    "hpsn_ry_mi_cz_nm": "주점및주류판매",
+    "hpsn_ry_sl_cz_nm": "꼬치구이"
+  },
+  "C009003": {
+    "hpsn_mct_zcd_nm": "민속주점",
+    "hpsn_ry_bg_zcd": "C",
+    "hpsn_ry_mi_zcd": "C009",
+    "hpsn_ry_sl_zcd": "C009003",
+    "hpsn_ry_bg_cz_nm": "음식",
+    "hpsn_ry_mi_cz_nm": "주점및주류판매",
+    "hpsn_ry_sl_cz_nm": "민속주점"
+  },
+  "C009004": {
+    "hpsn_mct_zcd_nm": "포장마차",
+    "hpsn_ry_bg_zcd": "C",
+    "hpsn_ry_mi_zcd": "C009",
+    "hpsn_ry_sl_zcd": "C009004",
+    "hpsn_ry_bg_cz_nm": "음식",
+    "hpsn_ry_mi_cz_nm": "주점및주류판매",
+    "hpsn_ry_sl_cz_nm": "포장마차"
+  },
+  "C009005": {
+    "hpsn_mct_zcd_nm": "주류",
+    "hpsn_ry_bg_zcd": "C",
+    "hpsn_ry_mi_zcd": "C009",
+    "hpsn_ry_sl_zcd": "C009005",
+    "hpsn_ry_bg_cz_nm": "음식",
+    "hpsn_ry_mi_cz_nm": "주점및주류판매",
+    "hpsn_ry_sl_cz_nm": "주류"
+  },
+  "C009010": {
+    "hpsn_mct_zcd_nm": "요리주점",
+    "hpsn_ry_bg_zcd": "C",
+    "hpsn_ry_mi_zcd": "C009",
+    "hpsn_ry_sl_zcd": "C009010",
+    "hpsn_ry_bg_cz_nm": "음식",
+    "hpsn_ry_mi_cz_nm": "주점및주류판매",
+    "hpsn_ry_sl_cz_nm": "요리주점"
+  },
+  "C009011": {
+    "hpsn_mct_zcd_nm": "이자카야",
+    "hpsn_ry_bg_zcd": "C",
+    "hpsn_ry_mi_zcd": "C009",
+    "hpsn_ry_sl_zcd": "C009011",
+    "hpsn_ry_bg_cz_nm": "음식",
+    "hpsn_ry_mi_cz_nm": "주점및주류판매",
+    "hpsn_ry_sl_cz_nm": "이자카야"
+  },
+  "C009012": {
+    "hpsn_mct_zcd_nm": "와인바",
+    "hpsn_ry_bg_zcd": "C",
+    "hpsn_ry_mi_zcd": "C009",
+    "hpsn_ry_sl_zcd": "C009012",
+    "hpsn_ry_bg_cz_nm": "음식",
+    "hpsn_ry_mi_cz_nm": "주점및주류판매",
+    "hpsn_ry_sl_cz_nm": "와인바"
+  },
+  "C009020": {
+    "hpsn_mct_zcd_nm": "와인샵",
+    "hpsn_ry_bg_zcd": "C",
+    "hpsn_ry_mi_zcd": "C009",
+    "hpsn_ry_sl_zcd": "C009020",
+    "hpsn_ry_bg_cz_nm": "음식",
+    "hpsn_ry_mi_cz_nm": "주점및주류판매",
+    "hpsn_ry_sl_cz_nm": "와인샵"
+  },
+  "C010001": {
+    "hpsn_mct_zcd_nm": "식료품",
+    "hpsn_ry_bg_zcd": "C",
+    "hpsn_ry_mi_zcd": "C010",
+    "hpsn_ry_sl_zcd": "C010001",
+    "hpsn_ry_bg_cz_nm": "음식",
+    "hpsn_ry_mi_cz_nm": "식품",
+    "hpsn_ry_sl_cz_nm": "식료품"
+  },
+  "C010002": {
+    "hpsn_mct_zcd_nm": "식자재",
+    "hpsn_ry_bg_zcd": "C",
+    "hpsn_ry_mi_zcd": "C010",
+    "hpsn_ry_sl_zcd": "C010002",
+    "hpsn_ry_bg_cz_nm": "음식",
+    "hpsn_ry_mi_cz_nm": "식품",
+    "hpsn_ry_sl_cz_nm": "식자재"
+  },
+  "C010003": {
+    "hpsn_mct_zcd_nm": "반찬",
+    "hpsn_ry_bg_zcd": "C",
+    "hpsn_ry_mi_zcd": "C010",
+    "hpsn_ry_sl_zcd": "C010003",
+    "hpsn_ry_bg_cz_nm": "음식",
+    "hpsn_ry_mi_cz_nm": "식품",
+    "hpsn_ry_sl_cz_nm": "반찬"
+  },
+  "C010004": {
+    "hpsn_mct_zcd_nm": "농협-마트",
+    "hpsn_ry_bg_zcd": "C",
+    "hpsn_ry_mi_zcd": "C010",
+    "hpsn_ry_sl_zcd": "C010004",
+    "hpsn_ry_bg_cz_nm": "음식",
+    "hpsn_ry_mi_cz_nm": "식품",
+    "hpsn_ry_sl_cz_nm": "농협-마트"
+  },
+  "C010005": {
+    "hpsn_mct_zcd_nm": "미곡상",
+    "hpsn_ry_bg_zcd": "C",
+    "hpsn_ry_mi_zcd": "C010",
+    "hpsn_ry_sl_zcd": "C010005",
+    "hpsn_ry_bg_cz_nm": "음식",
+    "hpsn_ry_mi_cz_nm": "식품",
+    "hpsn_ry_sl_cz_nm": "미곡상"
+  },
+  "C010006": {
+    "hpsn_mct_zcd_nm": "생수",
+    "hpsn_ry_bg_zcd": "C",
+    "hpsn_ry_mi_zcd": "C010",
+    "hpsn_ry_sl_zcd": "C010006",
+    "hpsn_ry_bg_cz_nm": "음식",
+    "hpsn_ry_mi_cz_nm": "식품",
+    "hpsn_ry_sl_cz_nm": "생수"
+  },
+  "C010007": {
+    "hpsn_mct_zcd_nm": "담배",
+    "hpsn_ry_bg_zcd": "C",
+    "hpsn_ry_mi_zcd": "C010",
+    "hpsn_ry_sl_zcd": "C010007",
+    "hpsn_ry_bg_cz_nm": "음식",
+    "hpsn_ry_mi_cz_nm": "식품",
+    "hpsn_ry_sl_cz_nm": "담배"
+  },
+  "C010008": {
+    "hpsn_mct_zcd_nm": "밀키트판매점",
+    "hpsn_ry_bg_zcd": "C",
+    "hpsn_ry_mi_zcd": "C010",
+    "hpsn_ry_sl_zcd": "C010008",
+    "hpsn_ry_bg_cz_nm": "음식",
+    "hpsn_ry_mi_cz_nm": "식품",
+    "hpsn_ry_sl_cz_nm": "밀키트판매점"
+  },
+  "C011001": {
+    "hpsn_mct_zcd_nm": "건강식품",
+    "hpsn_ry_bg_zcd": "C",
+    "hpsn_ry_mi_zcd": "C011",
+    "hpsn_ry_sl_zcd": "C011001",
+    "hpsn_ry_bg_cz_nm": "음식",
+    "hpsn_ry_mi_cz_nm": "건강식품",
+    "hpsn_ry_sl_cz_nm": "건강식품"
+  },
+  "C011002": {
+    "hpsn_mct_zcd_nm": "건강원",
+    "hpsn_ry_bg_zcd": "C",
+    "hpsn_ry_mi_zcd": "C011",
+    "hpsn_ry_sl_zcd": "C011002",
+    "hpsn_ry_bg_cz_nm": "음식",
+    "hpsn_ry_mi_cz_nm": "건강식품",
+    "hpsn_ry_sl_cz_nm": "건강원"
+  },
+  "C011003": {
+    "hpsn_mct_zcd_nm": "약초",
+    "hpsn_ry_bg_zcd": "C",
+    "hpsn_ry_mi_zcd": "C011",
+    "hpsn_ry_sl_zcd": "C011003",
+    "hpsn_ry_bg_cz_nm": "음식",
+    "hpsn_ry_mi_cz_nm": "건강식품",
+    "hpsn_ry_sl_cz_nm": "약초"
+  },
+  "C011004": {
+    "hpsn_mct_zcd_nm": "인삼제품",
+    "hpsn_ry_bg_zcd": "C",
+    "hpsn_ry_mi_zcd": "C011",
+    "hpsn_ry_sl_zcd": "C011004",
+    "hpsn_ry_bg_cz_nm": "음식",
+    "hpsn_ry_mi_cz_nm": "건강식품",
+    "hpsn_ry_sl_cz_nm": "인삼제품"
+  },
+  "C012001": {
+    "hpsn_mct_zcd_nm": "농산물",
+    "hpsn_ry_bg_zcd": "C",
+    "hpsn_ry_mi_zcd": "C012",
+    "hpsn_ry_sl_zcd": "C012001",
+    "hpsn_ry_bg_cz_nm": "음식",
+    "hpsn_ry_mi_cz_nm": "농축수산물",
+    "hpsn_ry_sl_cz_nm": "농산물"
+  },
+  "C012002": {
+    "hpsn_mct_zcd_nm": "축산물",
+    "hpsn_ry_bg_zcd": "C",
+    "hpsn_ry_mi_zcd": "C012",
+    "hpsn_ry_sl_zcd": "C012002",
+    "hpsn_ry_bg_cz_nm": "음식",
+    "hpsn_ry_mi_cz_nm": "농축수산물",
+    "hpsn_ry_sl_cz_nm": "축산물"
+  },
+  "C012003": {
+    "hpsn_mct_zcd_nm": "청과물",
+    "hpsn_ry_bg_zcd": "C",
+    "hpsn_ry_mi_zcd": "C012",
+    "hpsn_ry_sl_zcd": "C012003",
+    "hpsn_ry_bg_cz_nm": "음식",
+    "hpsn_ry_mi_cz_nm": "농축수산물",
+    "hpsn_ry_sl_cz_nm": "청과물"
+  },
+  "C012004": {
+    "hpsn_mct_zcd_nm": "수산물",
+    "hpsn_ry_bg_zcd": "C",
+    "hpsn_ry_mi_zcd": "C012",
+    "hpsn_ry_sl_zcd": "C012004",
+    "hpsn_ry_bg_cz_nm": "음식",
+    "hpsn_ry_mi_cz_nm": "농축수산물",
+    "hpsn_ry_sl_cz_nm": "수산물"
+  },
+  "C012005": {
+    "hpsn_mct_zcd_nm": "건어물",
+    "hpsn_ry_bg_zcd": "C",
+    "hpsn_ry_mi_zcd": "C012",
+    "hpsn_ry_sl_zcd": "C012005",
+    "hpsn_ry_bg_cz_nm": "음식",
+    "hpsn_ry_mi_cz_nm": "농축수산물",
+    "hpsn_ry_sl_cz_nm": "건어물"
+  },
+  "C012006": {
+    "hpsn_mct_zcd_nm": "곡물/사료",
+    "hpsn_ry_bg_zcd": "C",
+    "hpsn_ry_mi_zcd": "C012",
+    "hpsn_ry_sl_zcd": "C012006",
+    "hpsn_ry_bg_cz_nm": "음식",
+    "hpsn_ry_mi_cz_nm": "농축수산물",
+    "hpsn_ry_sl_cz_nm": "곡물/사료"
+  },
+  "C012007": {
+    "hpsn_mct_zcd_nm": "유제품",
+    "hpsn_ry_bg_zcd": "C",
+    "hpsn_ry_mi_zcd": "C012",
+    "hpsn_ry_sl_zcd": "C012007",
+    "hpsn_ry_bg_cz_nm": "음식",
+    "hpsn_ry_mi_cz_nm": "농축수산물",
+    "hpsn_ry_sl_cz_nm": "유제품"
+  },
+  "C012008": {
+    "hpsn_mct_zcd_nm": "양봉원",
+    "hpsn_ry_bg_zcd": "C",
+    "hpsn_ry_mi_zcd": "C012",
+    "hpsn_ry_sl_zcd": "C012008",
+    "hpsn_ry_bg_cz_nm": "음식",
+    "hpsn_ry_mi_cz_nm": "농축수산물",
+    "hpsn_ry_sl_cz_nm": "양봉원"
+  },
+  "C012009": {
+    "hpsn_mct_zcd_nm": "농축산물가공",
+    "hpsn_ry_bg_zcd": "C",
+    "hpsn_ry_mi_zcd": "C012",
+    "hpsn_ry_sl_zcd": "C012009",
+    "hpsn_ry_bg_cz_nm": "음식",
+    "hpsn_ry_mi_cz_nm": "농축수산물",
+    "hpsn_ry_sl_cz_nm": "농축산물가공"
+  },
+  "C013001": {
+    "hpsn_mct_zcd_nm": "떡/한과 제조",
+    "hpsn_ry_bg_zcd": "C",
+    "hpsn_ry_mi_zcd": "C013",
+    "hpsn_ry_sl_zcd": "C013001",
+    "hpsn_ry_bg_cz_nm": "음식",
+    "hpsn_ry_mi_cz_nm": "식품제조",
+    "hpsn_ry_sl_cz_nm": "떡/한과 제조"
+  },
+  "C013002": {
+    "hpsn_mct_zcd_nm": "식품 제조",
+    "hpsn_ry_bg_zcd": "C",
+    "hpsn_ry_mi_zcd": "C013",
+    "hpsn_ry_sl_zcd": "C013002",
+    "hpsn_ry_bg_cz_nm": "음식",
+    "hpsn_ry_mi_cz_nm": "식품제조",
+    "hpsn_ry_sl_cz_nm": "식품 제조"
+  },
+  "C013003": {
+    "hpsn_mct_zcd_nm": "주류 제조",
+    "hpsn_ry_bg_zcd": "C",
+    "hpsn_ry_mi_zcd": "C013",
+    "hpsn_ry_sl_zcd": "C013003",
+    "hpsn_ry_bg_cz_nm": "음식",
+    "hpsn_ry_mi_cz_nm": "식품제조",
+    "hpsn_ry_sl_cz_nm": "주류 제조"
+  },
+  "C014001": {
+    "hpsn_mct_zcd_nm": "요식배달",
+    "hpsn_ry_bg_zcd": "C",
+    "hpsn_ry_mi_zcd": "C014",
+    "hpsn_ry_sl_zcd": "C014001",
+    "hpsn_ry_bg_cz_nm": "음식",
+    "hpsn_ry_mi_cz_nm": "배달",
+    "hpsn_ry_sl_cz_nm": "요식배달"
+  },
+  "D001001": {
+    "hpsn_mct_zcd_nm": "특급호텔",
+    "hpsn_ry_bg_zcd": "D",
+    "hpsn_ry_mi_zcd": "D001",
+    "hpsn_ry_sl_zcd": "D001001",
+    "hpsn_ry_bg_cz_nm": "문화레져",
+    "hpsn_ry_mi_cz_nm": "숙박",
+    "hpsn_ry_sl_cz_nm": "특급호텔"
+  },
+  "D001002": {
+    "hpsn_mct_zcd_nm": "1급호텔",
+    "hpsn_ry_bg_zcd": "D",
+    "hpsn_ry_mi_zcd": "D001",
+    "hpsn_ry_sl_zcd": "D001002",
+    "hpsn_ry_bg_cz_nm": "문화레져",
+    "hpsn_ry_mi_cz_nm": "숙박",
+    "hpsn_ry_sl_cz_nm": "1급호텔"
+  },
+  "D001003": {
+    "hpsn_mct_zcd_nm": "2급호텔",
+    "hpsn_ry_bg_zcd": "D",
+    "hpsn_ry_mi_zcd": "D001",
+    "hpsn_ry_sl_zcd": "D001003",
+    "hpsn_ry_bg_cz_nm": "문화레져",
+    "hpsn_ry_mi_cz_nm": "숙박",
+    "hpsn_ry_sl_cz_nm": "2급호텔"
+  },
+  "D001004": {
+    "hpsn_mct_zcd_nm": "호텔-기타",
+    "hpsn_ry_bg_zcd": "D",
+    "hpsn_ry_mi_zcd": "D001",
+    "hpsn_ry_sl_zcd": "D001004",
+    "hpsn_ry_bg_cz_nm": "문화레져",
+    "hpsn_ry_mi_cz_nm": "숙박",
+    "hpsn_ry_sl_cz_nm": "호텔-기타"
+  },
+  "D001005": {
+    "hpsn_mct_zcd_nm": "콘도미니엄",
+    "hpsn_ry_bg_zcd": "D",
+    "hpsn_ry_mi_zcd": "D001",
+    "hpsn_ry_sl_zcd": "D001005",
+    "hpsn_ry_bg_cz_nm": "문화레져",
+    "hpsn_ry_mi_cz_nm": "숙박",
+    "hpsn_ry_sl_cz_nm": "콘도미니엄"
+  },
+  "D001006": {
+    "hpsn_mct_zcd_nm": "모텔",
+    "hpsn_ry_bg_zcd": "D",
+    "hpsn_ry_mi_zcd": "D001",
+    "hpsn_ry_sl_zcd": "D001006",
+    "hpsn_ry_bg_cz_nm": "문화레져",
+    "hpsn_ry_mi_cz_nm": "숙박",
+    "hpsn_ry_sl_cz_nm": "모텔"
+  },
+  "D001007": {
+    "hpsn_mct_zcd_nm": "캠프/별장/펜션",
+    "hpsn_ry_bg_zcd": "D",
+    "hpsn_ry_mi_zcd": "D001",
+    "hpsn_ry_sl_zcd": "D001007",
+    "hpsn_ry_bg_cz_nm": "문화레져",
+    "hpsn_ry_mi_cz_nm": "숙박",
+    "hpsn_ry_sl_cz_nm": "캠프/별장/펜션"
+  },
+  "D001008": {
+    "hpsn_mct_zcd_nm": "여관/민박",
+    "hpsn_ry_bg_zcd": "D",
+    "hpsn_ry_mi_zcd": "D001",
+    "hpsn_ry_sl_zcd": "D001008",
+    "hpsn_ry_bg_cz_nm": "문화레져",
+    "hpsn_ry_mi_cz_nm": "숙박",
+    "hpsn_ry_sl_cz_nm": "여관/민박"
+  },
+  "D001009": {
+    "hpsn_mct_zcd_nm": "고시원",
+    "hpsn_ry_bg_zcd": "D",
+    "hpsn_ry_mi_zcd": "D001",
+    "hpsn_ry_sl_zcd": "D001009",
+    "hpsn_ry_bg_cz_nm": "문화레져",
+    "hpsn_ry_mi_cz_nm": "숙박",
+    "hpsn_ry_sl_cz_nm": "고시원"
+  },
+  "D001010": {
+    "hpsn_mct_zcd_nm": "숙박예약",
+    "hpsn_ry_bg_zcd": "D",
+    "hpsn_ry_mi_zcd": "D001",
+    "hpsn_ry_sl_zcd": "D001010",
+    "hpsn_ry_bg_cz_nm": "문화레져",
+    "hpsn_ry_mi_cz_nm": "숙박",
+    "hpsn_ry_sl_cz_nm": "숙박예약"
+  },
+  "D002001": {
+    "hpsn_mct_zcd_nm": "스포츠센터",
+    "hpsn_ry_bg_zcd": "D",
+    "hpsn_ry_mi_zcd": "D002",
+    "hpsn_ry_sl_zcd": "D002001",
+    "hpsn_ry_bg_cz_nm": "문화레져",
+    "hpsn_ry_mi_cz_nm": "레져",
+    "hpsn_ry_sl_cz_nm": "스포츠센터"
+  },
+  "D002002": {
+    "hpsn_mct_zcd_nm": "노래방",
+    "hpsn_ry_bg_zcd": "D",
+    "hpsn_ry_mi_zcd": "D002",
+    "hpsn_ry_sl_zcd": "D002002",
+    "hpsn_ry_bg_cz_nm": "문화레져",
+    "hpsn_ry_mi_cz_nm": "레져",
+    "hpsn_ry_sl_cz_nm": "노래방"
+  },
+  "D002003": {
+    "hpsn_mct_zcd_nm": "당구장",
+    "hpsn_ry_bg_zcd": "D",
+    "hpsn_ry_mi_zcd": "D002",
+    "hpsn_ry_sl_zcd": "D002003",
+    "hpsn_ry_bg_cz_nm": "문화레져",
+    "hpsn_ry_mi_cz_nm": "레져",
+    "hpsn_ry_sl_cz_nm": "당구장"
+  },
+  "D002004": {
+    "hpsn_mct_zcd_nm": "골프장",
+    "hpsn_ry_bg_zcd": "D",
+    "hpsn_ry_mi_zcd": "D002",
+    "hpsn_ry_sl_zcd": "D002004",
+    "hpsn_ry_bg_cz_nm": "문화레져",
+    "hpsn_ry_mi_cz_nm": "레져",
+    "hpsn_ry_sl_cz_nm": "골프장"
+  },
+  "D002005": {
+    "hpsn_mct_zcd_nm": "요가",
+    "hpsn_ry_bg_zcd": "D",
+    "hpsn_ry_mi_zcd": "D002",
+    "hpsn_ry_sl_zcd": "D002005",
+    "hpsn_ry_bg_cz_nm": "문화레져",
+    "hpsn_ry_mi_cz_nm": "레져",
+    "hpsn_ry_sl_cz_nm": "요가"
+  },
+  "D002006": {
+    "hpsn_mct_zcd_nm": "유아교육/키즈카페",
+    "hpsn_ry_bg_zcd": "D",
+    "hpsn_ry_mi_zcd": "D002",
+    "hpsn_ry_sl_zcd": "D002006",
+    "hpsn_ry_bg_cz_nm": "문화레져",
+    "hpsn_ry_mi_cz_nm": "레져",
+    "hpsn_ry_sl_cz_nm": "유아교육/키즈카페"
+  },
+  "D002007": {
+    "hpsn_mct_zcd_nm": "실내골프장",
+    "hpsn_ry_bg_zcd": "D",
+    "hpsn_ry_mi_zcd": "D002",
+    "hpsn_ry_sl_zcd": "D002007",
+    "hpsn_ry_bg_cz_nm": "문화레져",
+    "hpsn_ry_mi_cz_nm": "레져",
+    "hpsn_ry_sl_cz_nm": "실내골프장"
+  },
+  "D002008": {
+    "hpsn_mct_zcd_nm": "놀이동산",
+    "hpsn_ry_bg_zcd": "D",
+    "hpsn_ry_mi_zcd": "D002",
+    "hpsn_ry_sl_zcd": "D002008",
+    "hpsn_ry_bg_cz_nm": "문화레져",
+    "hpsn_ry_mi_cz_nm": "레져",
+    "hpsn_ry_sl_cz_nm": "놀이동산"
+  },
+  "D002009": {
+    "hpsn_mct_zcd_nm": "낚시터",
+    "hpsn_ry_bg_zcd": "D",
+    "hpsn_ry_mi_zcd": "D002",
+    "hpsn_ry_sl_zcd": "D002009",
+    "hpsn_ry_bg_cz_nm": "문화레져",
+    "hpsn_ry_mi_cz_nm": "레져",
+    "hpsn_ry_sl_cz_nm": "낚시터"
+  },
+  "D002010": {
+    "hpsn_mct_zcd_nm": "무술 도장",
+    "hpsn_ry_bg_zcd": "D",
+    "hpsn_ry_mi_zcd": "D002",
+    "hpsn_ry_sl_zcd": "D002010",
+    "hpsn_ry_bg_cz_nm": "문화레져",
+    "hpsn_ry_mi_cz_nm": "레져",
+    "hpsn_ry_sl_cz_nm": "무술 도장"
+  },
+  "D002011": {
+    "hpsn_mct_zcd_nm": "볼링장",
+    "hpsn_ry_bg_zcd": "D",
+    "hpsn_ry_mi_zcd": "D002",
+    "hpsn_ry_sl_zcd": "D002011",
+    "hpsn_ry_bg_cz_nm": "문화레져",
+    "hpsn_ry_mi_cz_nm": "레져",
+    "hpsn_ry_sl_cz_nm": "볼링장"
+  },
+  "D002012": {
+    "hpsn_mct_zcd_nm": "비디오감상실",
+    "hpsn_ry_bg_zcd": "D",
+    "hpsn_ry_mi_zcd": "D002",
+    "hpsn_ry_sl_zcd": "D002012",
+    "hpsn_ry_bg_cz_nm": "문화레져",
+    "hpsn_ry_mi_cz_nm": "레져",
+    "hpsn_ry_sl_cz_nm": "비디오감상실"
+  },
+  "D002013": {
+    "hpsn_mct_zcd_nm": "수상스포츠",
+    "hpsn_ry_bg_zcd": "D",
+    "hpsn_ry_mi_zcd": "D002",
+    "hpsn_ry_sl_zcd": "D002013",
+    "hpsn_ry_bg_cz_nm": "문화레져",
+    "hpsn_ry_mi_cz_nm": "레져",
+    "hpsn_ry_sl_cz_nm": "수상스포츠"
+  },
+  "D002014": {
+    "hpsn_mct_zcd_nm": "수영장",
+    "hpsn_ry_bg_zcd": "D",
+    "hpsn_ry_mi_zcd": "D002",
+    "hpsn_ry_sl_zcd": "D002014",
+    "hpsn_ry_bg_cz_nm": "문화레져",
+    "hpsn_ry_mi_cz_nm": "레져",
+    "hpsn_ry_sl_cz_nm": "수영장"
+  },
+  "D002015": {
+    "hpsn_mct_zcd_nm": "실내야구연습장",
+    "hpsn_ry_bg_zcd": "D",
+    "hpsn_ry_mi_zcd": "D002",
+    "hpsn_ry_sl_zcd": "D002015",
+    "hpsn_ry_bg_cz_nm": "문화레져",
+    "hpsn_ry_mi_cz_nm": "레져",
+    "hpsn_ry_sl_cz_nm": "실내야구연습장"
+  },
+  "D002016": {
+    "hpsn_mct_zcd_nm": "축구/풋살/족구장",
+    "hpsn_ry_bg_zcd": "D",
+    "hpsn_ry_mi_zcd": "D002",
+    "hpsn_ry_sl_zcd": "D002016",
+    "hpsn_ry_bg_cz_nm": "문화레져",
+    "hpsn_ry_mi_cz_nm": "레져",
+    "hpsn_ry_sl_cz_nm": "축구/풋살/족구장"
+  },
+  "D002017": {
+    "hpsn_mct_zcd_nm": "탁구장",
+    "hpsn_ry_bg_zcd": "D",
+    "hpsn_ry_mi_zcd": "D002",
+    "hpsn_ry_sl_zcd": "D002017",
+    "hpsn_ry_bg_cz_nm": "문화레져",
+    "hpsn_ry_mi_cz_nm": "레져",
+    "hpsn_ry_sl_cz_nm": "탁구장"
+  },
+  "D002018": {
+    "hpsn_mct_zcd_nm": "테니스장",
+    "hpsn_ry_bg_zcd": "D",
+    "hpsn_ry_mi_zcd": "D002",
+    "hpsn_ry_sl_zcd": "D002018",
+    "hpsn_ry_bg_cz_nm": "문화레져",
+    "hpsn_ry_mi_cz_nm": "레져",
+    "hpsn_ry_sl_cz_nm": "테니스장"
+  },
+  "D002019": {
+    "hpsn_mct_zcd_nm": "스포츠강습",
+    "hpsn_ry_bg_zcd": "D",
+    "hpsn_ry_mi_zcd": "D002",
+    "hpsn_ry_sl_zcd": "D002019",
+    "hpsn_ry_bg_cz_nm": "문화레져",
+    "hpsn_ry_mi_cz_nm": "레져",
+    "hpsn_ry_sl_cz_nm": "스포츠강습"
+  },
+  "D002020": {
+    "hpsn_mct_zcd_nm": "복권",
+    "hpsn_ry_bg_zcd": "D",
+    "hpsn_ry_mi_zcd": "D002",
+    "hpsn_ry_sl_zcd": "D002020",
+    "hpsn_ry_bg_cz_nm": "문화레져",
+    "hpsn_ry_mi_cz_nm": "레져",
+    "hpsn_ry_sl_cz_nm": "복권"
+  },
+  "D002021": {
+    "hpsn_mct_zcd_nm": "레저-기타",
+    "hpsn_ry_bg_zcd": "D",
+    "hpsn_ry_mi_zcd": "D002",
+    "hpsn_ry_sl_zcd": "D002021",
+    "hpsn_ry_bg_cz_nm": "문화레져",
+    "hpsn_ry_mi_cz_nm": "레져",
+    "hpsn_ry_sl_cz_nm": "레저-기타"
+  },
+  "D002022": {
+    "hpsn_mct_zcd_nm": "웹툰/웹소설",
+    "hpsn_ry_bg_zcd": "D",
+    "hpsn_ry_mi_zcd": "D002",
+    "hpsn_ry_sl_zcd": "D002022",
+    "hpsn_ry_bg_cz_nm": "문화레져",
+    "hpsn_ry_mi_cz_nm": "레져",
+    "hpsn_ry_sl_cz_nm": "웹툰/웹소설"
+  },
+  "D002023": {
+    "hpsn_mct_zcd_nm": "스크린골프연습장",
+    "hpsn_ry_bg_zcd": "D",
+    "hpsn_ry_mi_zcd": "D002",
+    "hpsn_ry_sl_zcd": "D002023",
+    "hpsn_ry_bg_cz_nm": "문화레져",
+    "hpsn_ry_mi_cz_nm": "레져",
+    "hpsn_ry_sl_cz_nm": "스크린골프연습장"
+  },
+  "D002024": {
+    "hpsn_mct_zcd_nm": "필라테스",
+    "hpsn_ry_bg_zcd": "D",
+    "hpsn_ry_mi_zcd": "D002",
+    "hpsn_ry_sl_zcd": "D002024",
+    "hpsn_ry_bg_cz_nm": "문화레져",
+    "hpsn_ry_mi_cz_nm": "레져",
+    "hpsn_ry_sl_cz_nm": "필라테스"
+  },
+  "D003001": {
+    "hpsn_mct_zcd_nm": "스포츠의류전문",
+    "hpsn_ry_bg_zcd": "D",
+    "hpsn_ry_mi_zcd": "D003",
+    "hpsn_ry_sl_zcd": "D003001",
+    "hpsn_ry_bg_cz_nm": "문화레져",
+    "hpsn_ry_mi_cz_nm": "레져용품",
+    "hpsn_ry_sl_cz_nm": "스포츠의류전문"
+  },
+  "D003002": {
+    "hpsn_mct_zcd_nm": "스포츠용품",
+    "hpsn_ry_bg_zcd": "D",
+    "hpsn_ry_mi_zcd": "D003",
+    "hpsn_ry_sl_zcd": "D003002",
+    "hpsn_ry_bg_cz_nm": "문화레져",
+    "hpsn_ry_mi_cz_nm": "레져용품",
+    "hpsn_ry_sl_cz_nm": "스포츠용품"
+  },
+  "D003003": {
+    "hpsn_mct_zcd_nm": "골프용품",
+    "hpsn_ry_bg_zcd": "D",
+    "hpsn_ry_mi_zcd": "D003",
+    "hpsn_ry_sl_zcd": "D003003",
+    "hpsn_ry_bg_cz_nm": "문화레져",
+    "hpsn_ry_mi_cz_nm": "레져용품",
+    "hpsn_ry_sl_cz_nm": "골프용품"
+  },
+  "D003004": {
+    "hpsn_mct_zcd_nm": "낚시용품",
+    "hpsn_ry_bg_zcd": "D",
+    "hpsn_ry_mi_zcd": "D003",
+    "hpsn_ry_sl_zcd": "D003004",
+    "hpsn_ry_bg_cz_nm": "문화레져",
+    "hpsn_ry_mi_cz_nm": "레져용품",
+    "hpsn_ry_sl_cz_nm": "낚시용품"
+  },
+  "D003005": {
+    "hpsn_mct_zcd_nm": "보트",
+    "hpsn_ry_bg_zcd": "D",
+    "hpsn_ry_mi_zcd": "D003",
+    "hpsn_ry_sl_zcd": "D003005",
+    "hpsn_ry_bg_cz_nm": "문화레져",
+    "hpsn_ry_mi_cz_nm": "레져용품",
+    "hpsn_ry_sl_cz_nm": "보트"
+  },
+  "D003006": {
+    "hpsn_mct_zcd_nm": "수중장비",
+    "hpsn_ry_bg_zcd": "D",
+    "hpsn_ry_mi_zcd": "D003",
+    "hpsn_ry_sl_zcd": "D003006",
+    "hpsn_ry_bg_cz_nm": "문화레져",
+    "hpsn_ry_mi_cz_nm": "레져용품",
+    "hpsn_ry_sl_cz_nm": "수중장비"
+  },
+  "D003007": {
+    "hpsn_mct_zcd_nm": "자전거-성인용",
+    "hpsn_ry_bg_zcd": "D",
+    "hpsn_ry_mi_zcd": "D003",
+    "hpsn_ry_sl_zcd": "D003007",
+    "hpsn_ry_bg_cz_nm": "문화레져",
+    "hpsn_ry_mi_cz_nm": "레져용품",
+    "hpsn_ry_sl_cz_nm": "자전거-성인용"
+  },
+  "D003010": {
+    "hpsn_mct_zcd_nm": "등산/아웃도어전문",
+    "hpsn_ry_bg_zcd": "D",
+    "hpsn_ry_mi_zcd": "D003",
+    "hpsn_ry_sl_zcd": "D003010",
+    "hpsn_ry_bg_cz_nm": "문화레져",
+    "hpsn_ry_mi_cz_nm": "레져용품",
+    "hpsn_ry_sl_cz_nm": "등산/아웃도어전문"
+  },
+  "D003011": {
+    "hpsn_mct_zcd_nm": "골프웨어",
+    "hpsn_ry_bg_zcd": "D",
+    "hpsn_ry_mi_zcd": "D003",
+    "hpsn_ry_sl_zcd": "D003011",
+    "hpsn_ry_bg_cz_nm": "문화레져",
+    "hpsn_ry_mi_cz_nm": "레져용품",
+    "hpsn_ry_sl_cz_nm": "골프웨어"
+  },
+  "D004001": {
+    "hpsn_mct_zcd_nm": "동물농장",
+    "hpsn_ry_bg_zcd": "D",
+    "hpsn_ry_mi_zcd": "D004",
+    "hpsn_ry_sl_zcd": "D004001",
+    "hpsn_ry_bg_cz_nm": "문화레져",
+    "hpsn_ry_mi_cz_nm": "동물",
+    "hpsn_ry_sl_cz_nm": "동물농장"
+  },
+  "D004002": {
+    "hpsn_mct_zcd_nm": "애완동물용품",
+    "hpsn_ry_bg_zcd": "D",
+    "hpsn_ry_mi_zcd": "D004",
+    "hpsn_ry_sl_zcd": "D004002",
+    "hpsn_ry_bg_cz_nm": "문화레져",
+    "hpsn_ry_mi_cz_nm": "동물",
+    "hpsn_ry_sl_cz_nm": "애완동물용품"
+  },
+  "D004003": {
+    "hpsn_mct_zcd_nm": "애완동물판매",
+    "hpsn_ry_bg_zcd": "D",
+    "hpsn_ry_mi_zcd": "D004",
+    "hpsn_ry_sl_zcd": "D004003",
+    "hpsn_ry_bg_cz_nm": "문화레져",
+    "hpsn_ry_mi_cz_nm": "동물",
+    "hpsn_ry_sl_cz_nm": "애완동물판매"
+  },
+  "D004004": {
+    "hpsn_mct_zcd_nm": "애완동물훈련/놀이터",
+    "hpsn_ry_bg_zcd": "D",
+    "hpsn_ry_mi_zcd": "D004",
+    "hpsn_ry_sl_zcd": "D004004",
+    "hpsn_ry_bg_cz_nm": "문화레져",
+    "hpsn_ry_mi_cz_nm": "동물",
+    "hpsn_ry_sl_cz_nm": "애완동물훈련/놀이터"
+  },
+  "D004005": {
+    "hpsn_mct_zcd_nm": "애완동물미용실",
+    "hpsn_ry_bg_zcd": "D",
+    "hpsn_ry_mi_zcd": "D004",
+    "hpsn_ry_sl_zcd": "D004005",
+    "hpsn_ry_bg_cz_nm": "문화레져",
+    "hpsn_ry_mi_cz_nm": "동물",
+    "hpsn_ry_sl_cz_nm": "애완동물미용실"
+  },
+  "D004006": {
+    "hpsn_mct_zcd_nm": "애완동물장례식장",
+    "hpsn_ry_bg_zcd": "D",
+    "hpsn_ry_mi_zcd": "D004",
+    "hpsn_ry_sl_zcd": "D004006",
+    "hpsn_ry_bg_cz_nm": "문화레져",
+    "hpsn_ry_mi_cz_nm": "동물",
+    "hpsn_ry_sl_cz_nm": "애완동물장례식장"
+  },
+  "D004007": {
+    "hpsn_mct_zcd_nm": "애완동물카페",
+    "hpsn_ry_bg_zcd": "D",
+    "hpsn_ry_mi_zcd": "D004",
+    "hpsn_ry_sl_zcd": "D004007",
+    "hpsn_ry_bg_cz_nm": "문화레져",
+    "hpsn_ry_mi_cz_nm": "동물",
+    "hpsn_ry_sl_cz_nm": "애완동물카페"
+  },
+  "D005001": {
+    "hpsn_mct_zcd_nm": "병원-동물병원",
+    "hpsn_ry_bg_zcd": "D",
+    "hpsn_ry_mi_zcd": "D005",
+    "hpsn_ry_sl_zcd": "D005001",
+    "hpsn_ry_bg_cz_nm": "문화레져",
+    "hpsn_ry_mi_cz_nm": "동물병원",
+    "hpsn_ry_sl_cz_nm": "병원-동물병원"
+  },
+  "D006001": {
+    "hpsn_mct_zcd_nm": "악기",
+    "hpsn_ry_bg_zcd": "D",
+    "hpsn_ry_mi_zcd": "D006",
+    "hpsn_ry_sl_zcd": "D006001",
+    "hpsn_ry_bg_cz_nm": "문화레져",
+    "hpsn_ry_mi_cz_nm": "음반/음원/영상",
+    "hpsn_ry_sl_cz_nm": "악기"
+  },
+  "D006002": {
+    "hpsn_mct_zcd_nm": "음반/음원",
+    "hpsn_ry_bg_zcd": "D",
+    "hpsn_ry_mi_zcd": "D006",
+    "hpsn_ry_sl_zcd": "D006002",
+    "hpsn_ry_bg_cz_nm": "문화레져",
+    "hpsn_ry_mi_cz_nm": "음반/음원/영상",
+    "hpsn_ry_sl_cz_nm": "음반/음원"
+  },
+  "D006003": {
+    "hpsn_mct_zcd_nm": "온라인종합컨텐츠",
+    "hpsn_ry_bg_zcd": "D",
+    "hpsn_ry_mi_zcd": "D006",
+    "hpsn_ry_sl_zcd": "D006003",
+    "hpsn_ry_bg_cz_nm": "문화레져",
+    "hpsn_ry_mi_cz_nm": "음반/음원/영상",
+    "hpsn_ry_sl_cz_nm": "온라인종합컨텐츠"
+  },
+  "D007001": {
+    "hpsn_mct_zcd_nm": "여행사",
+    "hpsn_ry_bg_zcd": "D",
+    "hpsn_ry_mi_zcd": "D007",
+    "hpsn_ry_sl_zcd": "D007001",
+    "hpsn_ry_bg_cz_nm": "문화레져",
+    "hpsn_ry_mi_cz_nm": "여행사",
+    "hpsn_ry_sl_cz_nm": "여행사"
+  },
+  "D007002": {
+    "hpsn_mct_zcd_nm": "이민/유학",
+    "hpsn_ry_bg_zcd": "D",
+    "hpsn_ry_mi_zcd": "D007",
+    "hpsn_ry_sl_zcd": "D007002",
+    "hpsn_ry_bg_cz_nm": "문화레져",
+    "hpsn_ry_mi_cz_nm": "여행사",
+    "hpsn_ry_sl_cz_nm": "이민/유학"
+  },
+  "D008001": {
+    "hpsn_mct_zcd_nm": "공예품",
+    "hpsn_ry_bg_zcd": "D",
+    "hpsn_ry_mi_zcd": "D008",
+    "hpsn_ry_sl_zcd": "D008001",
+    "hpsn_ry_bg_cz_nm": "문화레져",
+    "hpsn_ry_mi_cz_nm": "예술품",
+    "hpsn_ry_sl_cz_nm": "공예품"
+  },
+  "D008002": {
+    "hpsn_mct_zcd_nm": "골동품/예술품",
+    "hpsn_ry_bg_zcd": "D",
+    "hpsn_ry_mi_zcd": "D008",
+    "hpsn_ry_sl_zcd": "D008002",
+    "hpsn_ry_bg_cz_nm": "문화레져",
+    "hpsn_ry_mi_cz_nm": "예술품",
+    "hpsn_ry_sl_cz_nm": "골동품/예술품"
+  },
+  "D008003": {
+    "hpsn_mct_zcd_nm": "그림/액자",
+    "hpsn_ry_bg_zcd": "D",
+    "hpsn_ry_mi_zcd": "D008",
+    "hpsn_ry_sl_zcd": "D008003",
+    "hpsn_ry_bg_cz_nm": "문화레져",
+    "hpsn_ry_mi_cz_nm": "예술품",
+    "hpsn_ry_sl_cz_nm": "그림/액자"
+  },
+  "D008004": {
+    "hpsn_mct_zcd_nm": "선물/기념품",
+    "hpsn_ry_bg_zcd": "D",
+    "hpsn_ry_mi_zcd": "D008",
+    "hpsn_ry_sl_zcd": "D008004",
+    "hpsn_ry_bg_cz_nm": "문화레져",
+    "hpsn_ry_mi_cz_nm": "예술품",
+    "hpsn_ry_sl_cz_nm": "선물/기념품"
+  },
+  "D009001": {
+    "hpsn_mct_zcd_nm": "꽃집/꽃배달",
+    "hpsn_ry_bg_zcd": "D",
+    "hpsn_ry_mi_zcd": "D009",
+    "hpsn_ry_sl_zcd": "D009001",
+    "hpsn_ry_bg_cz_nm": "문화레져",
+    "hpsn_ry_mi_cz_nm": "화원",
+    "hpsn_ry_sl_cz_nm": "꽃집/꽃배달"
+  },
+  "D009002": {
+    "hpsn_mct_zcd_nm": "분재",
+    "hpsn_ry_bg_zcd": "D",
+    "hpsn_ry_mi_zcd": "D009",
+    "hpsn_ry_sl_zcd": "D009002",
+    "hpsn_ry_bg_cz_nm": "문화레져",
+    "hpsn_ry_mi_cz_nm": "화원",
+    "hpsn_ry_sl_cz_nm": "분재"
+  },
+  "D009003": {
+    "hpsn_mct_zcd_nm": "화훼/조경",
+    "hpsn_ry_bg_zcd": "D",
+    "hpsn_ry_mi_zcd": "D009",
+    "hpsn_ry_sl_zcd": "D009003",
+    "hpsn_ry_bg_cz_nm": "문화레져",
+    "hpsn_ry_mi_cz_nm": "화원",
+    "hpsn_ry_sl_cz_nm": "화훼/조경"
+  },
+  "D010001": {
+    "hpsn_mct_zcd_nm": "영화관",
+    "hpsn_ry_bg_zcd": "D",
+    "hpsn_ry_mi_zcd": "D010",
+    "hpsn_ry_sl_zcd": "D010001",
+    "hpsn_ry_bg_cz_nm": "문화레져",
+    "hpsn_ry_mi_cz_nm": "전시/관람/체험",
+    "hpsn_ry_sl_cz_nm": "영화관"
+  },
+  "D010002": {
+    "hpsn_mct_zcd_nm": "박물관/전시관",
+    "hpsn_ry_bg_zcd": "D",
+    "hpsn_ry_mi_zcd": "D010",
+    "hpsn_ry_sl_zcd": "D010002",
+    "hpsn_ry_bg_cz_nm": "문화레져",
+    "hpsn_ry_mi_cz_nm": "전시/관람/체험",
+    "hpsn_ry_sl_cz_nm": "박물관/전시관"
+  },
+  "D010003": {
+    "hpsn_mct_zcd_nm": "연극/음악/공연",
+    "hpsn_ry_bg_zcd": "D",
+    "hpsn_ry_mi_zcd": "D010",
+    "hpsn_ry_sl_zcd": "D010003",
+    "hpsn_ry_bg_cz_nm": "문화레져",
+    "hpsn_ry_mi_cz_nm": "전시/관람/체험",
+    "hpsn_ry_sl_cz_nm": "연극/음악/공연"
+  },
+  "D010004": {
+    "hpsn_mct_zcd_nm": "수족관",
+    "hpsn_ry_bg_zcd": "D",
+    "hpsn_ry_mi_zcd": "D010",
+    "hpsn_ry_sl_zcd": "D010004",
+    "hpsn_ry_bg_cz_nm": "문화레져",
+    "hpsn_ry_mi_cz_nm": "전시/관람/체험",
+    "hpsn_ry_sl_cz_nm": "수족관"
+  },
+  "D010005": {
+    "hpsn_mct_zcd_nm": "단전호흡",
+    "hpsn_ry_bg_zcd": "D",
+    "hpsn_ry_mi_zcd": "D010",
+    "hpsn_ry_sl_zcd": "D010005",
+    "hpsn_ry_bg_cz_nm": "문화레져",
+    "hpsn_ry_mi_cz_nm": "전시/관람/체험",
+    "hpsn_ry_sl_cz_nm": "단전호흡"
+  },
+  "D010006": {
+    "hpsn_mct_zcd_nm": "자연학습원",
+    "hpsn_ry_bg_zcd": "D",
+    "hpsn_ry_mi_zcd": "D010",
+    "hpsn_ry_sl_zcd": "D010006",
+    "hpsn_ry_bg_cz_nm": "문화레져",
+    "hpsn_ry_mi_cz_nm": "전시/관람/체험",
+    "hpsn_ry_sl_cz_nm": "자연학습원"
+  },
+  "D010007": {
+    "hpsn_mct_zcd_nm": "테마카페",
+    "hpsn_ry_bg_zcd": "D",
+    "hpsn_ry_mi_zcd": "D010",
+    "hpsn_ry_sl_zcd": "D010007",
+    "hpsn_ry_bg_cz_nm": "문화레져",
+    "hpsn_ry_mi_cz_nm": "전시/관람/체험",
+    "hpsn_ry_sl_cz_nm": "테마카페"
+  },
+  "D010008": {
+    "hpsn_mct_zcd_nm": "관람예약",
+    "hpsn_ry_bg_zcd": "D",
+    "hpsn_ry_mi_zcd": "D010",
+    "hpsn_ry_sl_zcd": "D010008",
+    "hpsn_ry_bg_cz_nm": "문화레져",
+    "hpsn_ry_mi_cz_nm": "전시/관람/체험",
+    "hpsn_ry_sl_cz_nm": "관람예약"
+  },
+  "D011001": {
+    "hpsn_mct_zcd_nm": "인터넷PC방",
+    "hpsn_ry_bg_zcd": "D",
+    "hpsn_ry_mi_zcd": "D011",
+    "hpsn_ry_sl_zcd": "D011001",
+    "hpsn_ry_bg_cz_nm": "문화레져",
+    "hpsn_ry_mi_cz_nm": "오락실/PC방",
+    "hpsn_ry_sl_cz_nm": "인터넷PC방"
+  },
+  "D011002": {
+    "hpsn_mct_zcd_nm": "전자오락실",
+    "hpsn_ry_bg_zcd": "D",
+    "hpsn_ry_mi_zcd": "D011",
+    "hpsn_ry_sl_zcd": "D011002",
+    "hpsn_ry_bg_cz_nm": "문화레져",
+    "hpsn_ry_mi_cz_nm": "오락실/PC방",
+    "hpsn_ry_sl_cz_nm": "전자오락실"
+  },
+  "D011003": {
+    "hpsn_mct_zcd_nm": "온라인게임",
+    "hpsn_ry_bg_zcd": "D",
+    "hpsn_ry_mi_zcd": "D011",
+    "hpsn_ry_sl_zcd": "D011003",
+    "hpsn_ry_bg_cz_nm": "문화레져",
+    "hpsn_ry_mi_cz_nm": "오락실/PC방",
+    "hpsn_ry_sl_cz_nm": "온라인게임"
+  },
+  "D012001": {
+    "hpsn_mct_zcd_nm": "자전거-아동용",
+    "hpsn_ry_bg_zcd": "D",
+    "hpsn_ry_mi_zcd": "D012",
+    "hpsn_ry_sl_zcd": "D012001",
+    "hpsn_ry_bg_cz_nm": "문화레져",
+    "hpsn_ry_mi_cz_nm": "완구/아동용자전거",
+    "hpsn_ry_sl_cz_nm": "자전거-아동용"
+  },
+  "D012002": {
+    "hpsn_mct_zcd_nm": "장난감/오락기기",
+    "hpsn_ry_bg_zcd": "D",
+    "hpsn_ry_mi_zcd": "D012",
+    "hpsn_ry_sl_zcd": "D012002",
+    "hpsn_ry_bg_cz_nm": "문화레져",
+    "hpsn_ry_mi_cz_nm": "완구/아동용자전거",
+    "hpsn_ry_sl_cz_nm": "장난감/오락기기"
+  },
+  "D013001": {
+    "hpsn_mct_zcd_nm": "종교용품",
+    "hpsn_ry_bg_zcd": "D",
+    "hpsn_ry_mi_zcd": "D013",
+    "hpsn_ry_sl_zcd": "D013001",
+    "hpsn_ry_bg_cz_nm": "문화레져",
+    "hpsn_ry_mi_cz_nm": "종교",
+    "hpsn_ry_sl_cz_nm": "종교용품"
+  },
+  "D014001": {
+    "hpsn_mct_zcd_nm": "운명/운세/작명",
+    "hpsn_ry_bg_zcd": "D",
+    "hpsn_ry_mi_zcd": "D014",
+    "hpsn_ry_sl_zcd": "D014001",
+    "hpsn_ry_bg_cz_nm": "문화레져",
+    "hpsn_ry_mi_cz_nm": "운명/운세/작명",
+    "hpsn_ry_sl_cz_nm": "운명/운세/작명"
+  },
+  "D015001": {
+    "hpsn_mct_zcd_nm": "휴게소",
+    "hpsn_ry_bg_zcd": "D",
+    "hpsn_ry_mi_zcd": "D015",
+    "hpsn_ry_sl_zcd": "D015001",
+    "hpsn_ry_bg_cz_nm": "문화레져",
+    "hpsn_ry_mi_cz_nm": "휴게소",
+    "hpsn_ry_sl_cz_nm": "휴게소"
+  },
+  "E001001": {
+    "hpsn_mct_zcd_nm": "미용실",
+    "hpsn_ry_bg_zcd": "E",
+    "hpsn_ry_mi_zcd": "E001",
+    "hpsn_ry_sl_zcd": "E001001",
+    "hpsn_ry_bg_cz_nm": "생활서비스",
+    "hpsn_ry_mi_cz_nm": "미용/사우나/마사지",
+    "hpsn_ry_sl_cz_nm": "미용실"
+  },
+  "E001002": {
+    "hpsn_mct_zcd_nm": "미용제품",
+    "hpsn_ry_bg_zcd": "E",
+    "hpsn_ry_mi_zcd": "E001",
+    "hpsn_ry_sl_zcd": "E001002",
+    "hpsn_ry_bg_cz_nm": "생활서비스",
+    "hpsn_ry_mi_cz_nm": "미용/사우나/마사지",
+    "hpsn_ry_sl_cz_nm": "미용제품"
+  },
+  "E001003": {
+    "hpsn_mct_zcd_nm": "가발",
+    "hpsn_ry_bg_zcd": "E",
+    "hpsn_ry_mi_zcd": "E001",
+    "hpsn_ry_sl_zcd": "E001003",
+    "hpsn_ry_bg_cz_nm": "생활서비스",
+    "hpsn_ry_mi_cz_nm": "미용/사우나/마사지",
+    "hpsn_ry_sl_cz_nm": "가발"
+  },
+  "E001004": {
+    "hpsn_mct_zcd_nm": "네일케어",
+    "hpsn_ry_bg_zcd": "E",
+    "hpsn_ry_mi_zcd": "E001",
+    "hpsn_ry_sl_zcd": "E001004",
+    "hpsn_ry_bg_cz_nm": "생활서비스",
+    "hpsn_ry_mi_cz_nm": "미용/사우나/마사지",
+    "hpsn_ry_sl_cz_nm": "네일케어"
+  },
+  "E001005": {
+    "hpsn_mct_zcd_nm": "스포츠마사지",
+    "hpsn_ry_bg_zcd": "E",
+    "hpsn_ry_mi_zcd": "E001",
+    "hpsn_ry_sl_zcd": "E001005",
+    "hpsn_ry_bg_cz_nm": "생활서비스",
+    "hpsn_ry_mi_cz_nm": "미용/사우나/마사지",
+    "hpsn_ry_sl_cz_nm": "스포츠마사지"
+  },
+  "E001006": {
+    "hpsn_mct_zcd_nm": "피부관리/마사지",
+    "hpsn_ry_bg_zcd": "E",
+    "hpsn_ry_mi_zcd": "E001",
+    "hpsn_ry_sl_zcd": "E001006",
+    "hpsn_ry_bg_cz_nm": "생활서비스",
+    "hpsn_ry_mi_cz_nm": "미용/사우나/마사지",
+    "hpsn_ry_sl_cz_nm": "피부관리/마사지"
+  },
+  "E001007": {
+    "hpsn_mct_zcd_nm": "체형/두피관리",
+    "hpsn_ry_bg_zcd": "E",
+    "hpsn_ry_mi_zcd": "E001",
+    "hpsn_ry_sl_zcd": "E001007",
+    "hpsn_ry_bg_cz_nm": "생활서비스",
+    "hpsn_ry_mi_cz_nm": "미용/사우나/마사지",
+    "hpsn_ry_sl_cz_nm": "체형/두피관리"
+  },
+  "E001008": {
+    "hpsn_mct_zcd_nm": "목욕탕",
+    "hpsn_ry_bg_zcd": "E",
+    "hpsn_ry_mi_zcd": "E001",
+    "hpsn_ry_sl_zcd": "E001008",
+    "hpsn_ry_bg_cz_nm": "생활서비스",
+    "hpsn_ry_mi_cz_nm": "미용/사우나/마사지",
+    "hpsn_ry_sl_cz_nm": "목욕탕"
+  },
+  "E001011": {
+    "hpsn_mct_zcd_nm": "남성전용미용실/이발소",
+    "hpsn_ry_bg_zcd": "E",
+    "hpsn_ry_mi_zcd": "E001",
+    "hpsn_ry_sl_zcd": "E001011",
+    "hpsn_ry_bg_cz_nm": "생활서비스",
+    "hpsn_ry_mi_cz_nm": "미용/사우나/마사지",
+    "hpsn_ry_sl_cz_nm": "남성전용미용실/이발소"
+  },
+  "E001012": {
+    "hpsn_mct_zcd_nm": "메이크업",
+    "hpsn_ry_bg_zcd": "E",
+    "hpsn_ry_mi_zcd": "E001",
+    "hpsn_ry_sl_zcd": "E001012",
+    "hpsn_ry_bg_cz_nm": "생활서비스",
+    "hpsn_ry_mi_cz_nm": "미용/사우나/마사지",
+    "hpsn_ry_sl_cz_nm": "메이크업"
+  },
+  "E001013": {
+    "hpsn_mct_zcd_nm": "속눈썹증모/연장",
+    "hpsn_ry_bg_zcd": "E",
+    "hpsn_ry_mi_zcd": "E001",
+    "hpsn_ry_sl_zcd": "E001013",
+    "hpsn_ry_bg_cz_nm": "생활서비스",
+    "hpsn_ry_mi_cz_nm": "미용/사우나/마사지",
+    "hpsn_ry_sl_cz_nm": "속눈썹증모/연장"
+  },
+  "E001014": {
+    "hpsn_mct_zcd_nm": "왁싱/제모",
+    "hpsn_ry_bg_zcd": "E",
+    "hpsn_ry_mi_zcd": "E001",
+    "hpsn_ry_sl_zcd": "E001014",
+    "hpsn_ry_bg_cz_nm": "생활서비스",
+    "hpsn_ry_mi_cz_nm": "미용/사우나/마사지",
+    "hpsn_ry_sl_cz_nm": "왁싱/제모"
+  },
+  "E002001": {
+    "hpsn_mct_zcd_nm": "세탁소",
+    "hpsn_ry_bg_zcd": "E",
+    "hpsn_ry_mi_zcd": "E002",
+    "hpsn_ry_sl_zcd": "E002001",
+    "hpsn_ry_bg_cz_nm": "생활서비스",
+    "hpsn_ry_mi_cz_nm": "세탁소",
+    "hpsn_ry_sl_cz_nm": "세탁소"
+  },
+  "E002002": {
+    "hpsn_mct_zcd_nm": "특수세탁",
+    "hpsn_ry_bg_zcd": "E",
+    "hpsn_ry_mi_zcd": "E002",
+    "hpsn_ry_sl_zcd": "E002002",
+    "hpsn_ry_bg_cz_nm": "생활서비스",
+    "hpsn_ry_mi_cz_nm": "세탁소",
+    "hpsn_ry_sl_cz_nm": "특수세탁"
+  },
+  "E002003": {
+    "hpsn_mct_zcd_nm": "셀프빨래방",
+    "hpsn_ry_bg_zcd": "E",
+    "hpsn_ry_mi_zcd": "E002",
+    "hpsn_ry_sl_zcd": "E002003",
+    "hpsn_ry_bg_cz_nm": "생활서비스",
+    "hpsn_ry_mi_cz_nm": "세탁소",
+    "hpsn_ry_sl_cz_nm": "셀프빨래방"
+  },
+  "E003001": {
+    "hpsn_mct_zcd_nm": "자동차 경정비",
+    "hpsn_ry_bg_zcd": "E",
+    "hpsn_ry_mi_zcd": "E003",
+    "hpsn_ry_sl_zcd": "E003001",
+    "hpsn_ry_bg_cz_nm": "생활서비스",
+    "hpsn_ry_mi_cz_nm": "자동차정비",
+    "hpsn_ry_sl_cz_nm": "자동차 경정비"
+  },
+  "E003002": {
+    "hpsn_mct_zcd_nm": "세차/광택",
+    "hpsn_ry_bg_zcd": "E",
+    "hpsn_ry_mi_zcd": "E003",
+    "hpsn_ry_sl_zcd": "E003002",
+    "hpsn_ry_bg_cz_nm": "생활서비스",
+    "hpsn_ry_mi_cz_nm": "자동차정비",
+    "hpsn_ry_sl_cz_nm": "세차/광택"
+  },
+  "E003003": {
+    "hpsn_mct_zcd_nm": "자동차 시트/타이어",
+    "hpsn_ry_bg_zcd": "E",
+    "hpsn_ry_mi_zcd": "E003",
+    "hpsn_ry_sl_zcd": "E003003",
+    "hpsn_ry_bg_cz_nm": "생활서비스",
+    "hpsn_ry_mi_cz_nm": "자동차정비",
+    "hpsn_ry_sl_cz_nm": "자동차 시트/타이어"
+  },
+  "E003004": {
+    "hpsn_mct_zcd_nm": "자동차 정비-수입",
+    "hpsn_ry_bg_zcd": "E",
+    "hpsn_ry_mi_zcd": "E003",
+    "hpsn_ry_sl_zcd": "E003004",
+    "hpsn_ry_bg_cz_nm": "생활서비스",
+    "hpsn_ry_mi_cz_nm": "자동차정비",
+    "hpsn_ry_sl_cz_nm": "자동차 정비-수입"
+  },
+  "E003005": {
+    "hpsn_mct_zcd_nm": "자동차 검사소",
+    "hpsn_ry_bg_zcd": "E",
+    "hpsn_ry_mi_zcd": "E003",
+    "hpsn_ry_sl_zcd": "E003005",
+    "hpsn_ry_bg_cz_nm": "생활서비스",
+    "hpsn_ry_mi_cz_nm": "자동차정비",
+    "hpsn_ry_sl_cz_nm": "자동차 검사소"
+  },
+  "E003006": {
+    "hpsn_mct_zcd_nm": "중장비 정비",
+    "hpsn_ry_bg_zcd": "E",
+    "hpsn_ry_mi_zcd": "E003",
+    "hpsn_ry_sl_zcd": "E003006",
+    "hpsn_ry_bg_cz_nm": "생활서비스",
+    "hpsn_ry_mi_cz_nm": "자동차정비",
+    "hpsn_ry_sl_cz_nm": "중장비 정비"
+  },
+  "E003007": {
+    "hpsn_mct_zcd_nm": "중장비 판매",
+    "hpsn_ry_bg_zcd": "E",
+    "hpsn_ry_mi_zcd": "E003",
+    "hpsn_ry_sl_zcd": "E003007",
+    "hpsn_ry_bg_cz_nm": "생활서비스",
+    "hpsn_ry_mi_cz_nm": "자동차정비",
+    "hpsn_ry_sl_cz_nm": "중장비 판매"
+  },
+  "E003008": {
+    "hpsn_mct_zcd_nm": "오토바이 용품",
+    "hpsn_ry_bg_zcd": "E",
+    "hpsn_ry_mi_zcd": "E003",
+    "hpsn_ry_sl_zcd": "E003008",
+    "hpsn_ry_bg_cz_nm": "생활서비스",
+    "hpsn_ry_mi_cz_nm": "자동차정비",
+    "hpsn_ry_sl_cz_nm": "오토바이 용품"
+  },
+  "E004001": {
+    "hpsn_mct_zcd_nm": "렌터카",
+    "hpsn_ry_bg_zcd": "E",
+    "hpsn_ry_mi_zcd": "E004",
+    "hpsn_ry_sl_zcd": "E004001",
+    "hpsn_ry_bg_cz_nm": "생활서비스",
+    "hpsn_ry_mi_cz_nm": "자동차-기타",
+    "hpsn_ry_sl_cz_nm": "렌터카"
+  },
+  "E004002": {
+    "hpsn_mct_zcd_nm": "주차장",
+    "hpsn_ry_bg_zcd": "E",
+    "hpsn_ry_mi_zcd": "E004",
+    "hpsn_ry_sl_zcd": "E004002",
+    "hpsn_ry_bg_cz_nm": "생활서비스",
+    "hpsn_ry_mi_cz_nm": "자동차-기타",
+    "hpsn_ry_sl_cz_nm": "주차장"
+  },
+  "E004003": {
+    "hpsn_mct_zcd_nm": "폐차장",
+    "hpsn_ry_bg_zcd": "E",
+    "hpsn_ry_mi_zcd": "E004",
+    "hpsn_ry_sl_zcd": "E004003",
+    "hpsn_ry_bg_cz_nm": "생활서비스",
+    "hpsn_ry_mi_cz_nm": "자동차-기타",
+    "hpsn_ry_sl_cz_nm": "폐차장"
+  },
+  "E004004": {
+    "hpsn_mct_zcd_nm": "자동차 견인",
+    "hpsn_ry_bg_zcd": "E",
+    "hpsn_ry_mi_zcd": "E004",
+    "hpsn_ry_sl_zcd": "E004004",
+    "hpsn_ry_bg_cz_nm": "생활서비스",
+    "hpsn_ry_mi_cz_nm": "자동차-기타",
+    "hpsn_ry_sl_cz_nm": "자동차 견인"
+  },
+  "E004005": {
+    "hpsn_mct_zcd_nm": "모빌리티 대여",
+    "hpsn_ry_bg_zcd": "E",
+    "hpsn_ry_mi_zcd": "E004",
+    "hpsn_ry_sl_zcd": "E004005",
+    "hpsn_ry_bg_cz_nm": "생활서비스",
+    "hpsn_ry_mi_cz_nm": "자동차-기타",
+    "hpsn_ry_sl_cz_nm": "모빌리티 대여"
+  },
+  "E004006": {
+    "hpsn_mct_zcd_nm": "대리운전",
+    "hpsn_ry_bg_zcd": "E",
+    "hpsn_ry_mi_zcd": "E004",
+    "hpsn_ry_sl_zcd": "E004006",
+    "hpsn_ry_bg_cz_nm": "생활서비스",
+    "hpsn_ry_mi_cz_nm": "자동차-기타",
+    "hpsn_ry_sl_cz_nm": "대리운전"
+  },
+  "E005001": {
+    "hpsn_mct_zcd_nm": "화물운송",
+    "hpsn_ry_bg_zcd": "E",
+    "hpsn_ry_mi_zcd": "E005",
+    "hpsn_ry_sl_zcd": "E005001",
+    "hpsn_ry_bg_cz_nm": "생활서비스",
+    "hpsn_ry_mi_cz_nm": "화물운송업",
+    "hpsn_ry_sl_cz_nm": "화물운송"
+  },
+  "E005002": {
+    "hpsn_mct_zcd_nm": "택배업",
+    "hpsn_ry_bg_zcd": "E",
+    "hpsn_ry_mi_zcd": "E005",
+    "hpsn_ry_sl_zcd": "E005002",
+    "hpsn_ry_bg_cz_nm": "생활서비스",
+    "hpsn_ry_mi_cz_nm": "화물운송업",
+    "hpsn_ry_sl_cz_nm": "택배업"
+  },
+  "E005003": {
+    "hpsn_mct_zcd_nm": "종합이삿짐대행",
+    "hpsn_ry_bg_zcd": "E",
+    "hpsn_ry_mi_zcd": "E005",
+    "hpsn_ry_sl_zcd": "E005003",
+    "hpsn_ry_bg_cz_nm": "생활서비스",
+    "hpsn_ry_mi_cz_nm": "화물운송업",
+    "hpsn_ry_sl_cz_nm": "종합이삿짐대행"
+  },
+  "E005004": {
+    "hpsn_mct_zcd_nm": "콜밴",
+    "hpsn_ry_bg_zcd": "E",
+    "hpsn_ry_mi_zcd": "E005",
+    "hpsn_ry_sl_zcd": "E005004",
+    "hpsn_ry_bg_cz_nm": "생활서비스",
+    "hpsn_ry_mi_cz_nm": "화물운송업",
+    "hpsn_ry_sl_cz_nm": "콜밴"
+  },
+  "E005005": {
+    "hpsn_mct_zcd_nm": "퀵배달",
+    "hpsn_ry_bg_zcd": "E",
+    "hpsn_ry_mi_zcd": "E005",
+    "hpsn_ry_sl_zcd": "E005005",
+    "hpsn_ry_bg_cz_nm": "생활서비스",
+    "hpsn_ry_mi_cz_nm": "화물운송업",
+    "hpsn_ry_sl_cz_nm": "퀵배달"
+  },
+  "E006001": {
+    "hpsn_mct_zcd_nm": "사회단체",
+    "hpsn_ry_bg_zcd": "E",
+    "hpsn_ry_mi_zcd": "E006",
+    "hpsn_ry_sl_zcd": "E006001",
+    "hpsn_ry_bg_cz_nm": "생활서비스",
+    "hpsn_ry_mi_cz_nm": "사회단체",
+    "hpsn_ry_sl_cz_nm": "사회단체"
+  },
+  "E006002": {
+    "hpsn_mct_zcd_nm": "복지시설",
+    "hpsn_ry_bg_zcd": "E",
+    "hpsn_ry_mi_zcd": "E006",
+    "hpsn_ry_sl_zcd": "E006002",
+    "hpsn_ry_bg_cz_nm": "생활서비스",
+    "hpsn_ry_mi_cz_nm": "사회단체",
+    "hpsn_ry_sl_cz_nm": "복지시설"
+  },
+  "E006003": {
+    "hpsn_mct_zcd_nm": "종교단체",
+    "hpsn_ry_bg_zcd": "E",
+    "hpsn_ry_mi_zcd": "E006",
+    "hpsn_ry_sl_zcd": "E006003",
+    "hpsn_ry_bg_cz_nm": "생활서비스",
+    "hpsn_ry_mi_cz_nm": "사회단체",
+    "hpsn_ry_sl_cz_nm": "종교단체"
+  },
+  "E006004": {
+    "hpsn_mct_zcd_nm": "정치단체",
+    "hpsn_ry_bg_zcd": "E",
+    "hpsn_ry_mi_zcd": "E006",
+    "hpsn_ry_sl_zcd": "E006004",
+    "hpsn_ry_bg_cz_nm": "생활서비스",
+    "hpsn_ry_mi_cz_nm": "사회단체",
+    "hpsn_ry_sl_cz_nm": "정치단체"
+  },
+  "E006005": {
+    "hpsn_mct_zcd_nm": "조합/협회",
+    "hpsn_ry_bg_zcd": "E",
+    "hpsn_ry_mi_zcd": "E006",
+    "hpsn_ry_sl_zcd": "E006005",
+    "hpsn_ry_bg_cz_nm": "생활서비스",
+    "hpsn_ry_mi_cz_nm": "사회단체",
+    "hpsn_ry_sl_cz_nm": "조합/협회"
+  },
+  "E006006": {
+    "hpsn_mct_zcd_nm": "주민자치센터",
+    "hpsn_ry_bg_zcd": "E",
+    "hpsn_ry_mi_zcd": "E006",
+    "hpsn_ry_sl_zcd": "E006006",
+    "hpsn_ry_bg_cz_nm": "생활서비스",
+    "hpsn_ry_mi_cz_nm": "사회단체",
+    "hpsn_ry_sl_cz_nm": "주민자치센터"
+  },
+  "E006007": {
+    "hpsn_mct_zcd_nm": "지방자치단체",
+    "hpsn_ry_bg_zcd": "E",
+    "hpsn_ry_mi_zcd": "E006",
+    "hpsn_ry_sl_zcd": "E006007",
+    "hpsn_ry_bg_cz_nm": "생활서비스",
+    "hpsn_ry_mi_cz_nm": "사회단체",
+    "hpsn_ry_sl_cz_nm": "지방자치단체"
+  },
+  "E007001": {
+    "hpsn_mct_zcd_nm": "사진관",
+    "hpsn_ry_bg_zcd": "E",
+    "hpsn_ry_mi_zcd": "E007",
+    "hpsn_ry_sl_zcd": "E007001",
+    "hpsn_ry_bg_cz_nm": "생활서비스",
+    "hpsn_ry_mi_cz_nm": "사진",
+    "hpsn_ry_sl_cz_nm": "사진관"
+  },
+  "E007002": {
+    "hpsn_mct_zcd_nm": "사진기/광학제품",
+    "hpsn_ry_bg_zcd": "E",
+    "hpsn_ry_mi_zcd": "E007",
+    "hpsn_ry_sl_zcd": "E007002",
+    "hpsn_ry_bg_cz_nm": "생활서비스",
+    "hpsn_ry_mi_cz_nm": "사진",
+    "hpsn_ry_sl_cz_nm": "사진기/광학제품"
+  },
+  "E007003": {
+    "hpsn_mct_zcd_nm": "셀프사진관",
+    "hpsn_ry_bg_zcd": "E",
+    "hpsn_ry_mi_zcd": "E007",
+    "hpsn_ry_sl_zcd": "E007003",
+    "hpsn_ry_bg_cz_nm": "생활서비스",
+    "hpsn_ry_mi_cz_nm": "사진",
+    "hpsn_ry_sl_cz_nm": "셀프사진관"
+  },
+  "E008001": {
+    "hpsn_mct_zcd_nm": "월납/세금",
+    "hpsn_ry_bg_zcd": "E",
+    "hpsn_ry_mi_zcd": "E008",
+    "hpsn_ry_sl_zcd": "E008001",
+    "hpsn_ry_bg_cz_nm": "생활서비스",
+    "hpsn_ry_mi_cz_nm": "월납/세금",
+    "hpsn_ry_sl_cz_nm": "월납/세금"
+  },
+  "E008002": {
+    "hpsn_mct_zcd_nm": "통신요금",
+    "hpsn_ry_bg_zcd": "E",
+    "hpsn_ry_mi_zcd": "E008",
+    "hpsn_ry_sl_zcd": "E008002",
+    "hpsn_ry_bg_cz_nm": "생활서비스",
+    "hpsn_ry_mi_cz_nm": "월납/세금",
+    "hpsn_ry_sl_cz_nm": "통신요금"
+  },
+  "E009001": {
+    "hpsn_mct_zcd_nm": "주유소",
+    "hpsn_ry_bg_zcd": "E",
+    "hpsn_ry_mi_zcd": "E009",
+    "hpsn_ry_sl_zcd": "E009001",
+    "hpsn_ry_bg_cz_nm": "생활서비스",
+    "hpsn_ry_mi_cz_nm": "연료",
+    "hpsn_ry_sl_cz_nm": "주유소"
+  },
+  "E009002": {
+    "hpsn_mct_zcd_nm": "LPG가스",
+    "hpsn_ry_bg_zcd": "E",
+    "hpsn_ry_mi_zcd": "E009",
+    "hpsn_ry_sl_zcd": "E009002",
+    "hpsn_ry_bg_cz_nm": "생활서비스",
+    "hpsn_ry_mi_cz_nm": "연료",
+    "hpsn_ry_sl_cz_nm": "LPG가스"
+  },
+  "E009003": {
+    "hpsn_mct_zcd_nm": "가정용연료",
+    "hpsn_ry_bg_zcd": "E",
+    "hpsn_ry_mi_zcd": "E009",
+    "hpsn_ry_sl_zcd": "E009003",
+    "hpsn_ry_bg_cz_nm": "생활서비스",
+    "hpsn_ry_mi_cz_nm": "연료",
+    "hpsn_ry_sl_cz_nm": "가정용연료"
+  },
+  "E009004": {
+    "hpsn_mct_zcd_nm": "전기/수소 충전",
+    "hpsn_ry_bg_zcd": "E",
+    "hpsn_ry_mi_zcd": "E009",
+    "hpsn_ry_sl_zcd": "E009004",
+    "hpsn_ry_bg_cz_nm": "생활서비스",
+    "hpsn_ry_mi_cz_nm": "연료",
+    "hpsn_ry_sl_cz_nm": "전기/수소 충전"
+  },
+  "E010001": {
+    "hpsn_mct_zcd_nm": "건설장비 대여",
+    "hpsn_ry_bg_zcd": "E",
+    "hpsn_ry_mi_zcd": "E010",
+    "hpsn_ry_sl_zcd": "E010001",
+    "hpsn_ry_bg_cz_nm": "생활서비스",
+    "hpsn_ry_mi_cz_nm": "기계/장비대여",
+    "hpsn_ry_sl_cz_nm": "건설장비 대여"
+  },
+  "E010002": {
+    "hpsn_mct_zcd_nm": "생활장비 대여",
+    "hpsn_ry_bg_zcd": "E",
+    "hpsn_ry_mi_zcd": "E010",
+    "hpsn_ry_sl_zcd": "E010002",
+    "hpsn_ry_bg_cz_nm": "생활서비스",
+    "hpsn_ry_mi_cz_nm": "기계/장비대여",
+    "hpsn_ry_sl_cz_nm": "생활장비 대여"
+  },
+  "E010003": {
+    "hpsn_mct_zcd_nm": "정밀기기 대여",
+    "hpsn_ry_bg_zcd": "E",
+    "hpsn_ry_mi_zcd": "E010",
+    "hpsn_ry_sl_zcd": "E010003",
+    "hpsn_ry_bg_cz_nm": "생활서비스",
+    "hpsn_ry_mi_cz_nm": "기계/장비대여",
+    "hpsn_ry_sl_cz_nm": "정밀기기 대여"
+  },
+  "E010004": {
+    "hpsn_mct_zcd_nm": "중장비 대여",
+    "hpsn_ry_bg_zcd": "E",
+    "hpsn_ry_mi_zcd": "E010",
+    "hpsn_ry_sl_zcd": "E010004",
+    "hpsn_ry_bg_cz_nm": "생활서비스",
+    "hpsn_ry_mi_cz_nm": "기계/장비대여",
+    "hpsn_ry_sl_cz_nm": "중장비 대여"
+  },
+  "E011001": {
+    "hpsn_mct_zcd_nm": "농기구/자재",
+    "hpsn_ry_bg_zcd": "E",
+    "hpsn_ry_mi_zcd": "E011",
+    "hpsn_ry_sl_zcd": "E011001",
+    "hpsn_ry_bg_cz_nm": "생활서비스",
+    "hpsn_ry_mi_cz_nm": "농기구",
+    "hpsn_ry_sl_cz_nm": "농기구/자재"
+  },
+  "E011002": {
+    "hpsn_mct_zcd_nm": "농약",
+    "hpsn_ry_bg_zcd": "E",
+    "hpsn_ry_mi_zcd": "E011",
+    "hpsn_ry_sl_zcd": "E011002",
+    "hpsn_ry_bg_cz_nm": "생활서비스",
+    "hpsn_ry_mi_cz_nm": "농기구",
+    "hpsn_ry_sl_cz_nm": "농약"
+  },
+  "E011003": {
+    "hpsn_mct_zcd_nm": "종묘사업",
+    "hpsn_ry_bg_zcd": "E",
+    "hpsn_ry_mi_zcd": "E011",
+    "hpsn_ry_sl_zcd": "E011003",
+    "hpsn_ry_bg_cz_nm": "생활서비스",
+    "hpsn_ry_mi_cz_nm": "농기구",
+    "hpsn_ry_sl_cz_nm": "종묘사업"
+  },
+  "E012001": {
+    "hpsn_mct_zcd_nm": "열쇠",
+    "hpsn_ry_bg_zcd": "E",
+    "hpsn_ry_mi_zcd": "E012",
+    "hpsn_ry_sl_zcd": "E012001",
+    "hpsn_ry_bg_cz_nm": "생활서비스",
+    "hpsn_ry_mi_cz_nm": "열쇠/도장",
+    "hpsn_ry_sl_cz_nm": "열쇠"
+  },
+  "E012002": {
+    "hpsn_mct_zcd_nm": "도장",
+    "hpsn_ry_bg_zcd": "E",
+    "hpsn_ry_mi_zcd": "E012",
+    "hpsn_ry_sl_zcd": "E012002",
+    "hpsn_ry_bg_cz_nm": "생활서비스",
+    "hpsn_ry_mi_cz_nm": "열쇠/도장",
+    "hpsn_ry_sl_cz_nm": "도장"
+  },
+  "E013001": {
+    "hpsn_mct_zcd_nm": "가전제품 수리",
+    "hpsn_ry_bg_zcd": "E",
+    "hpsn_ry_mi_zcd": "E013",
+    "hpsn_ry_sl_zcd": "E013001",
+    "hpsn_ry_bg_cz_nm": "생활서비스",
+    "hpsn_ry_mi_cz_nm": "수리점",
+    "hpsn_ry_sl_cz_nm": "가전제품 수리"
+  },
+  "E013002": {
+    "hpsn_mct_zcd_nm": "가정용품 수리",
+    "hpsn_ry_bg_zcd": "E",
+    "hpsn_ry_mi_zcd": "E013",
+    "hpsn_ry_sl_zcd": "E013002",
+    "hpsn_ry_bg_cz_nm": "생활서비스",
+    "hpsn_ry_mi_cz_nm": "수리점",
+    "hpsn_ry_sl_cz_nm": "가정용품 수리"
+  },
+  "E013003": {
+    "hpsn_mct_zcd_nm": "의류 수선",
+    "hpsn_ry_bg_zcd": "E",
+    "hpsn_ry_mi_zcd": "E013",
+    "hpsn_ry_sl_zcd": "E013003",
+    "hpsn_ry_bg_cz_nm": "생활서비스",
+    "hpsn_ry_mi_cz_nm": "수리점",
+    "hpsn_ry_sl_cz_nm": "의류 수선"
+  },
+  "E013004": {
+    "hpsn_mct_zcd_nm": "정보통신기기 수리",
+    "hpsn_ry_bg_zcd": "E",
+    "hpsn_ry_mi_zcd": "E013",
+    "hpsn_ry_sl_zcd": "E013004",
+    "hpsn_ry_bg_cz_nm": "생활서비스",
+    "hpsn_ry_mi_cz_nm": "수리점",
+    "hpsn_ry_sl_cz_nm": "정보통신기기 수리"
+  },
+  "E014001": {
+    "hpsn_mct_zcd_nm": "버스/지하철",
+    "hpsn_ry_bg_zcd": "E",
+    "hpsn_ry_mi_zcd": "E014",
+    "hpsn_ry_sl_zcd": "E014001",
+    "hpsn_ry_bg_cz_nm": "생활서비스",
+    "hpsn_ry_mi_cz_nm": "대중교통",
+    "hpsn_ry_sl_cz_nm": "버스/지하철"
+  },
+  "E014002": {
+    "hpsn_mct_zcd_nm": "고속버스",
+    "hpsn_ry_bg_zcd": "E",
+    "hpsn_ry_mi_zcd": "E014",
+    "hpsn_ry_sl_zcd": "E014002",
+    "hpsn_ry_bg_cz_nm": "생활서비스",
+    "hpsn_ry_mi_cz_nm": "대중교통",
+    "hpsn_ry_sl_cz_nm": "고속버스"
+  },
+  "E015001": {
+    "hpsn_mct_zcd_nm": "택시",
+    "hpsn_ry_bg_zcd": "E",
+    "hpsn_ry_mi_zcd": "E015",
+    "hpsn_ry_sl_zcd": "E015001",
+    "hpsn_ry_bg_cz_nm": "생활서비스",
+    "hpsn_ry_mi_cz_nm": "택시",
+    "hpsn_ry_sl_cz_nm": "택시"
+  },
+  "E016001": {
+    "hpsn_mct_zcd_nm": "항공사",
+    "hpsn_ry_bg_zcd": "E",
+    "hpsn_ry_mi_zcd": "E016",
+    "hpsn_ry_sl_zcd": "E016001",
+    "hpsn_ry_bg_cz_nm": "생활서비스",
+    "hpsn_ry_mi_cz_nm": "항공",
+    "hpsn_ry_sl_cz_nm": "항공사"
+  },
+  "E017001": {
+    "hpsn_mct_zcd_nm": "여객선",
+    "hpsn_ry_bg_zcd": "E",
+    "hpsn_ry_mi_zcd": "E017",
+    "hpsn_ry_sl_zcd": "E017001",
+    "hpsn_ry_bg_cz_nm": "생활서비스",
+    "hpsn_ry_mi_cz_nm": "여객선",
+    "hpsn_ry_sl_cz_nm": "여객선"
+  },
+  "E018001": {
+    "hpsn_mct_zcd_nm": "철도",
+    "hpsn_ry_bg_zcd": "E",
+    "hpsn_ry_mi_zcd": "E018",
+    "hpsn_ry_sl_zcd": "E018001",
+    "hpsn_ry_bg_cz_nm": "생활서비스",
+    "hpsn_ry_mi_cz_nm": "철도",
+    "hpsn_ry_sl_cz_nm": "철도"
+  },
+  "E019001": {
+    "hpsn_mct_zcd_nm": "유료도로",
+    "hpsn_ry_bg_zcd": "E",
+    "hpsn_ry_mi_zcd": "E019",
+    "hpsn_ry_sl_zcd": "E019001",
+    "hpsn_ry_bg_cz_nm": "생활서비스",
+    "hpsn_ry_mi_cz_nm": "터널/유료도로/하이패스",
+    "hpsn_ry_sl_cz_nm": "유료도로"
+  },
+  "F001001": {
+    "hpsn_mct_zcd_nm": "병원-대학/종합병원",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F001",
+    "hpsn_ry_sl_zcd": "F001001",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "대학병원",
+    "hpsn_ry_sl_cz_nm": "병원-대학/종합병원"
+  },
+  "F002001": {
+    "hpsn_mct_zcd_nm": "병원-일반",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F002",
+    "hpsn_ry_sl_zcd": "F002001",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "개인병원",
+    "hpsn_ry_sl_cz_nm": "병원-일반"
+  },
+  "F002002": {
+    "hpsn_mct_zcd_nm": "병원-치과",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F002",
+    "hpsn_ry_sl_zcd": "F002002",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "개인병원",
+    "hpsn_ry_sl_cz_nm": "병원-치과"
+  },
+  "F002003": {
+    "hpsn_mct_zcd_nm": "병원-가정의학과",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F002",
+    "hpsn_ry_sl_zcd": "F002003",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "개인병원",
+    "hpsn_ry_sl_cz_nm": "병원-가정의학과"
+  },
+  "F002004": {
+    "hpsn_mct_zcd_nm": "병원-내과",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F002",
+    "hpsn_ry_sl_zcd": "F002004",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "개인병원",
+    "hpsn_ry_sl_cz_nm": "병원-내과"
+  },
+  "F002005": {
+    "hpsn_mct_zcd_nm": "병원-마취과",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F002",
+    "hpsn_ry_sl_zcd": "F002005",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "개인병원",
+    "hpsn_ry_sl_cz_nm": "병원-마취과"
+  },
+  "F002006": {
+    "hpsn_mct_zcd_nm": "병원-비뇨기과",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F002",
+    "hpsn_ry_sl_zcd": "F002006",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "개인병원",
+    "hpsn_ry_sl_cz_nm": "병원-비뇨기과"
+  },
+  "F002007": {
+    "hpsn_mct_zcd_nm": "병원-산부인과",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F002",
+    "hpsn_ry_sl_zcd": "F002007",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "개인병원",
+    "hpsn_ry_sl_cz_nm": "병원-산부인과"
+  },
+  "F002008": {
+    "hpsn_mct_zcd_nm": "병원-성형외과",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F002",
+    "hpsn_ry_sl_zcd": "F002008",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "개인병원",
+    "hpsn_ry_sl_cz_nm": "병원-성형외과"
+  },
+  "F002009": {
+    "hpsn_mct_zcd_nm": "병원-소아과",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F002",
+    "hpsn_ry_sl_zcd": "F002009",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "개인병원",
+    "hpsn_ry_sl_cz_nm": "병원-소아과"
+  },
+  "F002010": {
+    "hpsn_mct_zcd_nm": "병원-신경외과",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F002",
+    "hpsn_ry_sl_zcd": "F002010",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "개인병원",
+    "hpsn_ry_sl_cz_nm": "병원-신경외과"
+  },
+  "F002011": {
+    "hpsn_mct_zcd_nm": "병원-신경정신과",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F002",
+    "hpsn_ry_sl_zcd": "F002011",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "개인병원",
+    "hpsn_ry_sl_cz_nm": "병원-신경정신과"
+  },
+  "F002012": {
+    "hpsn_mct_zcd_nm": "병원-안과",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F002",
+    "hpsn_ry_sl_zcd": "F002012",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "개인병원",
+    "hpsn_ry_sl_cz_nm": "병원-안과"
+  },
+  "F002013": {
+    "hpsn_mct_zcd_nm": "병원-영상의학과",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F002",
+    "hpsn_ry_sl_zcd": "F002013",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "개인병원",
+    "hpsn_ry_sl_cz_nm": "병원-영상의학과"
+  },
+  "F002014": {
+    "hpsn_mct_zcd_nm": "병원-외과",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F002",
+    "hpsn_ry_sl_zcd": "F002014",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "개인병원",
+    "hpsn_ry_sl_cz_nm": "병원-외과"
+  },
+  "F002015": {
+    "hpsn_mct_zcd_nm": "병원-이비인후과",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F002",
+    "hpsn_ry_sl_zcd": "F002015",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "개인병원",
+    "hpsn_ry_sl_cz_nm": "병원-이비인후과"
+  },
+  "F002016": {
+    "hpsn_mct_zcd_nm": "병원-재활의학과",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F002",
+    "hpsn_ry_sl_zcd": "F002016",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "개인병원",
+    "hpsn_ry_sl_cz_nm": "병원-재활의학과"
+  },
+  "F002017": {
+    "hpsn_mct_zcd_nm": "병원-정형외과",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F002",
+    "hpsn_ry_sl_zcd": "F002017",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "개인병원",
+    "hpsn_ry_sl_cz_nm": "병원-정형외과"
+  },
+  "F002018": {
+    "hpsn_mct_zcd_nm": "병원-피부과의원",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F002",
+    "hpsn_ry_sl_zcd": "F002018",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "개인병원",
+    "hpsn_ry_sl_cz_nm": "병원-피부과의원"
+  },
+  "F002019": {
+    "hpsn_mct_zcd_nm": "병원-기타",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F002",
+    "hpsn_ry_sl_zcd": "F002019",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "개인병원",
+    "hpsn_ry_sl_cz_nm": "병원-기타"
+  },
+  "F003001": {
+    "hpsn_mct_zcd_nm": "보건소",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F003",
+    "hpsn_ry_sl_zcd": "F003001",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "보건소",
+    "hpsn_ry_sl_cz_nm": "보건소"
+  },
+  "F004001": {
+    "hpsn_mct_zcd_nm": "병원-한의학과",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F004",
+    "hpsn_ry_sl_zcd": "F004001",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "한의학",
+    "hpsn_ry_sl_cz_nm": "병원-한의학과"
+  },
+  "F004002": {
+    "hpsn_mct_zcd_nm": "한약방",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F004",
+    "hpsn_ry_sl_zcd": "F004002",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "한의학",
+    "hpsn_ry_sl_cz_nm": "한약방"
+  },
+  "F004003": {
+    "hpsn_mct_zcd_nm": "한의약품",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F004",
+    "hpsn_ry_sl_zcd": "F004003",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "한의학",
+    "hpsn_ry_sl_cz_nm": "한의약품"
+  },
+  "F005001": {
+    "hpsn_mct_zcd_nm": "약국",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F005",
+    "hpsn_ry_sl_zcd": "F005001",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "약국",
+    "hpsn_ry_sl_cz_nm": "약국"
+  },
+  "F005002": {
+    "hpsn_mct_zcd_nm": "제약회사",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F005",
+    "hpsn_ry_sl_zcd": "F005002",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "약국",
+    "hpsn_ry_sl_cz_nm": "제약회사"
+  },
+  "F006001": {
+    "hpsn_mct_zcd_nm": "요양원",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F006",
+    "hpsn_ry_sl_zcd": "F006001",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "의료기관",
+    "hpsn_ry_sl_cz_nm": "요양원"
+  },
+  "F006002": {
+    "hpsn_mct_zcd_nm": "응급구조대",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F006",
+    "hpsn_ry_sl_zcd": "F006002",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "의료기관",
+    "hpsn_ry_sl_cz_nm": "응급구조대"
+  },
+  "F006003": {
+    "hpsn_mct_zcd_nm": "치료/발달센터",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F006",
+    "hpsn_ry_sl_zcd": "F006003",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "의료기관",
+    "hpsn_ry_sl_cz_nm": "치료/발달센터"
+  },
+  "F006004": {
+    "hpsn_mct_zcd_nm": "대체의학",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F006",
+    "hpsn_ry_sl_zcd": "F006004",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "의료기관",
+    "hpsn_ry_sl_cz_nm": "대체의학"
+  },
+  "F007001": {
+    "hpsn_mct_zcd_nm": "의료기기",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F007",
+    "hpsn_ry_sl_zcd": "F007001",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "의료기기",
+    "hpsn_ry_sl_cz_nm": "의료기기"
+  },
+  "F007002": {
+    "hpsn_mct_zcd_nm": "안경점",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F007",
+    "hpsn_ry_sl_zcd": "F007002",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "의료기기",
+    "hpsn_ry_sl_cz_nm": "안경점"
+  },
+  "F007003": {
+    "hpsn_mct_zcd_nm": "치과기공소",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F007",
+    "hpsn_ry_sl_zcd": "F007003",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "의료기기",
+    "hpsn_ry_sl_cz_nm": "치과기공소"
+  },
+  "F007004": {
+    "hpsn_mct_zcd_nm": "보청기",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F007",
+    "hpsn_ry_sl_zcd": "F007004",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "의료기기",
+    "hpsn_ry_sl_cz_nm": "보청기"
+  },
+  "F007005": {
+    "hpsn_mct_zcd_nm": "성인용품",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F007",
+    "hpsn_ry_sl_zcd": "F007005",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "의료기기",
+    "hpsn_ry_sl_cz_nm": "성인용품"
+  },
+  "F008001": {
+    "hpsn_mct_zcd_nm": "어린이집",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F008",
+    "hpsn_ry_sl_zcd": "F008001",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "교육/연구/학교",
+    "hpsn_ry_sl_cz_nm": "어린이집"
+  },
+  "F008002": {
+    "hpsn_mct_zcd_nm": "유치원",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F008",
+    "hpsn_ry_sl_zcd": "F008002",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "교육/연구/학교",
+    "hpsn_ry_sl_cz_nm": "유치원"
+  },
+  "F008003": {
+    "hpsn_mct_zcd_nm": "초등학교",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F008",
+    "hpsn_ry_sl_zcd": "F008003",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "교육/연구/학교",
+    "hpsn_ry_sl_cz_nm": "초등학교"
+  },
+  "F008004": {
+    "hpsn_mct_zcd_nm": "중학교",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F008",
+    "hpsn_ry_sl_zcd": "F008004",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "교육/연구/학교",
+    "hpsn_ry_sl_cz_nm": "중학교"
+  },
+  "F008005": {
+    "hpsn_mct_zcd_nm": "고등학교",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F008",
+    "hpsn_ry_sl_zcd": "F008005",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "교육/연구/학교",
+    "hpsn_ry_sl_cz_nm": "고등학교"
+  },
+  "F008006": {
+    "hpsn_mct_zcd_nm": "대학교",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F008",
+    "hpsn_ry_sl_zcd": "F008006",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "교육/연구/학교",
+    "hpsn_ry_sl_cz_nm": "대학교"
+  },
+  "F008007": {
+    "hpsn_mct_zcd_nm": "독서실",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F008",
+    "hpsn_ry_sl_zcd": "F008007",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "교육/연구/학교",
+    "hpsn_ry_sl_cz_nm": "독서실"
+  },
+  "F008008": {
+    "hpsn_mct_zcd_nm": "연구소",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F008",
+    "hpsn_ry_sl_zcd": "F008008",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "교육/연구/학교",
+    "hpsn_ry_sl_cz_nm": "연구소"
+  },
+  "F008009": {
+    "hpsn_mct_zcd_nm": "원서접수",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F008",
+    "hpsn_ry_sl_zcd": "F008009",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "교육/연구/학교",
+    "hpsn_ry_sl_cz_nm": "원서접수"
+  },
+  "F008010": {
+    "hpsn_mct_zcd_nm": "스터디카페",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F008",
+    "hpsn_ry_sl_zcd": "F008010",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "교육/연구/학교",
+    "hpsn_ry_sl_cz_nm": "스터디카페"
+  },
+  "F008011": {
+    "hpsn_mct_zcd_nm": "연수원",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F008",
+    "hpsn_ry_sl_zcd": "F008011",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "교육/연구/학교",
+    "hpsn_ry_sl_cz_nm": "연수원"
+  },
+  "F009001": {
+    "hpsn_mct_zcd_nm": "학원-어학",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F009",
+    "hpsn_ry_sl_zcd": "F009001",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "학원",
+    "hpsn_ry_sl_cz_nm": "학원-어학"
+  },
+  "F009002": {
+    "hpsn_mct_zcd_nm": "학원-예체능일반",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F009",
+    "hpsn_ry_sl_zcd": "F009002",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "학원",
+    "hpsn_ry_sl_cz_nm": "학원-예체능일반"
+  },
+  "F009003": {
+    "hpsn_mct_zcd_nm": "학원-입시/보습 일반",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F009",
+    "hpsn_ry_sl_zcd": "F009003",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "학원",
+    "hpsn_ry_sl_cz_nm": "학원-입시/보습 일반"
+  },
+  "F009004": {
+    "hpsn_mct_zcd_nm": "학원-직업일반",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F009",
+    "hpsn_ry_sl_zcd": "F009004",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "학원",
+    "hpsn_ry_sl_cz_nm": "학원-직업일반"
+  },
+  "F009005": {
+    "hpsn_mct_zcd_nm": "학원-기타",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F009",
+    "hpsn_ry_sl_zcd": "F009005",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "학원",
+    "hpsn_ry_sl_cz_nm": "학원-기타"
+  },
+  "F009006": {
+    "hpsn_mct_zcd_nm": "교육단체",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F009",
+    "hpsn_ry_sl_zcd": "F009006",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "학원",
+    "hpsn_ry_sl_cz_nm": "교육단체"
+  },
+  "F009007": {
+    "hpsn_mct_zcd_nm": "문화센터",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F009",
+    "hpsn_ry_sl_zcd": "F009007",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "학원",
+    "hpsn_ry_sl_cz_nm": "문화센터"
+  },
+  "F009008": {
+    "hpsn_mct_zcd_nm": "학습지",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F009",
+    "hpsn_ry_sl_zcd": "F009008",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "학원",
+    "hpsn_ry_sl_cz_nm": "학습지"
+  },
+  "F009009": {
+    "hpsn_mct_zcd_nm": "시험접수",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F009",
+    "hpsn_ry_sl_zcd": "F009009",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "학원",
+    "hpsn_ry_sl_cz_nm": "시험접수"
+  },
+  "F009010": {
+    "hpsn_mct_zcd_nm": "인터넷강의",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F009",
+    "hpsn_ry_sl_zcd": "F009010",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "학원",
+    "hpsn_ry_sl_cz_nm": "인터넷강의"
+  },
+  "F009011": {
+    "hpsn_mct_zcd_nm": "영유아학습",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F009",
+    "hpsn_ry_sl_zcd": "F009011",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "학원",
+    "hpsn_ry_sl_cz_nm": "영유아학습"
+  },
+  "F009021": {
+    "hpsn_mct_zcd_nm": "학원-예체능미술",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F009",
+    "hpsn_ry_sl_zcd": "F009021",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "학원",
+    "hpsn_ry_sl_cz_nm": "학원-예체능미술"
+  },
+  "F009022": {
+    "hpsn_mct_zcd_nm": "학원-예체능음악",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F009",
+    "hpsn_ry_sl_zcd": "F009022",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "학원",
+    "hpsn_ry_sl_cz_nm": "학원-예체능음악"
+  },
+  "F009023": {
+    "hpsn_mct_zcd_nm": "학원-예체능무용",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F009",
+    "hpsn_ry_sl_zcd": "F009023",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "학원",
+    "hpsn_ry_sl_cz_nm": "학원-예체능무용"
+  },
+  "F009024": {
+    "hpsn_mct_zcd_nm": "학원-예체능무예",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F009",
+    "hpsn_ry_sl_zcd": "F009024",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "학원",
+    "hpsn_ry_sl_cz_nm": "학원-예체능무예"
+  },
+  "F009031": {
+    "hpsn_mct_zcd_nm": "학원-수학학원",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F009",
+    "hpsn_ry_sl_zcd": "F009031",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "학원",
+    "hpsn_ry_sl_cz_nm": "학원-수학학원"
+  },
+  "F009032": {
+    "hpsn_mct_zcd_nm": "학원-입시학원",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F009",
+    "hpsn_ry_sl_zcd": "F009032",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "학원",
+    "hpsn_ry_sl_cz_nm": "학원-입시학원"
+  },
+  "F009033": {
+    "hpsn_mct_zcd_nm": "학원-보습학원",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F009",
+    "hpsn_ry_sl_zcd": "F009033",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "학원",
+    "hpsn_ry_sl_cz_nm": "학원-보습학원"
+  },
+  "F009041": {
+    "hpsn_mct_zcd_nm": "학원-컴퓨터학원",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F009",
+    "hpsn_ry_sl_zcd": "F009041",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "학원",
+    "hpsn_ry_sl_cz_nm": "학원-컴퓨터학원"
+  },
+  "F009042": {
+    "hpsn_mct_zcd_nm": "학원-간호학원",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F009",
+    "hpsn_ry_sl_zcd": "F009042",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "학원",
+    "hpsn_ry_sl_cz_nm": "학원-간호학원"
+  },
+  "F009043": {
+    "hpsn_mct_zcd_nm": "학원-요양보호사학원",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F009",
+    "hpsn_ry_sl_zcd": "F009043",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "학원",
+    "hpsn_ry_sl_cz_nm": "학원-요양보호사학원"
+  },
+  "F009044": {
+    "hpsn_mct_zcd_nm": "학원-운전학원",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F009",
+    "hpsn_ry_sl_zcd": "F009044",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "학원",
+    "hpsn_ry_sl_cz_nm": "학원-운전학원"
+  },
+  "F009045": {
+    "hpsn_mct_zcd_nm": "학원-미용학원",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F009",
+    "hpsn_ry_sl_zcd": "F009045",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "학원",
+    "hpsn_ry_sl_cz_nm": "학원-미용학원"
+  },
+  "F009046": {
+    "hpsn_mct_zcd_nm": "학원-음식조리학원",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F009",
+    "hpsn_ry_sl_zcd": "F009046",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "학원",
+    "hpsn_ry_sl_cz_nm": "학원-음식조리학원"
+  },
+  "F009047": {
+    "hpsn_mct_zcd_nm": "학원-애견미용학원",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F009",
+    "hpsn_ry_sl_zcd": "F009047",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "학원",
+    "hpsn_ry_sl_cz_nm": "학원-애견미용학원"
+  },
+  "F009048": {
+    "hpsn_mct_zcd_nm": "학원-뮤지컬/연기학원",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F009",
+    "hpsn_ry_sl_zcd": "F009048",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "학원",
+    "hpsn_ry_sl_cz_nm": "학원-뮤지컬/연기학원"
+  },
+  "F010001": {
+    "hpsn_mct_zcd_nm": "생명보험",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F010",
+    "hpsn_ry_sl_zcd": "F010001",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "금융",
+    "hpsn_ry_sl_cz_nm": "생명보험"
+  },
+  "F010002": {
+    "hpsn_mct_zcd_nm": "손해보험",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F010",
+    "hpsn_ry_sl_zcd": "F010002",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "금융",
+    "hpsn_ry_sl_cz_nm": "손해보험"
+  },
+  "F010003": {
+    "hpsn_mct_zcd_nm": "농협",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F010",
+    "hpsn_ry_sl_zcd": "F010003",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "금융",
+    "hpsn_ry_sl_cz_nm": "농협"
+  },
+  "F010004": {
+    "hpsn_mct_zcd_nm": "새마을금고",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F010",
+    "hpsn_ry_sl_zcd": "F010004",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "금융",
+    "hpsn_ry_sl_cz_nm": "새마을금고"
+  },
+  "F010005": {
+    "hpsn_mct_zcd_nm": "우체국",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F010",
+    "hpsn_ry_sl_zcd": "F010005",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "금융",
+    "hpsn_ry_sl_cz_nm": "우체국"
+  },
+  "F010006": {
+    "hpsn_mct_zcd_nm": "신협",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F010",
+    "hpsn_ry_sl_zcd": "F010006",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "금융",
+    "hpsn_ry_sl_cz_nm": "신협"
+  },
+  "F010007": {
+    "hpsn_mct_zcd_nm": "금융-기타",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F010",
+    "hpsn_ry_sl_zcd": "F010007",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "금융",
+    "hpsn_ry_sl_cz_nm": "금융-기타"
+  },
+  "F011001": {
+    "hpsn_mct_zcd_nm": "부동산중개",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F011",
+    "hpsn_ry_sl_zcd": "F011001",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "부동산",
+    "hpsn_ry_sl_cz_nm": "부동산중개"
+  },
+  "F011002": {
+    "hpsn_mct_zcd_nm": "부동산-주택/아파트 임대",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F011",
+    "hpsn_ry_sl_zcd": "F011002",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "부동산",
+    "hpsn_ry_sl_cz_nm": "부동산-주택/아파트 임대"
+  },
+  "F011003": {
+    "hpsn_mct_zcd_nm": "부동산-건물관리",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F011",
+    "hpsn_ry_sl_zcd": "F011003",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "부동산",
+    "hpsn_ry_sl_cz_nm": "부동산-건물관리"
+  },
+  "F011004": {
+    "hpsn_mct_zcd_nm": "공유오피스",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F011",
+    "hpsn_ry_sl_zcd": "F011004",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "부동산",
+    "hpsn_ry_sl_cz_nm": "공유오피스"
+  },
+  "F012001": {
+    "hpsn_mct_zcd_nm": "결혼정보회사",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F012",
+    "hpsn_ry_sl_zcd": "F012001",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "상담",
+    "hpsn_ry_sl_cz_nm": "결혼정보회사"
+  },
+  "F012002": {
+    "hpsn_mct_zcd_nm": "심리상담",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F012",
+    "hpsn_ry_sl_zcd": "F012002",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "상담",
+    "hpsn_ry_sl_cz_nm": "심리상담"
+  },
+  "F013001": {
+    "hpsn_mct_zcd_nm": "예식서비스",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F013",
+    "hpsn_ry_sl_zcd": "F013001",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "웨딩",
+    "hpsn_ry_sl_cz_nm": "예식서비스"
+  },
+  "F013002": {
+    "hpsn_mct_zcd_nm": "예식장",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F013",
+    "hpsn_ry_sl_zcd": "F013002",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "웨딩",
+    "hpsn_ry_sl_cz_nm": "예식장"
+  },
+  "F013003": {
+    "hpsn_mct_zcd_nm": "예복/웨딩드레스",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F013",
+    "hpsn_ry_sl_zcd": "F013003",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "웨딩",
+    "hpsn_ry_sl_cz_nm": "예복/웨딩드레스"
+  },
+  "F013004": {
+    "hpsn_mct_zcd_nm": "혼수전문점",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F013",
+    "hpsn_ry_sl_zcd": "F013004",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "웨딩",
+    "hpsn_ry_sl_cz_nm": "혼수전문점"
+  },
+  "F014001": {
+    "hpsn_mct_zcd_nm": "상조서비스",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F014",
+    "hpsn_ry_sl_zcd": "F014001",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "상조",
+    "hpsn_ry_sl_cz_nm": "상조서비스"
+  },
+  "F014002": {
+    "hpsn_mct_zcd_nm": "장례식장",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F014",
+    "hpsn_ry_sl_zcd": "F014002",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "상조",
+    "hpsn_ry_sl_cz_nm": "장례식장"
+  },
+  "F014003": {
+    "hpsn_mct_zcd_nm": "납골/묘지",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F014",
+    "hpsn_ry_sl_zcd": "F014003",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "상조",
+    "hpsn_ry_sl_cz_nm": "납골/묘지"
+  },
+  "F015001": {
+    "hpsn_mct_zcd_nm": "산후조리원",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F015",
+    "hpsn_ry_sl_zcd": "F015001",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "임신출산",
+    "hpsn_ry_sl_cz_nm": "산후조리원"
+  },
+  "F015002": {
+    "hpsn_mct_zcd_nm": "산후조리서비스",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F015",
+    "hpsn_ry_sl_zcd": "F015002",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "임신출산",
+    "hpsn_ry_sl_cz_nm": "산후조리서비스"
+  },
+  "F016001": {
+    "hpsn_mct_zcd_nm": "인쇄업",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F016",
+    "hpsn_ry_sl_zcd": "F016001",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "인쇄/출판/광고",
+    "hpsn_ry_sl_cz_nm": "인쇄업"
+  },
+  "F016002": {
+    "hpsn_mct_zcd_nm": "출판사",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F016",
+    "hpsn_ry_sl_zcd": "F016002",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "인쇄/출판/광고",
+    "hpsn_ry_sl_cz_nm": "출판사"
+  },
+  "F016003": {
+    "hpsn_mct_zcd_nm": "광고",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F016",
+    "hpsn_ry_sl_zcd": "F016003",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "인쇄/출판/광고",
+    "hpsn_ry_sl_cz_nm": "광고"
+  },
+  "F016004": {
+    "hpsn_mct_zcd_nm": "정기간행물 발행",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F016",
+    "hpsn_ry_sl_zcd": "F016004",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "인쇄/출판/광고",
+    "hpsn_ry_sl_cz_nm": "정기간행물 발행"
+  },
+  "F016005": {
+    "hpsn_mct_zcd_nm": "기념패 제작",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F016",
+    "hpsn_ry_sl_zcd": "F016005",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "인쇄/출판/광고",
+    "hpsn_ry_sl_cz_nm": "기념패 제작"
+  },
+  "F016006": {
+    "hpsn_mct_zcd_nm": "영상/방송",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F016",
+    "hpsn_ry_sl_zcd": "F016006",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "인쇄/출판/광고",
+    "hpsn_ry_sl_cz_nm": "영상/방송"
+  },
+  "F017001": {
+    "hpsn_mct_zcd_nm": "이벤트/행사 대행",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F017",
+    "hpsn_ry_sl_zcd": "F017001",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "전문용역서비스",
+    "hpsn_ry_sl_cz_nm": "이벤트/행사 대행"
+  },
+  "F017002": {
+    "hpsn_mct_zcd_nm": "청소/소독 대행",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F017",
+    "hpsn_ry_sl_zcd": "F017002",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "전문용역서비스",
+    "hpsn_ry_sl_cz_nm": "청소/소독 대행"
+  },
+  "F017003": {
+    "hpsn_mct_zcd_nm": "회계서비스",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F017",
+    "hpsn_ry_sl_zcd": "F017003",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "전문용역서비스",
+    "hpsn_ry_sl_cz_nm": "회계서비스"
+  },
+  "F017004": {
+    "hpsn_mct_zcd_nm": "법무사",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F017",
+    "hpsn_ry_sl_zcd": "F017004",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "전문용역서비스",
+    "hpsn_ry_sl_cz_nm": "법무사"
+  },
+  "F017005": {
+    "hpsn_mct_zcd_nm": "변리사",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F017",
+    "hpsn_ry_sl_zcd": "F017005",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "전문용역서비스",
+    "hpsn_ry_sl_cz_nm": "변리사"
+  },
+  "F017006": {
+    "hpsn_mct_zcd_nm": "변호사",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F017",
+    "hpsn_ry_sl_zcd": "F017006",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "전문용역서비스",
+    "hpsn_ry_sl_cz_nm": "변호사"
+  },
+  "F017007": {
+    "hpsn_mct_zcd_nm": "세무사",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F017",
+    "hpsn_ry_sl_zcd": "F017007",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "전문용역서비스",
+    "hpsn_ry_sl_cz_nm": "세무사"
+  },
+  "F017008": {
+    "hpsn_mct_zcd_nm": "공인노무사",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F017",
+    "hpsn_ry_sl_zcd": "F017008",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "전문용역서비스",
+    "hpsn_ry_sl_cz_nm": "공인노무사"
+  },
+  "F017009": {
+    "hpsn_mct_zcd_nm": "공증인",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F017",
+    "hpsn_ry_sl_zcd": "F017009",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "전문용역서비스",
+    "hpsn_ry_sl_cz_nm": "공증인"
+  },
+  "F017010": {
+    "hpsn_mct_zcd_nm": "가스관리사업소",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F017",
+    "hpsn_ry_sl_zcd": "F017010",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "전문용역서비스",
+    "hpsn_ry_sl_cz_nm": "가스관리사업소"
+  },
+  "F017011": {
+    "hpsn_mct_zcd_nm": "건축설계사무소",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F017",
+    "hpsn_ry_sl_zcd": "F017011",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "전문용역서비스",
+    "hpsn_ry_sl_cz_nm": "건축설계사무소"
+  },
+  "F017012": {
+    "hpsn_mct_zcd_nm": "고용알선/직업안내",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F017",
+    "hpsn_ry_sl_zcd": "F017012",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "전문용역서비스",
+    "hpsn_ry_sl_cz_nm": "고용알선/직업안내"
+  },
+  "F017013": {
+    "hpsn_mct_zcd_nm": "문서/물품 서비스",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F017",
+    "hpsn_ry_sl_zcd": "F017013",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "전문용역서비스",
+    "hpsn_ry_sl_cz_nm": "문서/물품 서비스"
+  },
+  "F017014": {
+    "hpsn_mct_zcd_nm": "번역/통역서비스",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F017",
+    "hpsn_ry_sl_zcd": "F017014",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "전문용역서비스",
+    "hpsn_ry_sl_cz_nm": "번역/통역서비스"
+  },
+  "F017015": {
+    "hpsn_mct_zcd_nm": "측량 기술서비스",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F017",
+    "hpsn_ry_sl_zcd": "F017015",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "전문용역서비스",
+    "hpsn_ry_sl_cz_nm": "측량 기술서비스"
+  },
+  "F017016": {
+    "hpsn_mct_zcd_nm": "환경측정/검사/평가서비스",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F017",
+    "hpsn_ry_sl_zcd": "F017016",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "전문용역서비스",
+    "hpsn_ry_sl_cz_nm": "환경측정/검사/평가서비스"
+  },
+  "F017017": {
+    "hpsn_mct_zcd_nm": "용역서비스-기타",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F017",
+    "hpsn_ry_sl_zcd": "F017017",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "전문용역서비스",
+    "hpsn_ry_sl_cz_nm": "용역서비스-기타"
+  },
+  "F017018": {
+    "hpsn_mct_zcd_nm": "농어업서비스",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F017",
+    "hpsn_ry_sl_zcd": "F017018",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "전문용역서비스",
+    "hpsn_ry_sl_cz_nm": "농어업서비스"
+  },
+  "F017019": {
+    "hpsn_mct_zcd_nm": "컨설팅",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F017",
+    "hpsn_ry_sl_zcd": "F017019",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "전문용역서비스",
+    "hpsn_ry_sl_cz_nm": "컨설팅"
+  },
+  "F017020": {
+    "hpsn_mct_zcd_nm": "육아",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F017",
+    "hpsn_ry_sl_zcd": "F017020",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "전문용역서비스",
+    "hpsn_ry_sl_cz_nm": "육아"
+  },
+  "F018001": {
+    "hpsn_mct_zcd_nm": "물품보관소",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F018",
+    "hpsn_ry_sl_zcd": "F018001",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "보관/창고업",
+    "hpsn_ry_sl_cz_nm": "물품보관소"
+  },
+  "F019001": {
+    "hpsn_mct_zcd_nm": "상품권/기프티콘",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F019",
+    "hpsn_ry_sl_zcd": "F019001",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "상품권",
+    "hpsn_ry_sl_cz_nm": "상품권/기프티콘"
+  },
+  "F019002": {
+    "hpsn_mct_zcd_nm": "농협-상품권",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F019",
+    "hpsn_ry_sl_zcd": "F019002",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "상품권",
+    "hpsn_ry_sl_cz_nm": "농협-상품권"
+  },
+  "F020001": {
+    "hpsn_mct_zcd_nm": "PG",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F020",
+    "hpsn_ry_sl_zcd": "F020001",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "온라인서비스",
+    "hpsn_ry_sl_cz_nm": "PG"
+  },
+  "F020002": {
+    "hpsn_mct_zcd_nm": "도메인/웹호스팅",
+    "hpsn_ry_bg_zcd": "F",
+    "hpsn_ry_mi_zcd": "F020",
+    "hpsn_ry_sl_zcd": "F020002",
+    "hpsn_ry_bg_cz_nm": "전문서비스",
+    "hpsn_ry_mi_cz_nm": "온라인서비스",
+    "hpsn_ry_sl_cz_nm": "도메인/웹호스팅"
+  },
+  "Z001001": {
+    "hpsn_mct_zcd_nm": "자사가맹점",
+    "hpsn_ry_bg_zcd": "Z",
+    "hpsn_ry_mi_zcd": "Z001",
+    "hpsn_ry_sl_zcd": "Z001001",
+    "hpsn_ry_bg_cz_nm": "기타",
+    "hpsn_ry_mi_cz_nm": "자사가맹점",
+    "hpsn_ry_sl_cz_nm": "자사가맹점"
+  },
+  "Z002001": {
+    "hpsn_mct_zcd_nm": "해외사용",
+    "hpsn_ry_bg_zcd": "Z",
+    "hpsn_ry_mi_zcd": "Z002",
+    "hpsn_ry_sl_zcd": "Z002001",
+    "hpsn_ry_bg_cz_nm": "기타",
+    "hpsn_ry_mi_cz_nm": "해외사용",
+    "hpsn_ry_sl_cz_nm": "해외사용"
+  }
+}

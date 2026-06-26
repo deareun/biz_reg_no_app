@@ -1,0 +1,2153 @@
+{
+  "311000": {
+    "mct_ry_nm": "한식",
+    "lg_cat": 1,
+    "lg_cat_nm": "요식/유흥",
+    "md_cat": 1,
+    "md_cat_nm": "한식",
+    "sml_cat": 1,
+    "sml_cat_nm": "한식"
+  },
+  "315000": {
+    "mct_ry_nm": "부페",
+    "lg_cat": 1,
+    "lg_cat_nm": "요식/유흥",
+    "md_cat": 1,
+    "md_cat_nm": "한식",
+    "sml_cat": 1,
+    "sml_cat_nm": "한식"
+  },
+  "313000": {
+    "mct_ry_nm": "일식",
+    "lg_cat": 1,
+    "lg_cat_nm": "요식/유흥",
+    "md_cat": 2,
+    "md_cat_nm": "일식/중식/양식",
+    "sml_cat": 2,
+    "sml_cat_nm": "일식"
+  },
+  "312000": {
+    "mct_ry_nm": "양식",
+    "lg_cat": 1,
+    "lg_cat_nm": "요식/유흥",
+    "md_cat": 2,
+    "md_cat_nm": "일식/중식/양식",
+    "sml_cat": 3,
+    "sml_cat_nm": "양식"
+  },
+  "314000": {
+    "mct_ry_nm": "중식",
+    "lg_cat": 1,
+    "lg_cat_nm": "요식/유흥",
+    "md_cat": 2,
+    "md_cat_nm": "일식/중식/양식",
+    "sml_cat": 4,
+    "sml_cat_nm": "중식"
+  },
+  "241000": {
+    "mct_ry_nm": "제과점",
+    "lg_cat": 1,
+    "lg_cat_nm": "요식/유흥",
+    "md_cat": 3,
+    "md_cat_nm": "제과/커피/패스트푸드",
+    "sml_cat": 5,
+    "sml_cat_nm": "제과"
+  },
+  "327000": {
+    "mct_ry_nm": "커피전문점",
+    "lg_cat": 1,
+    "lg_cat_nm": "요식/유흥",
+    "md_cat": 3,
+    "md_cat_nm": "제과/커피/패스트푸드",
+    "sml_cat": 6,
+    "sml_cat_nm": "커피/음료"
+  },
+  "332000": {
+    "mct_ry_nm": "패스트푸드",
+    "lg_cat": 1,
+    "lg_cat_nm": "요식/유흥",
+    "md_cat": 3,
+    "md_cat_nm": "제과/커피/패스트푸드",
+    "sml_cat": 7,
+    "sml_cat_nm": "패스트푸드"
+  },
+  "331000": {
+    "mct_ry_nm": "일반대중음식",
+    "lg_cat": 1,
+    "lg_cat_nm": "요식/유흥",
+    "md_cat": 4,
+    "md_cat_nm": "기타요식",
+    "sml_cat": 8,
+    "sml_cat_nm": "분식/호프등외식업기타"
+  },
+  "718000": {
+    "mct_ry_nm": "노래방",
+    "lg_cat": 1,
+    "lg_cat_nm": "요식/유흥",
+    "md_cat": 5,
+    "md_cat_nm": "유흥",
+    "sml_cat": 9,
+    "sml_cat_nm": "노래방"
+  },
+  "321000": {
+    "mct_ry_nm": "룸싸롱",
+    "lg_cat": 1,
+    "lg_cat_nm": "요식/유흥",
+    "md_cat": 5,
+    "md_cat_nm": "유흥",
+    "sml_cat": 10,
+    "sml_cat_nm": "유흥업소"
+  },
+  "324000": {
+    "mct_ry_nm": "나이트크럽",
+    "lg_cat": 1,
+    "lg_cat_nm": "요식/유흥",
+    "md_cat": 5,
+    "md_cat_nm": "유흥",
+    "sml_cat": 10,
+    "sml_cat_nm": "유흥업소"
+  },
+  "326000": {
+    "mct_ry_nm": "단란주점",
+    "lg_cat": 1,
+    "lg_cat_nm": "요식/유흥",
+    "md_cat": 5,
+    "md_cat_nm": "유흥",
+    "sml_cat": 10,
+    "sml_cat_nm": "유흥업소"
+  },
+  "328000": {
+    "mct_ry_nm": "맥주홀",
+    "lg_cat": 1,
+    "lg_cat_nm": "요식/유흥",
+    "md_cat": 5,
+    "md_cat_nm": "유흥",
+    "sml_cat": 10,
+    "sml_cat_nm": "유흥업소"
+  },
+  "329000": {
+    "mct_ry_nm": "유흥주점",
+    "lg_cat": 1,
+    "lg_cat_nm": "요식/유흥",
+    "md_cat": 5,
+    "md_cat_nm": "유흥",
+    "sml_cat": 10,
+    "sml_cat_nm": "유흥업소"
+  },
+  "845000": {
+    "mct_ry_nm": "안마업",
+    "lg_cat": 1,
+    "lg_cat_nm": "요식/유흥",
+    "md_cat": 5,
+    "md_cat_nm": "유흥",
+    "sml_cat": 10,
+    "sml_cat_nm": "유흥업소"
+  },
+  "322000": {
+    "mct_ry_nm": "칵테일/스텐드빠",
+    "lg_cat": 1,
+    "lg_cat_nm": "요식/유흥",
+    "md_cat": 5,
+    "md_cat_nm": "유흥",
+    "sml_cat": 10,
+    "sml_cat_nm": "유흥업소"
+  },
+  "323000": {
+    "mct_ry_nm": "극장식당",
+    "lg_cat": 1,
+    "lg_cat_nm": "요식/유흥",
+    "md_cat": 5,
+    "md_cat_nm": "유흥",
+    "sml_cat": 10,
+    "sml_cat_nm": "유흥업소"
+  },
+  "325000": {
+    "mct_ry_nm": "카바레",
+    "lg_cat": 1,
+    "lg_cat_nm": "요식/유흥",
+    "md_cat": 5,
+    "md_cat_nm": "유흥",
+    "sml_cat": 10,
+    "sml_cat_nm": "유흥업소"
+  },
+  "746000": {
+    "mct_ry_nm": "카지노",
+    "lg_cat": 1,
+    "lg_cat_nm": "요식/유흥",
+    "md_cat": 5,
+    "md_cat_nm": "유흥",
+    "sml_cat": 10,
+    "sml_cat_nm": "유흥업소"
+  },
+  "213000": {
+    "mct_ry_nm": "할인점/슈퍼마켓",
+    "lg_cat": 2,
+    "lg_cat_nm": "유통",
+    "md_cat": 6,
+    "md_cat_nm": "할인점/슈퍼마켓",
+    "sml_cat": 11,
+    "sml_cat_nm": "대형유통점/슈퍼마켓"
+  },
+  "229000": {
+    "mct_ry_nm": "농협(마트)",
+    "lg_cat": 2,
+    "lg_cat_nm": "유통",
+    "md_cat": 6,
+    "md_cat_nm": "할인점/슈퍼마켓",
+    "sml_cat": 11,
+    "sml_cat_nm": "대형유통점/슈퍼마켓"
+  },
+  "271000": {
+    "mct_ry_nm": "상품권판매",
+    "lg_cat": 2,
+    "lg_cat_nm": "유통",
+    "md_cat": 6,
+    "md_cat_nm": "할인점/슈퍼마켓",
+    "sml_cat": 12,
+    "sml_cat_nm": "상품권판매"
+  },
+  "273000": {
+    "mct_ry_nm": "농협(상품권)",
+    "lg_cat": 2,
+    "lg_cat_nm": "유통",
+    "md_cat": 6,
+    "md_cat_nm": "할인점/슈퍼마켓",
+    "sml_cat": 12,
+    "sml_cat_nm": "상품권판매"
+  },
+  "223000": {
+    "mct_ry_nm": "연금매장",
+    "lg_cat": 2,
+    "lg_cat_nm": "유통",
+    "md_cat": 6,
+    "md_cat_nm": "할인점/슈퍼마켓",
+    "sml_cat": 13,
+    "sml_cat_nm": "슈퍼마켓"
+  },
+  "226000": {
+    "mct_ry_nm": "복지매점",
+    "lg_cat": 2,
+    "lg_cat_nm": "유통",
+    "md_cat": 6,
+    "md_cat_nm": "할인점/슈퍼마켓",
+    "sml_cat": 13,
+    "sml_cat_nm": "슈퍼마켓"
+  },
+  "225000": {
+    "mct_ry_nm": "보훈매장",
+    "lg_cat": 2,
+    "lg_cat_nm": "유통",
+    "md_cat": 6,
+    "md_cat_nm": "할인점/슈퍼마켓",
+    "sml_cat": 13,
+    "sml_cat_nm": "슈퍼마켓"
+  },
+  "221000": {
+    "mct_ry_nm": "연쇄점",
+    "lg_cat": 2,
+    "lg_cat_nm": "유통",
+    "md_cat": 6,
+    "md_cat_nm": "할인점/슈퍼마켓",
+    "sml_cat": 13,
+    "sml_cat_nm": "슈퍼마켓"
+  },
+  "224000": {
+    "mct_ry_nm": "사원전용매장",
+    "lg_cat": 2,
+    "lg_cat_nm": "유통",
+    "md_cat": 6,
+    "md_cat_nm": "할인점/슈퍼마켓",
+    "sml_cat": 13,
+    "sml_cat_nm": "슈퍼마켓"
+  },
+  "218000": {
+    "mct_ry_nm": "생활잡화",
+    "lg_cat": 2,
+    "lg_cat_nm": "유통",
+    "md_cat": 6,
+    "md_cat_nm": "할인점/슈퍼마켓",
+    "sml_cat": 14,
+    "sml_cat_nm": "생활잡화"
+  },
+  "211000": {
+    "mct_ry_nm": "백화점",
+    "lg_cat": 2,
+    "lg_cat_nm": "유통",
+    "md_cat": 7,
+    "md_cat_nm": "백화점",
+    "sml_cat": 15,
+    "sml_cat_nm": "백화점"
+  },
+  "215000": {
+    "mct_ry_nm": "편의점",
+    "lg_cat": 2,
+    "lg_cat_nm": "유통",
+    "md_cat": 8,
+    "md_cat_nm": "편의점",
+    "sml_cat": 16,
+    "sml_cat_nm": "편의점"
+  },
+  "943000": {
+    "mct_ry_nm": "유류도매",
+    "lg_cat": 2,
+    "lg_cat_nm": "유통",
+    "md_cat": 9,
+    "md_cat_nm": "기타유통",
+    "sml_cat": 17,
+    "sml_cat_nm": "기타유통"
+  },
+  "944000": {
+    "mct_ry_nm": "가정용연료",
+    "lg_cat": 2,
+    "lg_cat_nm": "유통",
+    "md_cat": 9,
+    "md_cat_nm": "기타유통",
+    "sml_cat": 17,
+    "sml_cat_nm": "기타유통"
+  },
+  "235000": {
+    "mct_ry_nm": "농기계/사료/비료",
+    "lg_cat": 2,
+    "lg_cat_nm": "유통",
+    "md_cat": 9,
+    "md_cat_nm": "기타유통",
+    "sml_cat": 17,
+    "sml_cat_nm": "기타유통"
+  },
+  "243000": {
+    "mct_ry_nm": "주류판매(유통)",
+    "lg_cat": 2,
+    "lg_cat_nm": "유통",
+    "md_cat": 9,
+    "md_cat_nm": "기타유통",
+    "sml_cat": 17,
+    "sml_cat_nm": "기타유통"
+  },
+  "666000": {
+    "mct_ry_nm": "방문판매",
+    "lg_cat": 2,
+    "lg_cat_nm": "유통",
+    "md_cat": 9,
+    "md_cat_nm": "기타유통",
+    "sml_cat": 17,
+    "sml_cat_nm": "기타유통"
+  },
+  "214000": {
+    "mct_ry_nm": "쇼핑몰",
+    "lg_cat": 2,
+    "lg_cat_nm": "유통",
+    "md_cat": 9,
+    "md_cat_nm": "기타유통",
+    "sml_cat": 17,
+    "sml_cat_nm": "기타유통"
+  },
+  "237000": {
+    "mct_ry_nm": "식자재납품(결제전용)",
+    "lg_cat": 2,
+    "lg_cat_nm": "유통",
+    "md_cat": 9,
+    "md_cat_nm": "기타유통",
+    "sml_cat": 17,
+    "sml_cat_nm": "기타유통"
+  },
+  "667000": {
+    "mct_ry_nm": "다단계판매",
+    "lg_cat": 2,
+    "lg_cat_nm": "유통",
+    "md_cat": 9,
+    "md_cat_nm": "기타유통",
+    "sml_cat": 17,
+    "sml_cat_nm": "기타유통"
+  },
+  "216000": {
+    "mct_ry_nm": "대량양판점",
+    "lg_cat": 2,
+    "lg_cat_nm": "유통",
+    "md_cat": 9,
+    "md_cat_nm": "기타유통",
+    "sml_cat": 17,
+    "sml_cat_nm": "기타유통"
+  },
+  "251000": {
+    "mct_ry_nm": "수입상품점",
+    "lg_cat": 2,
+    "lg_cat_nm": "유통",
+    "md_cat": 9,
+    "md_cat_nm": "기타유통",
+    "sml_cat": 17,
+    "sml_cat_nm": "기타유통"
+  },
+  "433000": {
+    "mct_ry_nm": "중고품판매점",
+    "lg_cat": 2,
+    "lg_cat_nm": "유통",
+    "md_cat": 9,
+    "md_cat_nm": "기타유통",
+    "sml_cat": 17,
+    "sml_cat_nm": "기타유통"
+  },
+  "212000": {
+    "mct_ry_nm": "쇼핑센타",
+    "lg_cat": 2,
+    "lg_cat_nm": "유통",
+    "md_cat": 9,
+    "md_cat_nm": "기타유통",
+    "sml_cat": 17,
+    "sml_cat_nm": "기타유통"
+  },
+  "231000": {
+    "mct_ry_nm": "정육점",
+    "lg_cat": 3,
+    "lg_cat_nm": "음/식료품",
+    "md_cat": 10,
+    "md_cat_nm": "음/식료품",
+    "sml_cat": 18,
+    "sml_cat_nm": "정육점"
+  },
+  "232000": {
+    "mct_ry_nm": "미곡상",
+    "lg_cat": 3,
+    "lg_cat_nm": "음/식료품",
+    "md_cat": 10,
+    "md_cat_nm": "음/식료품",
+    "sml_cat": 19,
+    "sml_cat_nm": "농수산물"
+  },
+  "233000": {
+    "mct_ry_nm": "청과물",
+    "lg_cat": 3,
+    "lg_cat_nm": "음/식료품",
+    "md_cat": 10,
+    "md_cat_nm": "음/식료품",
+    "sml_cat": 19,
+    "sml_cat_nm": "농수산물"
+  },
+  "234000": {
+    "mct_ry_nm": "농수산물",
+    "lg_cat": 3,
+    "lg_cat_nm": "음/식료품",
+    "md_cat": 10,
+    "md_cat_nm": "음/식료품",
+    "sml_cat": 19,
+    "sml_cat_nm": "농수산물"
+  },
+  "835000": {
+    "mct_ry_nm": "식품류제조업",
+    "lg_cat": 3,
+    "lg_cat_nm": "음/식료품",
+    "md_cat": 10,
+    "md_cat_nm": "음/식료품",
+    "sml_cat": 20,
+    "sml_cat_nm": "기타음/식료품"
+  },
+  "242000": {
+    "mct_ry_nm": "인삼및건강제품",
+    "lg_cat": 3,
+    "lg_cat_nm": "음/식료품",
+    "md_cat": 10,
+    "md_cat_nm": "음/식료품",
+    "sml_cat": 20,
+    "sml_cat_nm": "기타음/식료품"
+  },
+  "236000": {
+    "mct_ry_nm": "농협(기타)",
+    "lg_cat": 3,
+    "lg_cat_nm": "음/식료품",
+    "md_cat": 10,
+    "md_cat_nm": "음/식료품",
+    "sml_cat": 20,
+    "sml_cat_nm": "기타음/식료품"
+  },
+  "219000": {
+    "mct_ry_nm": "식품잡화",
+    "lg_cat": 3,
+    "lg_cat_nm": "음/식료품",
+    "md_cat": 10,
+    "md_cat_nm": "음/식료품",
+    "sml_cat": 20,
+    "sml_cat_nm": "기타음/식료품"
+  },
+  "228000": {
+    "mct_ry_nm": "농수축협직판장",
+    "lg_cat": 3,
+    "lg_cat_nm": "음/식료품",
+    "md_cat": 10,
+    "md_cat_nm": "음/식료품",
+    "sml_cat": 20,
+    "sml_cat_nm": "기타음/식료품"
+  },
+  "227000": {
+    "mct_ry_nm": "농가공산품",
+    "lg_cat": 3,
+    "lg_cat_nm": "음/식료품",
+    "md_cat": 10,
+    "md_cat_nm": "음/식료품",
+    "sml_cat": 20,
+    "sml_cat_nm": "기타음/식료품"
+  },
+  "734000": {
+    "mct_ry_nm": "혼수전문점",
+    "lg_cat": 4,
+    "lg_cat_nm": "의류/잡화",
+    "md_cat": 11,
+    "md_cat_nm": "의복/의류",
+    "sml_cat": 21,
+    "sml_cat_nm": "의복/의류"
+  },
+  "511000": {
+    "mct_ry_nm": "남.여기성복",
+    "lg_cat": 4,
+    "lg_cat_nm": "의류/잡화",
+    "md_cat": 11,
+    "md_cat_nm": "의복/의류",
+    "sml_cat": 21,
+    "sml_cat_nm": "의복/의류"
+  },
+  "512000": {
+    "mct_ry_nm": "양복",
+    "lg_cat": 4,
+    "lg_cat_nm": "의류/잡화",
+    "md_cat": 11,
+    "md_cat_nm": "의복/의류",
+    "sml_cat": 21,
+    "sml_cat_nm": "의복/의류"
+  },
+  "513000": {
+    "mct_ry_nm": "양품점",
+    "lg_cat": 4,
+    "lg_cat_nm": "의류/잡화",
+    "md_cat": 11,
+    "md_cat_nm": "의복/의류",
+    "sml_cat": 21,
+    "sml_cat_nm": "의복/의류"
+  },
+  "514000": {
+    "mct_ry_nm": "내의류판매업",
+    "lg_cat": 4,
+    "lg_cat_nm": "의류/잡화",
+    "md_cat": 11,
+    "md_cat_nm": "의복/의류",
+    "sml_cat": 21,
+    "sml_cat_nm": "의복/의류"
+  },
+  "515000": {
+    "mct_ry_nm": "침구(이불)",
+    "lg_cat": 4,
+    "lg_cat_nm": "의류/잡화",
+    "md_cat": 11,
+    "md_cat_nm": "의복/의류",
+    "sml_cat": 21,
+    "sml_cat_nm": "의복/의류"
+  },
+  "516000": {
+    "mct_ry_nm": "아동복",
+    "lg_cat": 4,
+    "lg_cat_nm": "의류/잡화",
+    "md_cat": 11,
+    "md_cat_nm": "의복/의류",
+    "sml_cat": 21,
+    "sml_cat_nm": "의복/의류"
+  },
+  "517000": {
+    "mct_ry_nm": "옷감/직물류",
+    "lg_cat": 4,
+    "lg_cat_nm": "의류/잡화",
+    "md_cat": 11,
+    "md_cat_nm": "의복/의류",
+    "sml_cat": 21,
+    "sml_cat_nm": "의복/의류"
+  },
+  "518000": {
+    "mct_ry_nm": "캐주얼의류",
+    "lg_cat": 4,
+    "lg_cat_nm": "의류/잡화",
+    "md_cat": 11,
+    "md_cat_nm": "의복/의류",
+    "sml_cat": 21,
+    "sml_cat_nm": "의복/의류"
+  },
+  "736000": {
+    "mct_ry_nm": "수제용품점",
+    "lg_cat": 4,
+    "lg_cat_nm": "의류/잡화",
+    "md_cat": 12,
+    "md_cat_nm": "패션/잡화",
+    "sml_cat": 22,
+    "sml_cat_nm": "패션/잡화"
+  },
+  "531000": {
+    "mct_ry_nm": "시계점",
+    "lg_cat": 4,
+    "lg_cat_nm": "의류/잡화",
+    "md_cat": 12,
+    "md_cat_nm": "패션/잡화",
+    "sml_cat": 22,
+    "sml_cat_nm": "패션/잡화"
+  },
+  "532000": {
+    "mct_ry_nm": "귀금속/금/은/보석",
+    "lg_cat": 4,
+    "lg_cat_nm": "의류/잡화",
+    "md_cat": 12,
+    "md_cat_nm": "패션/잡화",
+    "sml_cat": 22,
+    "sml_cat_nm": "패션/잡화"
+  },
+  "521000": {
+    "mct_ry_nm": "제화점",
+    "lg_cat": 4,
+    "lg_cat_nm": "의류/잡화",
+    "md_cat": 12,
+    "md_cat_nm": "패션/잡화",
+    "sml_cat": 22,
+    "sml_cat_nm": "패션/잡화"
+  },
+  "522000": {
+    "mct_ry_nm": "가방/핸드백(가죽)",
+    "lg_cat": 4,
+    "lg_cat_nm": "의류/잡화",
+    "md_cat": 12,
+    "md_cat_nm": "패션/잡화",
+    "sml_cat": 22,
+    "sml_cat_nm": "패션/잡화"
+  },
+  "523000": {
+    "mct_ry_nm": "기성화(신발)",
+    "lg_cat": 4,
+    "lg_cat_nm": "의류/잡화",
+    "md_cat": 12,
+    "md_cat_nm": "패션/잡화",
+    "sml_cat": 22,
+    "sml_cat_nm": "패션/잡화"
+  },
+  "541000": {
+    "mct_ry_nm": "악세사리",
+    "lg_cat": 4,
+    "lg_cat_nm": "의류/잡화",
+    "md_cat": 12,
+    "md_cat_nm": "패션/잡화",
+    "sml_cat": 22,
+    "sml_cat_nm": "패션/잡화"
+  },
+  "671000": {
+    "mct_ry_nm": "안경/콘텍트렌즈",
+    "lg_cat": 4,
+    "lg_cat_nm": "의류/잡화",
+    "md_cat": 12,
+    "md_cat_nm": "패션/잡화",
+    "sml_cat": 23,
+    "sml_cat_nm": "안경"
+  },
+  "711000": {
+    "mct_ry_nm": "실내골프장",
+    "lg_cat": 5,
+    "lg_cat_nm": "스포츠/문화/레저",
+    "md_cat": 13,
+    "md_cat_nm": "스포츠/문화/레저",
+    "sml_cat": 24,
+    "sml_cat_nm": "실내골프/헬스"
+  },
+  "744000": {
+    "mct_ry_nm": "스포츠센타/레포츠클럽",
+    "lg_cat": 5,
+    "lg_cat_nm": "스포츠/문화/레저",
+    "md_cat": 13,
+    "md_cat_nm": "스포츠/문화/레저",
+    "sml_cat": 24,
+    "sml_cat_nm": "실내골프/헬스"
+  },
+  "712000": {
+    "mct_ry_nm": "실외골프장",
+    "lg_cat": 5,
+    "lg_cat_nm": "스포츠/문화/레저",
+    "md_cat": 13,
+    "md_cat_nm": "스포츠/문화/레저",
+    "sml_cat": 25,
+    "sml_cat_nm": "실외골프/스키"
+  },
+  "715000": {
+    "mct_ry_nm": "스키장",
+    "lg_cat": 5,
+    "lg_cat_nm": "스포츠/문화/레저",
+    "md_cat": 13,
+    "md_cat_nm": "스포츠/문화/레저",
+    "sml_cat": 25,
+    "sml_cat_nm": "실외골프/스키"
+  },
+  "714000": {
+    "mct_ry_nm": "볼링장",
+    "lg_cat": 5,
+    "lg_cat_nm": "스포츠/문화/레저",
+    "md_cat": 13,
+    "md_cat_nm": "스포츠/문화/레저",
+    "sml_cat": 26,
+    "sml_cat_nm": "스포츠시설"
+  },
+  "653000": {
+    "mct_ry_nm": "레저스포츠",
+    "lg_cat": 5,
+    "lg_cat_nm": "스포츠/문화/레저",
+    "md_cat": 13,
+    "md_cat_nm": "스포츠/문화/레저",
+    "sml_cat": 26,
+    "sml_cat_nm": "스포츠시설"
+  },
+  "713000": {
+    "mct_ry_nm": "테니스장",
+    "lg_cat": 5,
+    "lg_cat_nm": "스포츠/문화/레저",
+    "md_cat": 13,
+    "md_cat_nm": "스포츠/문화/레저",
+    "sml_cat": 26,
+    "sml_cat_nm": "스포츠시설"
+  },
+  "716000": {
+    "mct_ry_nm": "수영장",
+    "lg_cat": 5,
+    "lg_cat_nm": "스포츠/문화/레저",
+    "md_cat": 13,
+    "md_cat_nm": "스포츠/문화/레저",
+    "sml_cat": 26,
+    "sml_cat_nm": "스포츠시설"
+  },
+  "750000": {
+    "mct_ry_nm": "수련원/체험장",
+    "lg_cat": 5,
+    "lg_cat_nm": "스포츠/문화/레저",
+    "md_cat": 13,
+    "md_cat_nm": "스포츠/문화/레저",
+    "sml_cat": 26,
+    "sml_cat_nm": "스포츠시설"
+  },
+  "748000": {
+    "mct_ry_nm": "운동경기관람",
+    "lg_cat": 5,
+    "lg_cat_nm": "스포츠/문화/레저",
+    "md_cat": 13,
+    "md_cat_nm": "스포츠/문화/레저",
+    "sml_cat": 26,
+    "sml_cat_nm": "스포츠시설"
+  },
+  "719000": {
+    "mct_ry_nm": "종합레저타운/놀이동산",
+    "lg_cat": 5,
+    "lg_cat_nm": "스포츠/문화/레저",
+    "md_cat": 13,
+    "md_cat_nm": "스포츠/문화/레저",
+    "sml_cat": 27,
+    "sml_cat_nm": "종합레저시설"
+  },
+  "747000": {
+    "mct_ry_nm": "공연장/극장",
+    "lg_cat": 5,
+    "lg_cat_nm": "스포츠/문화/레저",
+    "md_cat": 13,
+    "md_cat_nm": "스포츠/문화/레저",
+    "sml_cat": 28,
+    "sml_cat_nm": "영화/공연"
+  },
+  "720000": {
+    "mct_ry_nm": "비디오방/전화방",
+    "lg_cat": 5,
+    "lg_cat_nm": "스포츠/문화/레저",
+    "md_cat": 13,
+    "md_cat_nm": "스포츠/문화/레저",
+    "sml_cat": 29,
+    "sml_cat_nm": "취미/오락"
+  },
+  "781000": {
+    "mct_ry_nm": "전자오락실",
+    "lg_cat": 5,
+    "lg_cat_nm": "스포츠/문화/레저",
+    "md_cat": 13,
+    "md_cat_nm": "스포츠/문화/레저",
+    "sml_cat": 29,
+    "sml_cat_nm": "취미/오락"
+  },
+  "782000": {
+    "mct_ry_nm": "PC게임방",
+    "lg_cat": 5,
+    "lg_cat_nm": "스포츠/문화/레저",
+    "md_cat": 13,
+    "md_cat_nm": "스포츠/문화/레저",
+    "sml_cat": 29,
+    "sml_cat_nm": "취미/오락"
+  },
+  "717000": {
+    "mct_ry_nm": "당구장",
+    "lg_cat": 5,
+    "lg_cat_nm": "스포츠/문화/레저",
+    "md_cat": 13,
+    "md_cat_nm": "스포츠/문화/레저",
+    "sml_cat": 29,
+    "sml_cat_nm": "취미/오락"
+  },
+  "622000": {
+    "mct_ry_nm": "사진관/DPNE",
+    "lg_cat": 5,
+    "lg_cat_nm": "스포츠/문화/레저",
+    "md_cat": 13,
+    "md_cat_nm": "스포츠/문화/레저",
+    "sml_cat": 29,
+    "sml_cat_nm": "취미/오락"
+  },
+  "814000": {
+    "mct_ry_nm": "동물병원",
+    "lg_cat": 5,
+    "lg_cat_nm": "스포츠/문화/레저",
+    "md_cat": 13,
+    "md_cat_nm": "스포츠/문화/레저",
+    "sml_cat": 29,
+    "sml_cat_nm": "취미/오락"
+  },
+  "634000": {
+    "mct_ry_nm": "동물농장",
+    "lg_cat": 5,
+    "lg_cat_nm": "스포츠/문화/레저",
+    "md_cat": 13,
+    "md_cat_nm": "스포츠/문화/레저",
+    "sml_cat": 29,
+    "sml_cat_nm": "취미/오락"
+  },
+  "661000": {
+    "mct_ry_nm": "서적",
+    "lg_cat": 5,
+    "lg_cat_nm": "스포츠/문화/레저",
+    "md_cat": 13,
+    "md_cat_nm": "스포츠/문화/레저",
+    "sml_cat": 30,
+    "sml_cat_nm": "서점"
+  },
+  "743000": {
+    "mct_ry_nm": "총포류판매",
+    "lg_cat": 5,
+    "lg_cat_nm": "스포츠/문화/레저",
+    "md_cat": 14,
+    "md_cat_nm": "스포츠/문화/레저용품",
+    "sml_cat": 31,
+    "sml_cat_nm": "스포츠/레저용품"
+  },
+  "652000": {
+    "mct_ry_nm": "운동경기/레져용품",
+    "lg_cat": 5,
+    "lg_cat_nm": "스포츠/문화/레저",
+    "md_cat": 14,
+    "md_cat_nm": "스포츠/문화/레저용품",
+    "sml_cat": 31,
+    "sml_cat_nm": "스포츠/레저용품"
+  },
+  "961000": {
+    "mct_ry_nm": "보트판매",
+    "lg_cat": 5,
+    "lg_cat_nm": "스포츠/문화/레저",
+    "md_cat": 14,
+    "md_cat_nm": "스포츠/문화/레저용품",
+    "sml_cat": 31,
+    "sml_cat_nm": "스포츠/레저용품"
+  },
+  "971000": {
+    "mct_ry_nm": "수중장비",
+    "lg_cat": 5,
+    "lg_cat_nm": "스포츠/문화/레저",
+    "md_cat": 14,
+    "md_cat_nm": "스포츠/문화/레저용품",
+    "sml_cat": 31,
+    "sml_cat_nm": "스포츠/레저용품"
+  },
+  "952000": {
+    "mct_ry_nm": "자전거(성인용)",
+    "lg_cat": 5,
+    "lg_cat_nm": "스포츠/문화/레저",
+    "md_cat": 14,
+    "md_cat_nm": "스포츠/문화/레저용품",
+    "sml_cat": 31,
+    "sml_cat_nm": "스포츠/레저용품"
+  },
+  "613000": {
+    "mct_ry_nm": "관광민예/선물용품",
+    "lg_cat": 5,
+    "lg_cat_nm": "스포츠/문화/레저",
+    "md_cat": 14,
+    "md_cat_nm": "스포츠/문화/레저용품",
+    "sml_cat": 32,
+    "sml_cat_nm": "문화용품"
+  },
+  "615000": {
+    "mct_ry_nm": "종교상품점",
+    "lg_cat": 5,
+    "lg_cat_nm": "스포츠/문화/레저",
+    "md_cat": 14,
+    "md_cat_nm": "스포츠/문화/레저용품",
+    "sml_cat": 32,
+    "sml_cat_nm": "문화용품"
+  },
+  "641000": {
+    "mct_ry_nm": "음반테이프",
+    "lg_cat": 5,
+    "lg_cat_nm": "스포츠/문화/레저",
+    "md_cat": 14,
+    "md_cat_nm": "스포츠/문화/레저용품",
+    "sml_cat": 32,
+    "sml_cat_nm": "문화용품"
+  },
+  "642000": {
+    "mct_ry_nm": "악기",
+    "lg_cat": 5,
+    "lg_cat_nm": "스포츠/문화/레저",
+    "md_cat": 14,
+    "md_cat_nm": "스포츠/문화/레저용품",
+    "sml_cat": 32,
+    "sml_cat_nm": "문화용품"
+  },
+  "643000": {
+    "mct_ry_nm": "피아노대리점",
+    "lg_cat": 5,
+    "lg_cat_nm": "스포츠/문화/레저",
+    "md_cat": 14,
+    "md_cat_nm": "스포츠/문화/레저용품",
+    "sml_cat": 32,
+    "sml_cat_nm": "문화용품"
+  },
+  "651000": {
+    "mct_ry_nm": "인형및완구아동용자전거",
+    "lg_cat": 5,
+    "lg_cat_nm": "스포츠/문화/레저",
+    "md_cat": 14,
+    "md_cat_nm": "스포츠/문화/레저용품",
+    "sml_cat": 32,
+    "sml_cat_nm": "문화용품"
+  },
+  "611000": {
+    "mct_ry_nm": "골동품/예술품",
+    "lg_cat": 5,
+    "lg_cat_nm": "스포츠/문화/레저",
+    "md_cat": 14,
+    "md_cat_nm": "스포츠/문화/레저용품",
+    "sml_cat": 32,
+    "sml_cat_nm": "문화용품"
+  },
+  "612000": {
+    "mct_ry_nm": "화랑/표구사",
+    "lg_cat": 5,
+    "lg_cat_nm": "스포츠/문화/레저",
+    "md_cat": 14,
+    "md_cat_nm": "스포츠/문화/레저용품",
+    "sml_cat": 32,
+    "sml_cat_nm": "문화용품"
+  },
+  "614000": {
+    "mct_ry_nm": "화방",
+    "lg_cat": 5,
+    "lg_cat_nm": "스포츠/문화/레저",
+    "md_cat": 14,
+    "md_cat_nm": "스포츠/문화/레저용품",
+    "sml_cat": 32,
+    "sml_cat_nm": "문화용품"
+  },
+  "632000": {
+    "mct_ry_nm": "수족관",
+    "lg_cat": 5,
+    "lg_cat_nm": "스포츠/문화/레저",
+    "md_cat": 14,
+    "md_cat_nm": "스포츠/문화/레저용품",
+    "sml_cat": 32,
+    "sml_cat_nm": "문화용품"
+  },
+  "633000": {
+    "mct_ry_nm": "애완동물",
+    "lg_cat": 5,
+    "lg_cat_nm": "스포츠/문화/레저",
+    "md_cat": 14,
+    "md_cat_nm": "스포츠/문화/레저용품",
+    "sml_cat": 32,
+    "sml_cat_nm": "문화용품"
+  },
+  "621000": {
+    "mct_ry_nm": "사진기/광학제품",
+    "lg_cat": 5,
+    "lg_cat_nm": "스포츠/문화/레저",
+    "md_cat": 14,
+    "md_cat_nm": "스포츠/문화/레저용품",
+    "sml_cat": 32,
+    "sml_cat_nm": "문화용품"
+  },
+  "833000": {
+    "mct_ry_nm": "성인용품판매점",
+    "lg_cat": 5,
+    "lg_cat_nm": "스포츠/문화/레저",
+    "md_cat": 14,
+    "md_cat_nm": "스포츠/문화/레저용품",
+    "sml_cat": 32,
+    "sml_cat_nm": "문화용품"
+  },
+  "631000": {
+    "mct_ry_nm": "화원",
+    "lg_cat": 5,
+    "lg_cat_nm": "스포츠/문화/레저",
+    "md_cat": 14,
+    "md_cat_nm": "스포츠/문화/레저용품",
+    "sml_cat": 33,
+    "sml_cat_nm": "화원"
+  },
+  "112000": {
+    "mct_ry_nm": "1급호텔",
+    "lg_cat": 6,
+    "lg_cat_nm": "여행/교통",
+    "md_cat": 15,
+    "md_cat_nm": "숙박",
+    "sml_cat": 34,
+    "sml_cat_nm": "호텔/콘도"
+  },
+  "113000": {
+    "mct_ry_nm": "2급호텔",
+    "lg_cat": 6,
+    "lg_cat_nm": "여행/교통",
+    "md_cat": 15,
+    "md_cat_nm": "숙박",
+    "sml_cat": 34,
+    "sml_cat_nm": "호텔/콘도"
+  },
+  "114000": {
+    "mct_ry_nm": "콘도미니엄",
+    "lg_cat": 6,
+    "lg_cat_nm": "여행/교통",
+    "md_cat": 15,
+    "md_cat_nm": "숙박",
+    "sml_cat": 34,
+    "sml_cat_nm": "호텔/콘도"
+  },
+  "111000": {
+    "mct_ry_nm": "특급호텔",
+    "lg_cat": 6,
+    "lg_cat_nm": "여행/교통",
+    "md_cat": 15,
+    "md_cat_nm": "숙박",
+    "sml_cat": 34,
+    "sml_cat_nm": "호텔/콘도"
+  },
+  "115000": {
+    "mct_ry_nm": "모텔/여관/기타숙박",
+    "lg_cat": 6,
+    "lg_cat_nm": "여행/교통",
+    "md_cat": 15,
+    "md_cat_nm": "숙박",
+    "sml_cat": 35,
+    "sml_cat_nm": "모텔/여관/기타숙박"
+  },
+  "121000": {
+    "mct_ry_nm": "관광여행사",
+    "lg_cat": 6,
+    "lg_cat_nm": "여행/교통",
+    "md_cat": 16,
+    "md_cat_nm": "여행",
+    "sml_cat": 36,
+    "sml_cat_nm": "여행사"
+  },
+  "122000": {
+    "mct_ry_nm": "항공사",
+    "lg_cat": 6,
+    "lg_cat_nm": "여행/교통",
+    "md_cat": 16,
+    "md_cat_nm": "여행",
+    "sml_cat": 37,
+    "sml_cat_nm": "항공"
+  },
+  "222000": {
+    "mct_ry_nm": "면세점",
+    "lg_cat": 6,
+    "lg_cat_nm": "여행/교통",
+    "md_cat": 16,
+    "md_cat_nm": "여행",
+    "sml_cat": 38,
+    "sml_cat_nm": "면세점"
+  },
+  "123000": {
+    "mct_ry_nm": "고속버스",
+    "lg_cat": 6,
+    "lg_cat_nm": "여행/교통",
+    "md_cat": 17,
+    "md_cat_nm": "교통",
+    "sml_cat": 39,
+    "sml_cat_nm": "교통"
+  },
+  "125000": {
+    "mct_ry_nm": "여객선",
+    "lg_cat": 6,
+    "lg_cat_nm": "여행/교통",
+    "md_cat": 17,
+    "md_cat_nm": "교통",
+    "sml_cat": 39,
+    "sml_cat_nm": "교통"
+  },
+  "124000": {
+    "mct_ry_nm": "철도",
+    "lg_cat": 6,
+    "lg_cat_nm": "여행/교통",
+    "md_cat": 17,
+    "md_cat_nm": "교통",
+    "sml_cat": 39,
+    "sml_cat_nm": "교통"
+  },
+  "126000": {
+    "mct_ry_nm": "택시",
+    "lg_cat": 6,
+    "lg_cat_nm": "여행/교통",
+    "md_cat": 17,
+    "md_cat_nm": "교통",
+    "sml_cat": 39,
+    "sml_cat_nm": "교통"
+  },
+  "741000": {
+    "mct_ry_nm": "렌트카",
+    "lg_cat": 6,
+    "lg_cat_nm": "여행/교통",
+    "md_cat": 17,
+    "md_cat_nm": "교통",
+    "sml_cat": 39,
+    "sml_cat_nm": "교통"
+  },
+  "841000": {
+    "mct_ry_nm": "이용/미용",
+    "lg_cat": 7,
+    "lg_cat_nm": "미용",
+    "md_cat": 18,
+    "md_cat_nm": "미용서비스",
+    "sml_cat": 40,
+    "sml_cat_nm": "미용서비스"
+  },
+  "842000": {
+    "mct_ry_nm": "피부미용실",
+    "lg_cat": 7,
+    "lg_cat_nm": "미용",
+    "md_cat": 18,
+    "md_cat_nm": "미용서비스",
+    "sml_cat": 40,
+    "sml_cat_nm": "미용서비스"
+  },
+  "846000": {
+    "mct_ry_nm": "스포츠마사지",
+    "lg_cat": 7,
+    "lg_cat_nm": "미용",
+    "md_cat": 18,
+    "md_cat_nm": "미용서비스",
+    "sml_cat": 40,
+    "sml_cat_nm": "미용서비스"
+  },
+  "847000": {
+    "mct_ry_nm": "체형관리",
+    "lg_cat": 7,
+    "lg_cat_nm": "미용",
+    "md_cat": 18,
+    "md_cat_nm": "미용서비스",
+    "sml_cat": 40,
+    "sml_cat_nm": "미용서비스"
+  },
+  "848000": {
+    "mct_ry_nm": "대중목욕탕",
+    "lg_cat": 7,
+    "lg_cat_nm": "미용",
+    "md_cat": 18,
+    "md_cat_nm": "미용서비스",
+    "sml_cat": 40,
+    "sml_cat_nm": "미용서비스"
+  },
+  "745000": {
+    "mct_ry_nm": "온천장",
+    "lg_cat": 7,
+    "lg_cat_nm": "미용",
+    "md_cat": 18,
+    "md_cat_nm": "미용서비스",
+    "sml_cat": 40,
+    "sml_cat_nm": "미용서비스"
+  },
+  "843000": {
+    "mct_ry_nm": "싸우나탕",
+    "lg_cat": 7,
+    "lg_cat_nm": "미용",
+    "md_cat": 18,
+    "md_cat_nm": "미용서비스",
+    "sml_cat": 40,
+    "sml_cat_nm": "미용서비스"
+  },
+  "672000": {
+    "mct_ry_nm": "화장품",
+    "lg_cat": 7,
+    "lg_cat_nm": "미용",
+    "md_cat": 19,
+    "md_cat_nm": "화장품",
+    "sml_cat": 41,
+    "sml_cat_nm": "화장품"
+  },
+  "844000": {
+    "mct_ry_nm": "미용재료",
+    "lg_cat": 7,
+    "lg_cat_nm": "미용",
+    "md_cat": 19,
+    "md_cat_nm": "화장품",
+    "sml_cat": 41,
+    "sml_cat_nm": "화장품"
+  },
+  "733000": {
+    "mct_ry_nm": "결혼(가례)서비스",
+    "lg_cat": 8,
+    "lg_cat_nm": "가정생활/서비스",
+    "md_cat": 20,
+    "md_cat_nm": "서비스",
+    "sml_cat": 42,
+    "sml_cat_nm": "생활서비스"
+  },
+  "735000": {
+    "mct_ry_nm": "장의사",
+    "lg_cat": 8,
+    "lg_cat_nm": "가정생활/서비스",
+    "md_cat": 20,
+    "md_cat_nm": "서비스",
+    "sml_cat": 42,
+    "sml_cat_nm": "생활서비스"
+  },
+  "738000": {
+    "mct_ry_nm": "상담실(결혼등)",
+    "lg_cat": 8,
+    "lg_cat_nm": "가정생활/서비스",
+    "md_cat": 20,
+    "md_cat_nm": "서비스",
+    "sml_cat": 42,
+    "sml_cat_nm": "생활서비스"
+  },
+  "732000": {
+    "mct_ry_nm": "예식장",
+    "lg_cat": 8,
+    "lg_cat_nm": "가정생활/서비스",
+    "md_cat": 20,
+    "md_cat_nm": "서비스",
+    "sml_cat": 42,
+    "sml_cat_nm": "생활서비스"
+  },
+  "739000": {
+    "mct_ry_nm": "장례식장",
+    "lg_cat": 8,
+    "lg_cat_nm": "가정생활/서비스",
+    "md_cat": 20,
+    "md_cat_nm": "서비스",
+    "sml_cat": 42,
+    "sml_cat_nm": "생활서비스"
+  },
+  "740000": {
+    "mct_ry_nm": "묘지(납골공원등)",
+    "lg_cat": 8,
+    "lg_cat_nm": "가정생활/서비스",
+    "md_cat": 20,
+    "md_cat_nm": "서비스",
+    "sml_cat": 42,
+    "sml_cat_nm": "생활서비스"
+  },
+  "756000": {
+    "mct_ry_nm": "휴대폰수리(결제전용)",
+    "lg_cat": 8,
+    "lg_cat_nm": "가정생활/서비스",
+    "md_cat": 20,
+    "md_cat_nm": "서비스",
+    "sml_cat": 42,
+    "sml_cat_nm": "생활서비스"
+  },
+  "764000": {
+    "mct_ry_nm": "부동산중개",
+    "lg_cat": 8,
+    "lg_cat_nm": "가정생활/서비스",
+    "md_cat": 20,
+    "md_cat_nm": "서비스",
+    "sml_cat": 42,
+    "sml_cat_nm": "생활서비스"
+  },
+  "771000": {
+    "mct_ry_nm": "세탁소",
+    "lg_cat": 8,
+    "lg_cat_nm": "가정생활/서비스",
+    "md_cat": 20,
+    "md_cat_nm": "서비스",
+    "sml_cat": 42,
+    "sml_cat_nm": "생활서비스"
+  },
+  "754000": {
+    "mct_ry_nm": "각종수리점",
+    "lg_cat": 8,
+    "lg_cat_nm": "가정생활/서비스",
+    "md_cat": 20,
+    "md_cat_nm": "서비스",
+    "sml_cat": 42,
+    "sml_cat_nm": "생활서비스"
+  },
+  "755000": {
+    "mct_ry_nm": "열쇠/도장",
+    "lg_cat": 8,
+    "lg_cat_nm": "가정생활/서비스",
+    "md_cat": 20,
+    "md_cat_nm": "서비스",
+    "sml_cat": 42,
+    "sml_cat_nm": "생활서비스"
+  },
+  "662000": {
+    "mct_ry_nm": "인쇄/출판",
+    "lg_cat": 8,
+    "lg_cat_nm": "가정생활/서비스",
+    "md_cat": 20,
+    "md_cat_nm": "서비스",
+    "sml_cat": 43,
+    "sml_cat_nm": "업무서비스"
+  },
+  "663000": {
+    "mct_ry_nm": "광고",
+    "lg_cat": 8,
+    "lg_cat_nm": "가정생활/서비스",
+    "md_cat": 20,
+    "md_cat_nm": "서비스",
+    "sml_cat": 43,
+    "sml_cat_nm": "업무서비스"
+  },
+  "737000": {
+    "mct_ry_nm": "이벤트",
+    "lg_cat": 8,
+    "lg_cat_nm": "가정생활/서비스",
+    "md_cat": 20,
+    "md_cat_nm": "서비스",
+    "sml_cat": 43,
+    "sml_cat_nm": "업무서비스"
+  },
+  "751000": {
+    "mct_ry_nm": "기계/장비임대업",
+    "lg_cat": 8,
+    "lg_cat_nm": "가정생활/서비스",
+    "md_cat": 20,
+    "md_cat_nm": "서비스",
+    "sml_cat": 43,
+    "sml_cat_nm": "업무서비스"
+  },
+  "753000": {
+    "mct_ry_nm": "화물운송업",
+    "lg_cat": 8,
+    "lg_cat_nm": "가정생활/서비스",
+    "md_cat": 20,
+    "md_cat_nm": "서비스",
+    "sml_cat": 43,
+    "sml_cat_nm": "업무서비스"
+  },
+  "761000": {
+    "mct_ry_nm": "법률/사무SVC",
+    "lg_cat": 8,
+    "lg_cat_nm": "가정생활/서비스",
+    "md_cat": 20,
+    "md_cat_nm": "서비스",
+    "sml_cat": 43,
+    "sml_cat_nm": "업무서비스"
+  },
+  "762000": {
+    "mct_ry_nm": "전문서비스(회계/변리/컨설팅등)",
+    "lg_cat": 8,
+    "lg_cat_nm": "가정생활/서비스",
+    "md_cat": 20,
+    "md_cat_nm": "서비스",
+    "sml_cat": 43,
+    "sml_cat_nm": "업무서비스"
+  },
+  "763000": {
+    "mct_ry_nm": "용역서비스(연구/번역등)",
+    "lg_cat": 8,
+    "lg_cat_nm": "가정생활/서비스",
+    "md_cat": 20,
+    "md_cat_nm": "서비스",
+    "sml_cat": 43,
+    "sml_cat_nm": "업무서비스"
+  },
+  "752000": {
+    "mct_ry_nm": "보관/창고업",
+    "lg_cat": 8,
+    "lg_cat_nm": "가정생활/서비스",
+    "md_cat": 20,
+    "md_cat_nm": "서비스",
+    "sml_cat": 43,
+    "sml_cat_nm": "업무서비스"
+  },
+  "768000": {
+    "mct_ry_nm": "부동산임대업댕",
+    "lg_cat": 8,
+    "lg_cat_nm": "가정생활/서비스",
+    "md_cat": 20,
+    "md_cat_nm": "서비스",
+    "sml_cat": 43,
+    "sml_cat_nm": "업무서비스"
+  },
+  "412000": {
+    "mct_ry_nm": "조명및전기자재실내장식",
+    "lg_cat": 8,
+    "lg_cat_nm": "가정생활/서비스",
+    "md_cat": 21,
+    "md_cat_nm": "인테리어",
+    "sml_cat": 44,
+    "sml_cat_nm": "인테리어"
+  },
+  "414000": {
+    "mct_ry_nm": "페인트",
+    "lg_cat": 8,
+    "lg_cat_nm": "가정생활/서비스",
+    "md_cat": 21,
+    "md_cat_nm": "인테리어",
+    "sml_cat": 44,
+    "sml_cat_nm": "인테리어"
+  },
+  "415000": {
+    "mct_ry_nm": "유리/액자/거울",
+    "lg_cat": 8,
+    "lg_cat_nm": "가정생활/서비스",
+    "md_cat": 21,
+    "md_cat_nm": "인테리어",
+    "sml_cat": 44,
+    "sml_cat_nm": "인테리어"
+  },
+  "411000": {
+    "mct_ry_nm": "수예/지물/커텐/카페트",
+    "lg_cat": 8,
+    "lg_cat_nm": "가정생활/서비스",
+    "md_cat": 21,
+    "md_cat_nm": "인테리어",
+    "sml_cat": 44,
+    "sml_cat_nm": "인테리어"
+  },
+  "413000": {
+    "mct_ry_nm": "건설/건축자재",
+    "lg_cat": 8,
+    "lg_cat_nm": "가정생활/서비스",
+    "md_cat": 21,
+    "md_cat_nm": "인테리어",
+    "sml_cat": 44,
+    "sml_cat_nm": "인테리어"
+  },
+  "422000": {
+    "mct_ry_nm": "주방기구및용품/정수기",
+    "lg_cat": 8,
+    "lg_cat_nm": "가정생활/서비스",
+    "md_cat": 21,
+    "md_cat_nm": "인테리어",
+    "sml_cat": 44,
+    "sml_cat_nm": "인테리어"
+  },
+  "982000": {
+    "mct_ry_nm": "종교단체",
+    "lg_cat": 8,
+    "lg_cat_nm": "가정생활/서비스",
+    "md_cat": 22,
+    "md_cat_nm": "각종요금",
+    "sml_cat": 45,
+    "sml_cat_nm": "공과금"
+  },
+  "131000": {
+    "mct_ry_nm": "세금공과금",
+    "lg_cat": 8,
+    "lg_cat_nm": "가정생활/서비스",
+    "md_cat": 22,
+    "md_cat_nm": "각종요금",
+    "sml_cat": 45,
+    "sml_cat_nm": "공과금"
+  },
+  "981000": {
+    "mct_ry_nm": "각종회비",
+    "lg_cat": 8,
+    "lg_cat_nm": "가정생활/서비스",
+    "md_cat": 22,
+    "md_cat_nm": "각종요금",
+    "sml_cat": 45,
+    "sml_cat_nm": "공과금"
+  },
+  "766000": {
+    "mct_ry_nm": "유선TV",
+    "lg_cat": 8,
+    "lg_cat_nm": "가정생활/서비스",
+    "md_cat": 22,
+    "md_cat_nm": "각종요금",
+    "sml_cat": 46,
+    "sml_cat_nm": "통신"
+  },
+  "444000": {
+    "mct_ry_nm": "컴퓨터소프트웨어",
+    "lg_cat": 8,
+    "lg_cat_nm": "가정생활/서비스",
+    "md_cat": 22,
+    "md_cat_nm": "각종요금",
+    "sml_cat": 46,
+    "sml_cat_nm": "통신"
+  },
+  "451000": {
+    "mct_ry_nm": "통신요금(이동/시내전화)",
+    "lg_cat": 8,
+    "lg_cat_nm": "가정생활/서비스",
+    "md_cat": 22,
+    "md_cat_nm": "각종요금",
+    "sml_cat": 46,
+    "sml_cat_nm": "통신"
+  },
+  "452000": {
+    "mct_ry_nm": "통신요금(PC통신/무선호출)",
+    "lg_cat": 8,
+    "lg_cat_nm": "가정생활/서비스",
+    "md_cat": 22,
+    "md_cat_nm": "각종요금",
+    "sml_cat": 46,
+    "sml_cat_nm": "통신"
+  },
+  "721000": {
+    "mct_ry_nm": "생명보험",
+    "lg_cat": 8,
+    "lg_cat_nm": "가정생활/서비스",
+    "md_cat": 22,
+    "md_cat_nm": "각종요금",
+    "sml_cat": 47,
+    "sml_cat_nm": "보험"
+  },
+  "722000": {
+    "mct_ry_nm": "손해보험화재",
+    "lg_cat": 8,
+    "lg_cat_nm": "가정생활/서비스",
+    "md_cat": 22,
+    "md_cat_nm": "각종요금",
+    "sml_cat": 47,
+    "sml_cat_nm": "보험"
+  },
+  "723000": {
+    "mct_ry_nm": "손해보험특종",
+    "lg_cat": 8,
+    "lg_cat_nm": "가정생활/서비스",
+    "md_cat": 22,
+    "md_cat_nm": "각종요금",
+    "sml_cat": 47,
+    "sml_cat_nm": "보험"
+  },
+  "724000": {
+    "mct_ry_nm": "손해보험장기/신규",
+    "lg_cat": 8,
+    "lg_cat_nm": "가정생활/서비스",
+    "md_cat": 22,
+    "md_cat_nm": "각종요금",
+    "sml_cat": 47,
+    "sml_cat_nm": "보험"
+  },
+  "725000": {
+    "mct_ry_nm": "손해보험장기/기존",
+    "lg_cat": 8,
+    "lg_cat_nm": "가정생활/서비스",
+    "md_cat": 22,
+    "md_cat_nm": "각종요금",
+    "sml_cat": 47,
+    "sml_cat_nm": "보험"
+  },
+  "726000": {
+    "mct_ry_nm": "손해보험자동차",
+    "lg_cat": 8,
+    "lg_cat_nm": "가정생활/서비스",
+    "md_cat": 22,
+    "md_cat_nm": "각종요금",
+    "sml_cat": 47,
+    "sml_cat_nm": "보험"
+  },
+  "749000": {
+    "mct_ry_nm": "독서실",
+    "lg_cat": 9,
+    "lg_cat_nm": "교육/학원",
+    "md_cat": 23,
+    "md_cat_nm": "학원",
+    "sml_cat": 48,
+    "sml_cat_nm": "입시보습학원"
+  },
+  "931000": {
+    "mct_ry_nm": "자동차학원",
+    "lg_cat": 9,
+    "lg_cat_nm": "교육/학원",
+    "md_cat": 23,
+    "md_cat_nm": "학원",
+    "sml_cat": 48,
+    "sml_cat_nm": "입시보습학원"
+  },
+  "731000": {
+    "mct_ry_nm": "일반전문학원",
+    "lg_cat": 9,
+    "lg_cat_nm": "교육/학원",
+    "md_cat": 23,
+    "md_cat_nm": "학원",
+    "sml_cat": 49,
+    "sml_cat_nm": "입시/외국어/예체능학원"
+  },
+  "902000": {
+    "mct_ry_nm": "유치원",
+    "lg_cat": 9,
+    "lg_cat_nm": "교육/학원",
+    "md_cat": 24,
+    "md_cat_nm": "유아교육",
+    "sml_cat": 50,
+    "sml_cat_nm": "유아교육"
+  },
+  "901000": {
+    "mct_ry_nm": "학교등록금",
+    "lg_cat": 9,
+    "lg_cat_nm": "교육/학원",
+    "md_cat": 25,
+    "md_cat_nm": "학교등록금",
+    "sml_cat": 51,
+    "sml_cat_nm": "학교등록금"
+  },
+  "664000": {
+    "mct_ry_nm": "학습지",
+    "lg_cat": 9,
+    "lg_cat_nm": "교육/학원",
+    "md_cat": 26,
+    "md_cat_nm": "교육용품",
+    "sml_cat": 52,
+    "sml_cat_nm": "교육용품"
+  },
+  "445000": {
+    "mct_ry_nm": "과학기자재",
+    "lg_cat": 9,
+    "lg_cat_nm": "교육/학원",
+    "md_cat": 26,
+    "md_cat_nm": "교육용품",
+    "sml_cat": 52,
+    "sml_cat_nm": "교육용품"
+  },
+  "446000": {
+    "mct_ry_nm": "교육기자재",
+    "lg_cat": 9,
+    "lg_cat_nm": "교육/학원",
+    "md_cat": 26,
+    "md_cat_nm": "교육용품",
+    "sml_cat": 52,
+    "sml_cat_nm": "교육용품"
+  },
+  "443000": {
+    "mct_ry_nm": "문구용품",
+    "lg_cat": 9,
+    "lg_cat_nm": "교육/학원",
+    "md_cat": 26,
+    "md_cat_nm": "교육용품",
+    "sml_cat": 52,
+    "sml_cat_nm": "교육용품"
+  },
+  "811000": {
+    "mct_ry_nm": "종합병원",
+    "lg_cat": 10,
+    "lg_cat_nm": "의료",
+    "md_cat": 27,
+    "md_cat_nm": "병원",
+    "sml_cat": 53,
+    "sml_cat_nm": "종합병원"
+  },
+  "812000": {
+    "mct_ry_nm": "개인병원",
+    "lg_cat": 10,
+    "lg_cat_nm": "의료",
+    "md_cat": 27,
+    "md_cat_nm": "병원",
+    "sml_cat": 54,
+    "sml_cat_nm": "일반병원"
+  },
+  "815000": {
+    "mct_ry_nm": "응급실운영병원",
+    "lg_cat": 10,
+    "lg_cat_nm": "의료",
+    "md_cat": 27,
+    "md_cat_nm": "병원",
+    "sml_cat": 54,
+    "sml_cat_nm": "일반병원"
+  },
+  "816000": {
+    "mct_ry_nm": "보건소",
+    "lg_cat": 10,
+    "lg_cat_nm": "의료",
+    "md_cat": 27,
+    "md_cat_nm": "병원",
+    "sml_cat": 54,
+    "sml_cat_nm": "일반병원"
+  },
+  "813000": {
+    "mct_ry_nm": "치과병원",
+    "lg_cat": 10,
+    "lg_cat_nm": "의료",
+    "md_cat": 27,
+    "md_cat_nm": "병원",
+    "sml_cat": 55,
+    "sml_cat_nm": "치과병원"
+  },
+  "821000": {
+    "mct_ry_nm": "한의원/한약방",
+    "lg_cat": 10,
+    "lg_cat_nm": "의료",
+    "md_cat": 27,
+    "md_cat_nm": "병원",
+    "sml_cat": 56,
+    "sml_cat_nm": "한의원"
+  },
+  "822000": {
+    "mct_ry_nm": "약국",
+    "lg_cat": 10,
+    "lg_cat_nm": "의료",
+    "md_cat": 28,
+    "md_cat_nm": "약국",
+    "sml_cat": 57,
+    "sml_cat_nm": "약국"
+  },
+  "832000": {
+    "mct_ry_nm": "제약회사",
+    "lg_cat": 10,
+    "lg_cat_nm": "의료",
+    "md_cat": 28,
+    "md_cat_nm": "약국",
+    "sml_cat": 58,
+    "sml_cat_nm": "제약회사"
+  },
+  "824000": {
+    "mct_ry_nm": "산후조리원",
+    "lg_cat": 10,
+    "lg_cat_nm": "의료",
+    "md_cat": 29,
+    "md_cat_nm": "기타의료",
+    "sml_cat": 59,
+    "sml_cat_nm": "기타의료"
+  },
+  "831000": {
+    "mct_ry_nm": "의료기기/건강진단",
+    "lg_cat": 10,
+    "lg_cat_nm": "의료",
+    "md_cat": 29,
+    "md_cat_nm": "기타의료",
+    "sml_cat": 59,
+    "sml_cat_nm": "기타의료"
+  },
+  "823000": {
+    "mct_ry_nm": "접골원",
+    "lg_cat": 10,
+    "lg_cat_nm": "의료",
+    "md_cat": 29,
+    "md_cat_nm": "기타의료",
+    "sml_cat": 59,
+    "sml_cat_nm": "기타의료"
+  },
+  "421000": {
+    "mct_ry_nm": "가전/가전용품",
+    "lg_cat": 11,
+    "lg_cat_nm": "가전/가구",
+    "md_cat": 30,
+    "md_cat_nm": "가전/가구",
+    "sml_cat": 60,
+    "sml_cat_nm": "가전"
+  },
+  "431000": {
+    "mct_ry_nm": "목재가구",
+    "lg_cat": 11,
+    "lg_cat_nm": "가전/가구",
+    "md_cat": 30,
+    "md_cat_nm": "가전/가구",
+    "sml_cat": 61,
+    "sml_cat_nm": "가구"
+  },
+  "432000": {
+    "mct_ry_nm": "철재가구",
+    "lg_cat": 11,
+    "lg_cat_nm": "가전/가구",
+    "md_cat": 30,
+    "md_cat_nm": "가전/가구",
+    "sml_cat": 61,
+    "sml_cat_nm": "가구"
+  },
+  "442000": {
+    "mct_ry_nm": "정보통신기기/컴퓨터",
+    "lg_cat": 11,
+    "lg_cat_nm": "가전/가구",
+    "md_cat": 30,
+    "md_cat_nm": "가전/가구",
+    "sml_cat": 62,
+    "sml_cat_nm": "컴퓨터/휴대폰"
+  },
+  "423000": {
+    "mct_ry_nm": "냉난방기구",
+    "lg_cat": 11,
+    "lg_cat_nm": "가전/가구",
+    "md_cat": 30,
+    "md_cat_nm": "가전/가구",
+    "sml_cat": 63,
+    "sml_cat_nm": "기타가전/가구"
+  },
+  "441000": {
+    "mct_ry_nm": "사무기기",
+    "lg_cat": 11,
+    "lg_cat_nm": "가전/가구",
+    "md_cat": 30,
+    "md_cat_nm": "가전/가구",
+    "sml_cat": 63,
+    "sml_cat_nm": "기타가전/가구"
+  },
+  "424000": {
+    "mct_ry_nm": "자동판매기",
+    "lg_cat": 11,
+    "lg_cat_nm": "가전/가구",
+    "md_cat": 30,
+    "md_cat_nm": "가전/가구",
+    "sml_cat": 63,
+    "sml_cat_nm": "기타가전/가구"
+  },
+  "911000": {
+    "mct_ry_nm": "중고차판매",
+    "lg_cat": 12,
+    "lg_cat_nm": "자동차",
+    "md_cat": 31,
+    "md_cat_nm": "자동차판매",
+    "sml_cat": 64,
+    "sml_cat_nm": "자동차판매"
+  },
+  "912000": {
+    "mct_ry_nm": "신차판매",
+    "lg_cat": 12,
+    "lg_cat_nm": "자동차",
+    "md_cat": 31,
+    "md_cat_nm": "자동차판매",
+    "sml_cat": 64,
+    "sml_cat_nm": "자동차판매"
+  },
+  "951000": {
+    "mct_ry_nm": "오토바이",
+    "lg_cat": 12,
+    "lg_cat_nm": "자동차",
+    "md_cat": 31,
+    "md_cat_nm": "자동차판매",
+    "sml_cat": 64,
+    "sml_cat_nm": "자동차판매"
+  },
+  "913000": {
+    "mct_ry_nm": "수입자동차",
+    "lg_cat": 12,
+    "lg_cat_nm": "자동차",
+    "md_cat": 31,
+    "md_cat_nm": "자동차판매",
+    "sml_cat": 64,
+    "sml_cat_nm": "자동차판매"
+  },
+  "921000": {
+    "mct_ry_nm": "중장비판매/수리",
+    "lg_cat": 12,
+    "lg_cat_nm": "자동차",
+    "md_cat": 31,
+    "md_cat_nm": "자동차판매",
+    "sml_cat": 64,
+    "sml_cat_nm": "자동차판매"
+  },
+  "765000": {
+    "mct_ry_nm": "견인서비스",
+    "lg_cat": 12,
+    "lg_cat_nm": "자동차",
+    "md_cat": 32,
+    "md_cat_nm": "자동차서비스/용품",
+    "sml_cat": 65,
+    "sml_cat_nm": "자동차서비스"
+  },
+  "767000": {
+    "mct_ry_nm": "주차장",
+    "lg_cat": 12,
+    "lg_cat_nm": "자동차",
+    "md_cat": 32,
+    "md_cat_nm": "자동차서비스/용품",
+    "sml_cat": 65,
+    "sml_cat_nm": "자동차서비스"
+  },
+  "742000": {
+    "mct_ry_nm": "정비/세차장/자동차SVC",
+    "lg_cat": 12,
+    "lg_cat_nm": "자동차",
+    "md_cat": 32,
+    "md_cat_nm": "자동차서비스/용품",
+    "sml_cat": 65,
+    "sml_cat_nm": "자동차서비스"
+  },
+  "922000": {
+    "mct_ry_nm": "자동차시트/타이어",
+    "lg_cat": 12,
+    "lg_cat_nm": "자동차",
+    "md_cat": 32,
+    "md_cat_nm": "자동차서비스/용품",
+    "sml_cat": 66,
+    "sml_cat_nm": "자동차용품"
+  },
+  "923000": {
+    "mct_ry_nm": "차량용품/부품",
+    "lg_cat": 12,
+    "lg_cat_nm": "자동차",
+    "md_cat": 32,
+    "md_cat_nm": "자동차서비스/용품",
+    "sml_cat": 66,
+    "sml_cat_nm": "자동차용품"
+  },
+  "941000": {
+    "mct_ry_nm": "주유소",
+    "lg_cat": 13,
+    "lg_cat_nm": "주유",
+    "md_cat": 33,
+    "md_cat_nm": "주유",
+    "sml_cat": 67,
+    "sml_cat_nm": "주유소"
+  },
+  "942000": {
+    "mct_ry_nm": "LPG가스",
+    "lg_cat": 13,
+    "lg_cat_nm": "주유",
+    "md_cat": 33,
+    "md_cat_nm": "주유",
+    "sml_cat": 68,
+    "sml_cat_nm": "LPG"
+  },
+  "261000": {
+    "mct_ry_nm": "전자상거래(다품목취급)",
+    "lg_cat": 14,
+    "lg_cat_nm": "전자상거래",
+    "md_cat": 34,
+    "md_cat_nm": "전자상거래",
+    "sml_cat": 69,
+    "sml_cat_nm": "온라인거래"
+  },
+  "262000": {
+    "mct_ry_nm": "결제대행(PG)",
+    "lg_cat": 14,
+    "lg_cat_nm": "전자상거래",
+    "md_cat": 34,
+    "md_cat_nm": "전자상거래",
+    "sml_cat": 70,
+    "sml_cat_nm": "결제대행(PG)"
+  },
+  "217000": {
+    "mct_ry_nm": "CATV상품판매",
+    "lg_cat": 14,
+    "lg_cat_nm": "전자상거래",
+    "md_cat": 34,
+    "md_cat_nm": "전자상거래",
+    "sml_cat": 71,
+    "sml_cat_nm": "홈쇼핑"
+  },
+  "834000": {
+    "mct_ry_nm": "기계류제조업",
+    "lg_cat": 15,
+    "lg_cat_nm": "기타",
+    "md_cat": 35,
+    "md_cat_nm": "기타",
+    "sml_cat": 72,
+    "sml_cat_nm": "기타"
+  },
+  "836000": {
+    "mct_ry_nm": "기타제조업",
+    "lg_cat": 15,
+    "lg_cat_nm": "기타",
+    "md_cat": 35,
+    "md_cat_nm": "기타",
+    "sml_cat": 72,
+    "sml_cat_nm": "기타"
+  },
+  "191000": {
+    "mct_ry_nm": "기타1",
+    "lg_cat": 15,
+    "lg_cat_nm": "기타",
+    "md_cat": 35,
+    "md_cat_nm": "기타",
+    "sml_cat": 72,
+    "sml_cat_nm": "기타"
+  },
+  "192000": {
+    "mct_ry_nm": "기타2",
+    "lg_cat": 15,
+    "lg_cat_nm": "기타",
+    "md_cat": 35,
+    "md_cat_nm": "기타",
+    "sml_cat": 72,
+    "sml_cat_nm": "기타"
+  },
+  "272000": {
+    "mct_ry_nm": "복권판매",
+    "lg_cat": 15,
+    "lg_cat_nm": "기타",
+    "md_cat": 35,
+    "md_cat_nm": "기타",
+    "sml_cat": 72,
+    "sml_cat_nm": "기타"
+  },
+  "291000": {
+    "mct_ry_nm": "기타1",
+    "lg_cat": 15,
+    "lg_cat_nm": "기타",
+    "md_cat": 35,
+    "md_cat_nm": "기타",
+    "sml_cat": 72,
+    "sml_cat_nm": "기타"
+  },
+  "292000": {
+    "mct_ry_nm": "기타2",
+    "lg_cat": 15,
+    "lg_cat_nm": "기타",
+    "md_cat": 35,
+    "md_cat_nm": "기타",
+    "sml_cat": 72,
+    "sml_cat_nm": "기타"
+  },
+  "391000": {
+    "mct_ry_nm": "기타1",
+    "lg_cat": 15,
+    "lg_cat_nm": "기타",
+    "md_cat": 35,
+    "md_cat_nm": "기타",
+    "sml_cat": 72,
+    "sml_cat_nm": "기타"
+  },
+  "392000": {
+    "mct_ry_nm": "기타2",
+    "lg_cat": 15,
+    "lg_cat_nm": "기타",
+    "md_cat": 35,
+    "md_cat_nm": "기타",
+    "sml_cat": 72,
+    "sml_cat_nm": "기타"
+  },
+  "491000": {
+    "mct_ry_nm": "기타1",
+    "lg_cat": 15,
+    "lg_cat_nm": "기타",
+    "md_cat": 35,
+    "md_cat_nm": "기타",
+    "sml_cat": 72,
+    "sml_cat_nm": "기타"
+  },
+  "492000": {
+    "mct_ry_nm": "기타2",
+    "lg_cat": 15,
+    "lg_cat_nm": "기타",
+    "md_cat": 35,
+    "md_cat_nm": "기타",
+    "sml_cat": 72,
+    "sml_cat_nm": "기타"
+  },
+  "591000": {
+    "mct_ry_nm": "기타1",
+    "lg_cat": 15,
+    "lg_cat_nm": "기타",
+    "md_cat": 35,
+    "md_cat_nm": "기타",
+    "sml_cat": 72,
+    "sml_cat_nm": "기타"
+  },
+  "592000": {
+    "mct_ry_nm": "기타2",
+    "lg_cat": 15,
+    "lg_cat_nm": "기타",
+    "md_cat": 35,
+    "md_cat_nm": "기타",
+    "sml_cat": 72,
+    "sml_cat_nm": "기타"
+  },
+  "665000": {
+    "mct_ry_nm": "회원제",
+    "lg_cat": 15,
+    "lg_cat_nm": "기타",
+    "md_cat": 35,
+    "md_cat_nm": "기타",
+    "sml_cat": 72,
+    "sml_cat_nm": "기타"
+  },
+  "691000": {
+    "mct_ry_nm": "기타1",
+    "lg_cat": 15,
+    "lg_cat_nm": "기타",
+    "md_cat": 35,
+    "md_cat_nm": "기타",
+    "sml_cat": 72,
+    "sml_cat_nm": "기타"
+  },
+  "692000": {
+    "mct_ry_nm": "기타2",
+    "lg_cat": 15,
+    "lg_cat_nm": "기타",
+    "md_cat": 35,
+    "md_cat_nm": "기타",
+    "sml_cat": 72,
+    "sml_cat_nm": "기타"
+  },
+  "791000": {
+    "mct_ry_nm": "기타1",
+    "lg_cat": 15,
+    "lg_cat_nm": "기타",
+    "md_cat": 35,
+    "md_cat_nm": "기타",
+    "sml_cat": 72,
+    "sml_cat_nm": "기타"
+  },
+  "792000": {
+    "mct_ry_nm": "기타2",
+    "lg_cat": 15,
+    "lg_cat_nm": "기타",
+    "md_cat": 35,
+    "md_cat_nm": "기타",
+    "sml_cat": 72,
+    "sml_cat_nm": "기타"
+  },
+  "891000": {
+    "mct_ry_nm": "기타1",
+    "lg_cat": 15,
+    "lg_cat_nm": "기타",
+    "md_cat": 35,
+    "md_cat_nm": "기타",
+    "sml_cat": 72,
+    "sml_cat_nm": "기타"
+  },
+  "892000": {
+    "mct_ry_nm": "기타2",
+    "lg_cat": 15,
+    "lg_cat_nm": "기타",
+    "md_cat": 35,
+    "md_cat_nm": "기타",
+    "sml_cat": 72,
+    "sml_cat_nm": "기타"
+  },
+  "983000": {
+    "mct_ry_nm": "무속/철학관",
+    "lg_cat": 15,
+    "lg_cat_nm": "기타",
+    "md_cat": 35,
+    "md_cat_nm": "기타",
+    "sml_cat": 72,
+    "sml_cat_nm": "기타"
+  },
+  "991000": {
+    "mct_ry_nm": "기타1",
+    "lg_cat": 15,
+    "lg_cat_nm": "기타",
+    "md_cat": 35,
+    "md_cat_nm": "기타",
+    "sml_cat": 72,
+    "sml_cat_nm": "기타"
+  },
+  "992000": {
+    "mct_ry_nm": "기타2",
+    "lg_cat": 15,
+    "lg_cat_nm": "기타",
+    "md_cat": 35,
+    "md_cat_nm": "기타",
+    "sml_cat": 72,
+    "sml_cat_nm": "기타"
+  },
+  "533000": {
+    "mct_ry_nm": "자석요",
+    "lg_cat": 15,
+    "lg_cat_nm": "기타",
+    "md_cat": 35,
+    "md_cat_nm": "기타",
+    "sml_cat": 72,
+    "sml_cat_nm": "기타"
+  },
+  "769000": {
+    "mct_ry_nm": "신한그룹사비용지급",
+    "lg_cat": 15,
+    "lg_cat_nm": "기타",
+    "md_cat": 35,
+    "md_cat_nm": "기타",
+    "sml_cat": 72,
+    "sml_cat_nm": "기타"
+  }
+}
