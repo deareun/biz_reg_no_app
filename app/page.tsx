@@ -32,6 +32,15 @@ import {
 import { useToast } from '@/hooks/use-toast'
 import { InquiryResult, Categories } from '@/lib/types'
 
+const TELECOM_FIELD_MAPPING: Record<string, string> = {
+  bzmnNm: '사업자명', bzmnRgsSttusSeNm: '등록상태', lctnAddr: '지번주소',
+  lctnRnAddr: '도로명주소', dclrDate: '신고일자', telno: '전화번호',
+  domncn: '도메인', ntslMthdCn: '판매방식', ntslPrdlstCn: '판매물품',
+  operSttusCdNm: '운영상태', corpYnNm: '법인여부', crno: '법인등록번호',
+  ctpvNm: '시도명', rprsvEmladr: '대표이메일', prcsDeptNm: '처리부서명',
+  prmmiYr: '허가개시년도', lctnRnOzip: '우편번호',
+}
+
 interface SortConfig {
   column: string | null
   ascending: boolean
@@ -70,6 +79,130 @@ const IQ_MAPPING_FIELDS = [
   { value: 'mct_ry_cd', label: '가맹점업종코드' }, { value: 'mct_ry_nm', label: '가맹점업종명' },
   { value: 'hpsn_mct_zcd', label: '초개인화업종코드' }, { value: 'hpsn_mct_nm', label: '초개인화업종명' },
 ]
+
+function KVTable({ data }: { data: Record<string, any> }) {
+  return (
+    <table style={{ width: '100%', borderCollapse: 'collapse', fontSize: '0.8rem' }}>
+      <tbody>
+        {Object.entries(data).map(([k, v]) => (
+          <tr key={k}>
+            <th style={{ width: '35%', color: '#8b8b94', fontWeight: 500, background: '#f5f5f4', padding: '3px 6px', borderBottom: '1px solid #ebe9f1', textAlign: 'left', fontSize: '0.75rem' }}>{k}</th>
+            <td style={{ padding: '3px 6px', borderBottom: '1px solid #ebe9f1', wordBreak: 'break-word' }}>
+              {typeof v === 'object' && v !== null ? JSON.stringify(v) : String(v ?? '')}
+            </td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  )
+}
+
+function SourceBlock({ title, children }: { title: string; children: React.ReactNode }) {
+  return (
+    <div style={{ background: '#fff', border: '1px solid #ebe9f1', borderRadius: 8, padding: 10, height: '100%' }}>
+      <div style={{ fontWeight: 600, fontSize: '0.8125rem', marginBottom: 6, color: 'oklch(0.457 0.24 277.023)' }}>{title}</div>
+      {children}
+    </div>
+  )
+}
+
+function ResultDetailContent({ result }: { result: any }) {
+  const brno = result.brno || ''
+  const api = result.api || {}
+  const crawl = result.crawl
+
+  const biznoBlock = () => {
+    const src = api.bizno
+    if (!src) return <p style={{ color: '#8b8b94', textAlign: 'center' }}>조회 안 됨</p>
+    if (!src.success) return <p style={{ color: '#dc2626' }}>{src.error || '조회 실패'}</p>
+    if (!src.found) return <p style={{ color: '#8b8b94', textAlign: 'center' }}>검색 결과 없음</p>
+    const matched = (src.items || []).filter((item: any) =>
+      (item['사업자등록번호'] || item.bizno || '').replace(/\D/g, '') === brno
+    )
+    if (matched.length === 0) return <p style={{ color: '#8b8b94', textAlign: 'center' }}>조회값 없음</p>
+    return <>{matched.map((item: any, i: number) => <KVTable key={i} data={item} />)}</>
+  }
+
+  const govBlock = () => {
+    const src = api.gov
+    if (!src) return <p style={{ color: '#8b8b94', textAlign: 'center' }}>조회 안 됨</p>
+    if (!src.success) return <p style={{ color: '#dc2626' }}>{src.error || '조회 실패'}</p>
+    if (!src.found) return <p style={{ color: '#8b8b94', textAlign: 'center' }}>검색 결과 없음</p>
+    const items = (src.items || []).map((item: any) => {
+      const m: Record<string, any> = {}
+      Object.entries(item).forEach(([k, v]) => { m[TELECOM_FIELD_MAPPING[k] || k] = v })
+      return m
+    })
+    return <>{items.map((item: any, i: number) => <KVTable key={i} data={item} />)}</>
+  }
+
+  const crawlBlock = () => {
+    if (!crawl) return <p style={{ color: '#8b8b94', textAlign: 'center' }}>조회 안 됨</p>
+    if (!crawl.success) return <p style={{ color: '#dc2626' }}>{crawl.error || '조회 실패'}</p>
+    if (!crawl.found) return <p style={{ color: '#8b8b94', textAlign: 'center' }}>검색 결과 없음</p>
+    if (crawl.search) {
+      const cb = (crawl.search['사업자번호'] || crawl.search.bizno || '').replace(/\D/g, '')
+      if (cb && cb !== brno) return <p style={{ color: '#8b8b94', textAlign: 'center' }}>조회값 없음</p>
+    }
+    const search = crawl.search || {}
+    const detail = crawl.detail || {}
+    const detailRows: Record<string, any> = {}
+    const catOrder = ['대분류', '중분류', '소분류', '세분류', '세세분류']
+    const cat = detail['국세청산업분류']
+    if (cat && typeof cat === 'object') {
+      catOrder.forEach(c => { if (cat[c]) detailRows[`국세청산업분류 - ${c}`] = cat[c] })
+    }
+    Object.entries(detail).forEach(([k, v]) => { if (k !== '국세청산업분류') detailRows[k] = v })
+    return (
+      <>
+        {Object.keys(search).length > 0 && <><div style={{ fontSize: '0.75rem', color: '#8b8b94', fontWeight: 600, marginBottom: 4 }}>검색 결과</div><KVTable data={search} /></>}
+        {Object.keys(detailRows).length > 0 && <><div style={{ fontSize: '0.75rem', color: '#8b8b94', fontWeight: 600, margin: '8px 0 4px' }}>상세 정보</div><KVTable data={detailRows} /></>}
+      </>
+    )
+  }
+
+  const mappingBlock = () => {
+    const m = result.mapping
+    if (!m || (!m.mct_ry_cd?.code && !m.hpsn_mct_zcd?.code)) {
+      return <p style={{ color: '#8b8b94', textAlign: 'center' }}>없음</p>
+    }
+    return (
+      <>
+        {m.mct_ry_cd?.code && (
+          <div style={{ marginBottom: 8 }}>
+            <div style={{ fontSize: '0.75rem', color: '#8b8b94', fontWeight: 600, marginBottom: 2 }}>가맹점원장업종</div>
+            <div style={{ fontSize: '0.8rem', fontWeight: 600 }}>{m.mct_ry_cd.code}</div>
+            <div style={{ fontSize: '0.8rem', color: '#555' }}>{m.mct_ry_cd.name}</div>
+          </div>
+        )}
+        {m.hpsn_mct_zcd?.code && (
+          <div style={{ marginBottom: 8 }}>
+            <div style={{ fontSize: '0.75rem', color: '#8b8b94', fontWeight: 600, marginBottom: 2 }}>초개인화업종</div>
+            <div style={{ fontSize: '0.8rem', fontWeight: 600 }}>{m.hpsn_mct_zcd.code}</div>
+            <div style={{ fontSize: '0.8rem', color: '#555' }}>{m.hpsn_mct_zcd.name}</div>
+          </div>
+        )}
+        {m.reasoning && (
+          <div style={{ marginTop: 8, padding: 8, background: '#f5f5f4', borderRadius: 6, fontSize: '0.75rem', color: '#555', lineHeight: 1.5 }}>
+            <div style={{ fontWeight: 600, color: '#8b8b94', marginBottom: 4 }}>매핑사유</div>
+            <div style={{ whiteSpace: 'pre-wrap' }}>{m.reasoning}</div>
+          </div>
+        )}
+      </>
+    )
+  }
+
+  return (
+    <div style={{ padding: 12, background: '#f5f5f4', borderTop: '1px solid #ebe9f1' }}>
+      <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr 1fr', gridTemplateRows: 'auto 1fr', gap: 8, minHeight: 180 }}>
+        <div style={{ gridColumn: 1, gridRow: 1 }}><SourceBlock title="Bizno API">{biznoBlock()}</SourceBlock></div>
+        <div style={{ gridColumn: 2, gridRow: '1 / 3' }}><SourceBlock title="통신판매업">{govBlock()}</SourceBlock></div>
+        <div style={{ gridColumn: 1, gridRow: 2 }}><SourceBlock title="Bizno 크롤링">{crawlBlock()}</SourceBlock></div>
+        <div style={{ gridColumn: 3, gridRow: '1 / 3' }}><SourceBlock title="업종매핑">{mappingBlock()}</SourceBlock></div>
+      </div>
+    </div>
+  )
+}
 
 export default function HomePage() {
   // 입력 상태
@@ -862,60 +995,9 @@ export default function HomePage() {
                         </td>
                       </tr>
                       {isExp && (
-                        <tr key={`detail-${result.brno}`} style={{ background: '#f9f9f9' }}>
-                          <td colSpan={performCategoryMapping ? 11 : 9} style={{ padding: 12, borderBottom: '1px solid #ebe9f1' }}>
-                            <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(240px, 1fr))', gap: 12 }}>
-                              {result.api?.bizno?.found && result.api.bizno.items?.[0] && (
-                                <div style={{ background: '#fff', border: '1px solid #ebe9f1', borderRadius: 8, padding: 10 }}>
-                                  <div style={{ fontWeight: 600, fontSize: '0.8125rem', marginBottom: 6, color: 'oklch(0.457 0.24 277.023)' }}>Bizno API</div>
-                                  {Object.entries(result.api.bizno.items[0]).map(([k, v]) => (
-                                    <div key={k} style={{ fontSize: '0.8rem', display: 'flex', gap: 4, borderBottom: '1px solid #f0f0f0', padding: '2px 0' }}>
-                                      <span style={{ color: '#8b8b94', minWidth: 80 }}>{k}</span>
-                                      <span>{String(v ?? '')}</span>
-                                    </div>
-                                  ))}
-                                </div>
-                              )}
-                              {result.crawl?.found && result.crawl.search && (
-                                <div style={{ background: '#fff', border: '1px solid #ebe9f1', borderRadius: 8, padding: 10 }}>
-                                  <div style={{ fontWeight: 600, fontSize: '0.8125rem', marginBottom: 6, color: 'oklch(0.457 0.24 277.023)' }}>Bizno 크롤링</div>
-                                  {Object.entries(result.crawl.search).map(([k, v]) => (
-                                    <div key={k} style={{ fontSize: '0.8rem', display: 'flex', gap: 4, borderBottom: '1px solid #f0f0f0', padding: '2px 0' }}>
-                                      <span style={{ color: '#8b8b94', minWidth: 80 }}>{k}</span>
-                                      <span>{String(v ?? '')}</span>
-                                    </div>
-                                  ))}
-                                </div>
-                              )}
-                              {result.api?.gov?.found && result.api.gov.items?.[0] && (
-                                <div style={{ background: '#fff', border: '1px solid #ebe9f1', borderRadius: 8, padding: 10 }}>
-                                  <div style={{ fontWeight: 600, fontSize: '0.8125rem', marginBottom: 6, color: 'oklch(0.457 0.24 277.023)' }}>통신판매업</div>
-                                  {Object.entries(result.api.gov.items[0]).slice(0, 8).map(([k, v]) => (
-                                    <div key={k} style={{ fontSize: '0.8rem', display: 'flex', gap: 4, borderBottom: '1px solid #f0f0f0', padding: '2px 0' }}>
-                                      <span style={{ color: '#8b8b94', minWidth: 80 }}>{k}</span>
-                                      <span>{String(v ?? '')}</span>
-                                    </div>
-                                  ))}
-                                </div>
-                              )}
-                              {result.mapping && (
-                                <div style={{ background: '#f0f0ff', border: '1px solid #c7d2fe', borderRadius: 8, padding: 10 }}>
-                                  <div style={{ fontWeight: 600, fontSize: '0.8125rem', marginBottom: 6, color: '#4338ca' }}>업종매핑</div>
-                                  {result.mapping.mct_ry_cd && (
-                                    <div style={{ fontSize: '0.8rem', marginBottom: 4 }}>
-                                      <span style={{ color: '#8b8b94' }}>가맹점원장: </span>
-                                      <span style={{ fontWeight: 500 }}>{result.mapping.mct_ry_cd.code} - {result.mapping.mct_ry_cd.name}</span>
-                                    </div>
-                                  )}
-                                  {result.mapping.hpsn_mct_zcd && (
-                                    <div style={{ fontSize: '0.8rem' }}>
-                                      <span style={{ color: '#8b8b94' }}>초개인화: </span>
-                                      <span style={{ fontWeight: 500 }}>{result.mapping.hpsn_mct_zcd.code} - {result.mapping.hpsn_mct_zcd.name}</span>
-                                    </div>
-                                  )}
-                                </div>
-                              )}
-                            </div>
+                        <tr key={`detail-${result.brno}`}>
+                          <td colSpan={performCategoryMapping ? 11 : 9} style={{ padding: 0, border: 'none' }}>
+                            <ResultDetailContent result={result} />
                           </td>
                         </tr>
                       )}
