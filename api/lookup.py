@@ -14,7 +14,8 @@ BIZNO_API_KEY = os.environ.get("bizno_API_Key", "")
 NAVER_CLIENT_ID = os.environ.get("NAVER_CLIENT_ID", "")
 NAVER_CLIENT_SECRET = os.environ.get("NAVER_CLIENT_SECRET", "")
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "")
-GOV_API_KEY = os.environ.get("GOV_API_KEY", "")
+GOV_API_KEY_DECODED = os.environ.get("gov_API_key_decoded", "")
+GOV_API_KEY_ENCODED = os.environ.get("gov_API_key_encoded", "")
 GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-1.5-flash")
 
 BIZNO_URL = "https://bizno.net/api/fapi"
@@ -331,19 +332,25 @@ def query_bizno(brno: str) -> dict:
 
 
 def query_gov(brno: str) -> dict:
-    if not GOV_API_KEY:
-        return {"success": False, "error": "GOV_API_KEY가 환경변수에 설정되지 않았습니다."}
+    if not GOV_API_KEY_DECODED and not GOV_API_KEY_ENCODED:
+        return {"success": False, "error": "gov_API_key가 환경변수에 설정되지 않았습니다."}
 
     params = {
         "pageNo": "1",
         "numOfRows": "100",
         "resultType": "json",
         "brno": brno,
-        "serviceKey": GOV_API_KEY,
     }
 
     try:
-        response = requests.get(GOV_URL, params=params, timeout=20)
+        if GOV_API_KEY_DECODED:
+            params["serviceKey"] = GOV_API_KEY_DECODED
+            response = requests.get(GOV_URL, params=params, timeout=20)
+        else:
+            from urllib.parse import urlencode
+            query = urlencode(params)
+            url = f"{GOV_URL}?serviceKey={GOV_API_KEY_ENCODED}&{query}"
+            response = requests.get(url, timeout=20)
         if response.status_code == 403:
             return {
                 "success": False,
