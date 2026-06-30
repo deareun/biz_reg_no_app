@@ -410,63 +410,12 @@ def query_gov(brno: str) -> dict:
 
 
 def query_ftc(brno: str) -> dict:
-    """FTC 가맹사업 정보 조회 (공개 API — DB 없음)"""
-    FTC_URL = "https://franchise.ftc.go.kr/api/search.do"
-    try:
-        for year in [2025, 2024, 2023]:
-            params = {
-                "pageNo": "1",
-                "numOfRows": "20",
-                "brno": brno,
-                "jng_biz_crtra_yr": str(year),
-            }
-            resp = requests.get(FTC_URL, params=params, timeout=15)
-            if not resp.ok:
-                continue
-            try:
-                data = resp.json()
-            except Exception:
-                continue
-
-            items_raw = data.get("items") or data.get("data") or []
-            if isinstance(items_raw, dict):
-                items_raw = [items_raw]
-
-            if not items_raw:
-                continue
-
-            first = items_raw[0]
-            headquarters = {
-                "법인명": first.get("corp_nm") or first.get("법인명", ""),
-                "가맹본부관리번호": first.get("jng_hdqrtrs_mnno") or first.get("가맹본부관리번호", ""),
-            }
-
-            brands = []
-            for item in items_raw:
-                brands.append({
-                    "브랜드관리번호": item.get("brand_mnno") or item.get("브랜드관리번호", ""),
-                    "브랜드명": item.get("brand_nm") or item.get("브랜드명", ""),
-                    "산업대분류": item.get("induty_lclas_nm") or item.get("산업대분류", ""),
-                    "산업중분류": item.get("induty_mlsfc_nm") or item.get("산업중분류", ""),
-                    "주요상품": item.get("majr_gds_nm") or item.get("주요상품", ""),
-                    "가맹개시일자": item.get("jng_biz_strt_date") or item.get("가맹개시일자", ""),
-                })
-
-            return {
-                "success": True,
-                "found": True,
-                "year": year,
-                "가맹본부": headquarters,
-                "브랜드": brands,
-            }
-
-        return {
-            "success": True,
-            "found": False,
-            "message": "가맹사업정보가 없습니다.",
-        }
-    except Exception as e:
-        return {"success": False, "error": f"FTC 조회 실패: {str(e)}"}
+    """FTC 가맹사업 정보 — Vercel 버전은 DB 없이 운영되므로 미지원"""
+    return {
+        "success": True,
+        "found": False,
+        "message": "가맹사업 조회는 지원되지 않습니다.",
+    }
 
 
 def extract_company_name(bizno_result, crawl_result, gov_result) -> str:
