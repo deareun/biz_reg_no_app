@@ -90,6 +90,8 @@ export default function HomePage() {
     ascending: true,
   })
 
+  const [emailAddress, setEmailAddress] = useState('')
+
   // 모달 상태
   const [isDataModalOpen, setIsDataModalOpen] = useState(false)
   const [mappingModalState, setMappingModalState] = useState<MappingModalState>({
@@ -527,6 +529,41 @@ export default function HomePage() {
     }
   }
 
+  const handleSendEmail = async () => {
+    if (!emailAddress.trim()) { alert('메일 주소를 입력해주세요.'); return }
+    const emails = emailAddress.split(';').map(e => e.trim()).filter(e => e.includes('@'))
+    if (!emails.length) { alert('유효한 메일 주소가 없습니다.'); return }
+    if (!selectedBiznoFields.length && !selectedCrawlFields.length && !selectedTeleFields.length && !selectedMappingFields.length) {
+      alert('선택된 필드가 없습니다.'); return
+    }
+    setIsModalLoading(true)
+    let successCount = 0, failCount = 0
+    const dataToSend = excludeErrors
+      ? allResults.filter(r => r.api?.bizno?.success !== false || r.api?.gov?.success !== false || r.crawl?.success !== false)
+      : allResults
+    for (const email of emails) {
+      try {
+        const res = await fetch('/api/send-email', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({
+            email, data: dataToSend,
+            bizno_fields: selectedBiznoFields, tele_fields: selectedTeleFields,
+            crawl_fields: selectedCrawlFields, mapping_fields: selectedMappingFields,
+          }),
+        })
+        const json = await res.json()
+        json.success ? successCount++ : failCount++
+      } catch { failCount++ }
+    }
+    setIsModalLoading(false)
+    saveDataPrefs()
+    alert(failCount === 0
+      ? `메일 발송 완료 (${successCount}명, ${dataToSend.length}건)`
+      : `발송 결과: 성공 ${successCount}명, 실패 ${failCount}명`)
+    if (!failCount) { setIsDataModalOpen(false); setEmailAddress('') }
+  }
+
   const iqToggle = (val: string, arr: string[], set: (a: string[]) => void) =>
     set(arr.includes(val) ? arr.filter(v => v !== val) : [...arr, val])
 
@@ -939,6 +976,21 @@ export default function HomePage() {
                 </div>
               </div>
             )}
+            <div style={{ marginBottom: 16 }}>
+              <label style={{ fontWeight: 600, fontSize: '0.875rem', display: 'block', marginBottom: 8 }}>메일로 받기</label>
+              <div style={{ display: 'flex', gap: 8 }}>
+                <input
+                  type="text"
+                  value={emailAddress}
+                  onChange={e => setEmailAddress(e.target.value)}
+                  placeholder="email@example.com; email2@example.com (세미콜론으로 구분)"
+                  style={{ flex: 1, padding: '8px 12px', border: '1px solid #ebe9f1', borderRadius: 6, fontSize: '0.875rem', outline: 'none' }}
+                />
+                <button onClick={handleSendEmail} disabled={isModalLoading} style={iqBtnStyle(isModalLoading)}>
+                  📧 메일 발송
+                </button>
+              </div>
+            </div>
             <div style={{ display: 'flex', gap: 8, justifyContent: 'flex-end' }}>
               <button onClick={handleDownloadCSV} disabled={isModalLoading} style={iqBtnStyle(isModalLoading)}>
                 CSV 다운로드
